@@ -1,5 +1,5 @@
 ---
-title: "Sablona: Obchodni nabidka"
+title: "Šablona: Obchodní nabídka"
 type: template
 status: ai-generated
 version: "0.1"
@@ -8,106 +8,106 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [template, sales, proposal]
 domain: sales
-summary: "Sablona pro tvorbu obchodnich nabidek"
+summary: "Šablona pro tvorbu obchodních nabídek"
 ---
 
-# Sablona: Obchodni nabidka
+# Šablona: Obchodní nabídka
 
-## Pouziti
+## Použití
 
-Tuto sablonu pouzijte pri tvorbe nabidek pro klienty. Viz [proces tvorby nabidek](../../processes/sales/proposal-creation.md).
+Tuto šablonu použijte při tvorbě nabídek pro klienty. Viz [proces tvorby nabídek](../../processes/sales/proposal-creation.md).
 
-## Sablona
+## Šablona
 
 ---
 
-### NABIDKA
+### NABÍDKA
 
 **Datum**: DD.MM.YYYY
 
-**Cislo nabidky**: SEN-YYYY-NNN
+**Číslo nabídky**: SEN-YYYY-NNN
 
-**Platnost nabidky**: TODO dni
+**Platnost nabídky**: TODO dní
 
 ---
 
-### 1. Uvod
+### 1. Úvod
 
-Vazeny/a [JMENO],
+Vážený/á [JMÉNO],
 
-dekujeme za moznost pripravit pro Vas tuto nabidku. Na zaklade naseho jednani dne [DATUM] jsme pripravili nasledujici navrh reseni.
+děkujeme za možnost připravit pro Vás tuto nabídku. Na základě našeho jednání dne [DATUM] jsme připravili následující návrh řešení.
 
-### 2. Porozumeni Vasi situaci
+### 2. Porozumění Vaší situaci
 
-[Shrhnuti situace klienta, jeho problemu a potreb. Ukazat, ze jsme pochopili, o co jde.]
+[Shrnutí situace klienta, jeho problémů a potřeb. Ukázat, že jsme pochopili, o co jde.]
 
-### 3. Navrzene reseni
+### 3. Navržené řešení
 
-[Popis navrhovaneho reseni. Co postavime / dodame a jak to resi problem klienta.]
+[Popis navrhovaného řešení. Co postavíme / dodáme a jak to řeší problém klienta.]
 
-#### 3.1 Rozsah prace
+#### 3.1 Rozsah práce
 
-| Polozka | Popis |
+| Položka | Popis |
 |---------|-------|
-| [Polozka 1] | [Popis] |
-| [Polozka 2] | [Popis] |
+| [Položka 1] | [Popis] |
+| [Položka 2] | [Popis] |
 
-#### 3.2 Co neni soucasti
+#### 3.2 Co není součástí
 
-[Jasne definovat, co neni v rozsahu nabidky.]
+[Jasně definovat, co není v rozsahu nabídky.]
 
-### 4. Casovy harmonogram
+### 4. Časový harmonogram
 
-| Faze | Delka | Termin |
+| Fáze | Délka | Termín |
 |------|-------|--------|
-| [Faze 1] | [Delka] | [Od-Do] |
-| [Faze 2] | [Delka] | [Od-Do] |
+| [Fáze 1] | [Délka] | [Od-Do] |
+| [Fáze 2] | [Délka] | [Od-Do] |
 
-**Predpokladany termin dokonceni**: [DATUM]
+**Předpokládaný termín dokončení**: [DATUM]
 
 ### 5. Cena
 
-| Polozka | Cena bez DPH |
+| Položka | Cena bez DPH |
 |---------|-------------|
-| [Polozka 1] | [Cena] Kc |
-| [Polozka 2] | [Cena] Kc |
-| **Celkem** | **[Cena] Kc** |
+| [Položka 1] | [Cena] Kč |
+| [Položka 2] | [Cena] Kč |
+| **Celkem** | **[Cena] Kč** |
 
-DPH bude uctovana dle platne sazby.
+DPH bude účtována dle platné sazby.
 
-#### Platebni podminky
+#### Platební podmínky
 
-- Zalohova faktura: [X]% pred zahajenim praci
-- Konecna faktura: po predani a akceptaci
-- Splatnost: [X] dni
+- Zálohová faktura: [X]% před zahájením prací
+- Konečná faktura: po předání a akceptaci
+- Splatnost: [X] dní
 
-### 6. Proc Sensio.cz
+### 6. Proč Sensio.cz
 
-- [Hlavni argument 1]
-- [Hlavni argument 2]
-- [Hlavni argument 3]
+- [Hlavní argument 1]
+- [Hlavní argument 2]
+- [Hlavní argument 3]
 
-### 7. Dalsi kroky
+### 7. Další kroky
 
-1. [Dalsi krok 1]
-2. [Dalsi krok 2]
+1. [Další krok 1]
+2. [Další krok 2]
 
 ---
 
 **Sensio.cz s.r.o.**
-Na Hrazi 1139/13, 750 02 Prerov
-ICO: 04004621
+Na Hrázi 1139/13, 750 02 Přerov
+IČO: 04004621
 
-Kontakt: [JMENO, EMAIL, TELEFON]
+Kontakt: [JMÉNO, EMAIL, TELEFON]
 
 ---
 
-## Checklist nabidky
+## Checklist nabídky
 
-- [ ] Situace klienta odpovida discovery
-- [ ] Reseni je technicke proveditelne
-- [ ] Cena je kalkulovana a schvalena
-- [ ] Harmonogram je realisticky
-- [ ] Podmínky jsou jasne
-- [ ] Pravopis a gramatika zkontrolovany
-- [ ] Schvaleno jednatelem
+- [ ] Situace klienta odpovídá discovery
+- [ ] Řešení je technicky proveditelné
+- [ ] Cena je kalkulována a schválena
+- [ ] Harmonogram je realistický
+- [ ] Podmínky jsou jasné
+- [ ] Pravopis a gramatika zkontrolovány
+- [ ] Schváleno jednatelem

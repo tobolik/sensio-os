@@ -8,112 +8,112 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [sales, discovery, framework, process]
 domain: sales
-summary: "4fazovy discovery framework se segmentove specifickymi otazkami"
+summary: "4fázový discovery framework se segmentově specifickými otázkami"
 ---
 
 # Discovery framework
 
-## Prehled
+## Přehled
 
-4fazovy framework pro discovery hovory s potencialnimi klienty. Kazda faze ma jasny cil a sadu otazek prizpusobenych segmentu.
+4fázový framework pro discovery hovory s potenciálními klienty. Každá fáze má jasný cíl a sadu otázek přizpůsobených segmentu.
 
-## Faze 1: Porozumeni kontextu
+## Fáze 1: Porozumění kontextu
 
-**Cil**: Pochopit, kdo klient je, co dela a v jakem kontextu operuje.
+**Cíl**: Pochopit, kdo klient je, co dělá a v jakém kontextu operuje.
 
-### Univerzalni otazky
-1. Povidte nam o vasi organizaci / firme.
-2. Kolik mate zamestnancu / uzivatelu?
-3. Jake nastroje / systemy aktualne pouzivate?
-4. Kdo je hlavni rozhodovatel pro tento typ projektu?
+### Univerzální otázky
+1. Povězte nám o vaší organizaci / firmě.
+2. Kolik máte zaměstnanců / uživatelů?
+3. Jaké nástroje / systémy aktuálně používáte?
+4. Kdo je hlavní rozhodovatel pro tento typ projektu?
 
-### Segmentove specificke otazky
+### Segmentově specifické otázky
 
-#### ZUS
-- Kolik mate zaku a v kolika oborech?
-- Jaky system aktualne pouzivate pro administraci?
-- Jak komunikujete s rodici?
-- Ucastnite se krajskych/celostatnich soutezi?
+#### ZUŠ
+- Kolik máte žáků a v kolika oborech?
+- Jaký systém aktuálně používáte pro administraci?
+- Jak komunikujete s rodiči?
+- Účastníte se krajských/celostátních soutěží?
 
 #### B2B firmy
-- Jaky je vas hlavni business?
-- Ktere procesy jsou aktualne nejvice manualni?
-- Mate interni IT oddeleni?
-- Jake systemy aktualne pouzivate?
+- Jaký je váš hlavní business?
+- Které procesy jsou aktuálně nejvíce manuální?
+- Máte interní IT oddělení?
+- Jaké systémy aktuálně používáte?
 
 #### 3D tisk / MyCello
 - Hrajete na violoncello? Jak dlouho?
-- Co vas motivuje k zajmu o alternativni material?
-- Cestujete s nastrojem?
-- Jaky je vas rozpocet?
+- Co vás motivuje k zájmu o alternativní materiál?
+- Cestujete s nástrojem?
+- Jaký je váš rozpočet?
 
-## Faze 2: Identifikace bolesti
+## Fáze 2: Identifikace bolesti
 
-**Cil**: Pochopit, co klienta trapi a co ho motivuje ke zmene.
+**Cíl**: Pochopit, co klienta trápí a co ho motivuje ke změně.
 
-### Univerzalni otazky
-1. Co je vas nejvetsi problem v teto oblasti?
-2. Jak vas tento problem ovlivnuje (cas, penize, kvalita)?
-3. Co jste uz zkouseli?
-4. Proc to nefungovalo?
+### Univerzální otázky
+1. Co je váš největší problém v této oblasti?
+2. Jak vás tento problém ovlivňuje (čas, peníze, kvalita)?
+3. Co jste už zkoušeli?
+4. Proč to nefungovalo?
 
-### Segmentove specificke otazky
+### Segmentově specifické otázky
 
-#### ZUS
-- Co vas nejvice zdrzuje v kazdodenni praci?
-- Jak ressite situace, kdyz rodic potrebuje informaci?
-- Kolik casu tyden stravite administrativou?
-- Co by se stalo, kdyby tento problem pretrvavall?
-
-#### B2B firmy
-- Kolik casu vas tým travi na manualních procesech?
-- Jake chyby vznikaji kvuli aktualnimu reseni?
-- Kolik vas aktualni stav stoji (penize, cas, prilezitosti)?
-- Co by se zmenilo, kdybyste meli idealni reseni?
-
-## Faze 3: Definice reseni
-
-**Cil**: Navrhnout, jak muzeme pomoci, a overit shodu s ocekavanim klienta.
-
-### Univerzalni otazky
-1. Kdybychom mohli vyresit jeden problem, ktery by to byl?
-2. Jak by vypadal idealní stav?
-3. Jake jsou vase must-have pozadavky?
-4. Jake jsou nice-to-have?
-5. Jaky je vas casovy ramec?
-
-### Segmentove specificke otazky
-
-#### ZUS
-- Ktere moduly iZUS by pro vas byly nejdulezitejsi?
-- Potrebujete migraci dat ze stavajiciho systemu?
-- Kolik uzivatelu bude system pouzivat?
+#### ZUŠ
+- Co vás nejvíce zdržuje v každodenní práci?
+- Jak řešíte situace, když rodič potřebuje informaci?
+- Kolik času týdně strávíte administrativou?
+- Co by se stalo, kdyby tento problém přetrvával?
 
 #### B2B firmy
-- Mate specifikaci nebo alespon seznam pozadavku?
-- Jake integrace s existujicimi systemy potrebujete?
-- Kdo bude koncovym uzivatelem?
+- Kolik času váš tým tráví na manuálních procesech?
+- Jaké chyby vznikají kvůli aktuálnímu řešení?
+- Kolik vás aktuální stav stojí (peníze, čas, příležitosti)?
+- Co by se změnilo, kdybyste měli ideální řešení?
 
-## Faze 4: Kvalifikace a dalsi kroky
+## Fáze 3: Definice řešení
 
-**Cil**: Overit, ze je to dobry fit, a domluvit dalsi kroky.
+**Cíl**: Navrhnout, jak můžeme pomoci, a ověřit shodu s očekáváním klienta.
 
-### Univerzalni otazky
-1. Jaky je vas rozpocet pro tento projekt?
-2. Kdo dalsi se bude ucastnit rozhodovani?
-3. Jaky je vas idealni casovy ramec pro rozhodnuti?
-4. Co je dalsi krok, ktery by pro vas davall smysl?
+### Univerzální otázky
+1. Kdybychom mohli vyřešit jeden problém, který by to byl?
+2. Jak by vypadal ideální stav?
+3. Jaké jsou vaše must-have požadavky?
+4. Jaké jsou nice-to-have?
+5. Jaký je váš časový rámec?
 
-### Kvalifikacni kriteria (interni)
-- [ ] Odpovida nasemu ICP? (viz [ideal-client-profile.md](../../context/clients/ideal-client-profile.md))
-- [ ] Mame kapacitu?
-- [ ] Je to financne zajimave?
+### Segmentově specifické otázky
+
+#### ZUŠ
+- Které moduly iZUŠ by pro vás byly nejdůležitější?
+- Potřebujete migraci dat ze stávajícího systému?
+- Kolik uživatelů bude systém používat?
+
+#### B2B firmy
+- Máte specifikaci nebo alespoň seznam požadavků?
+- Jaké integrace s existujícími systémy potřebujete?
+- Kdo bude koncovým uživatelem?
+
+## Fáze 4: Kvalifikace a další kroky
+
+**Cíl**: Ověřit, že je to dobrý fit, a domluvit další kroky.
+
+### Univerzální otázky
+1. Jaký je váš rozpočet pro tento projekt?
+2. Kdo další se bude účastnit rozhodování?
+3. Jaký je váš ideální časový rámec pro rozhodnutí?
+4. Co je další krok, který by pro vás dával smysl?
+
+### Kvalifikační kritéria (interní)
+- [ ] Odpovídá našemu ICP? (viz [ideal-client-profile.md](../../context/clients/ideal-client-profile.md))
+- [ ] Máme kapacitu?
+- [ ] Je to finančně zajímavé?
 - [ ] Je to strategicky v souladu? (viz [evaluation criteria](../../context/evaluation/criteria.md))
 
-## Vystup discovery
+## Výstup discovery
 
 Po discovery hovoru vznikne:
-1. **Poznamky z hovoru** — shrnutí klicovych bodu
-2. **Kvalifikacni hodnoceni** — go/no-go
-3. **Navrh dalsich kroku** — nabidka, demo, dalsi hovor
-4. **Nabidka** — pokud je to relevantni (viz [proposal-creation.md](proposal-creation.md))
+1. **Poznámky z hovoru** — shrnutí klíčových bodů
+2. **Kvalifikační hodnocení** — go/no-go
+3. **Návrh dalších kroků** — nabídka, demo, další hovor
+4. **Nabídka** — pokud je to relevantní (viz [proposal-creation.md](proposal-creation.md))

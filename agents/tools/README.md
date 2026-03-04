@@ -1,7 +1,7 @@
 # agents/tools/
 
-Inventar AI nastroju pouzivanych ve firme Sensio.cz.
+Inventář AI nástrojů používaných ve firmě Sensio.cz.
 
 ## Obsah
 
-- [tool-inventory.md](tool-inventory.md) — Kompletni inventar AI nastroju
+- [tool-inventory.md](tool-inventory.md) — Kompletní inventář AI nástrojů

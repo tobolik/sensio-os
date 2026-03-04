@@ -1,5 +1,5 @@
 ---
-title: "ADR-001: Git+Markdown misto Notion/Wiki"
+title: "ADR-001: Git+Markdown místo Notion/Wiki"
 type: decision
 status: ai-generated
 version: "0.1"
@@ -8,78 +8,78 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [adr, architecture, tooling]
 domain: infrastructure
-summary: "Rozhodnuti pouzit Git repozitar s Markdown soubory jako zaklad Business OS"
+summary: "Rozhodnutí použít Git repozitář s Markdown soubory jako základ Business OS"
 ---
 
-# ADR-001: Git+Markdown misto Notion/Wiki
+# ADR-001: Git+Markdown místo Notion/Wiki
 
 ## Status
 
-Navrhovano (proposed)
+Navrhováno (proposed)
 
 ## Kontext
 
-Potrebujeme centralni misto pro firemni znalosti, procesy, sablony a strategicke dokumenty. Zvazovali jsme nekolik pristupu:
+Potřebujeme centrální místo pro firemní znalosti, procesy, šablony a strategické dokumenty. Zvažovali jsme několik přístupů:
 
-1. **Notion** — popularni all-in-one workspace
-2. **Confluence / Wiki** — tradicni firemni wiki
-3. **Git repozitar + Markdown** — verzovane soubory v Gitu
-4. **Google Docs** — sdilene dokumenty
+1. **Notion** — populární all-in-one workspace
+2. **Confluence / Wiki** — tradiční firemní wiki
+3. **Git repozitář + Markdown** — verzované soubory v Gitu
+4. **Google Docs** — sdílené dokumenty
 
-## Rozhodnuti
+## Rozhodnutí
 
-Pouzivame **Git repozitar s Markdown soubory** jako zaklad Business OS.
+Používáme **Git repozitář s Markdown soubory** jako základ Business OS.
 
-## Duvody
+## Důvody
 
 ### Pro Git+Markdown
 
-1. **Verzovani** — kompletni historie zmien, moznost vratit se k jakékoliv verzi
-2. **Review proces** — Pull Requesty umoznuji strukturovany review
-3. **AI-ready** — Markdown soubory jsou idealni pro praci s AI agenty (CLAUDE.md)
-4. **Developer-friendly** — tym uz pracuje s Gitem denne
-5. **Vlastnictvi dat** — data jsou nase, zadna zavislost na SaaS poskytovateli
-6. **Offline pristup** — funguje bez pripojeni k internetu
-7. **Automatizace** — moznost automatizovat validaci, generovani a publikovani
-8. **Structured frontmatter** — YAML frontmatter umoznuje strojove zpracovani
+1. **Verzování** — kompletní historie změn, možnost vrátit se k jakékoliv verzi
+2. **Review proces** — Pull Requesty umožňují strukturovaný review
+3. **AI-ready** — Markdown soubory jsou ideální pro práci s AI agenty (CLAUDE.md)
+4. **Developer-friendly** — tým už pracuje s Gitem denně
+5. **Vlastnictví dat** — data jsou naše, žádná závislost na SaaS poskytovateli
+6. **Offline přístup** — funguje bez připojení k internetu
+7. **Automatizace** — možnost automatizovat validaci, generování a publikování
+8. **Structured frontmatter** — YAML frontmatter umožňuje strojové zpracování
 
 ### Proti Notion
 
-1. **Vendor lock-in** — data jsou v proprietarnim formatu
-2. **Omezeny export** — ztracite formatovani a strukturu
-3. **Cena** — plati se za uzivatele
-4. **AI integrace** — omezene moznosti pro custom AI agenty
-5. **Verzovani** — omezena historie zmen
+1. **Vendor lock-in** — data jsou v proprietárním formátu
+2. **Omezený export** — ztrácíte formátování a strukturu
+3. **Cena** — platí se za uživatele
+4. **AI integrace** — omezené možnosti pro custom AI agenty
+5. **Verzování** — omezená historie změn
 
 ### Proti Confluence
 
-1. **Slozitost** — overengineered pro malou firmu
-2. **Cena** — vyssi naklady
-3. **UX** — pomaly a neohrabany editor
+1. **Složitost** — overengineered pro malou firmu
+2. **Cena** — vyšší náklady
+3. **UX** — pomalý a neohrabaný editor
 
 ### Proti Google Docs
 
-1. **Struktura** — tezke udrzet konzistentni strukturu
-2. **Verzovani** — neprehledne
-3. **AI integrace** — omezene
+1. **Struktura** — těžké udržet konzistentní strukturu
+2. **Verzování** — nepřehledné
+3. **AI integrace** — omezené
 
-## Dusledky
+## Důsledky
 
 ### Pozitivní
-- Tym muze vyuzivat znamy workflow (git add, commit, push, PR)
-- AI agent muze cist a upravovat soubory primo
-- Moznost automatizovat validaci frontmatteru
+- Tým může využívat známý workflow (git add, commit, push, PR)
+- AI agent může číst a upravovat soubory přímo
+- Možnost automatizovat validaci frontmatteru
 - Kompletní audit trail
 
-### Negativni
-- Vyzaduje zakladni znalost Gitu a Markdownu
-- Mene vizualne atraktivni nez Notion
-- Neni tak pristupny pro ne-technicke cleny tymu
-- Chybi real-time spolueditace
+### Negativní
+- Vyžaduje základní znalost Gitu a Markdownu
+- Méně vizuálně atraktivní než Notion
+- Není tak přístupný pro netechnické členy týmu
+- Chybí real-time spoluedirace
 
-## Zmirnovani rizik
+## Zmírňování rizik
 
-- Vytvorit srozumitelne konvence ([conventions.md](../../docs/conventions.md))
-- Poskytnout sablony pro bezne typy dokumentu
-- Zvazit GitHub Pages pro publikovani obsahu
-- Poskytnout skoleni pro ne-technicke cleny tymu
+- Vytvořit srozumitelné konvence ([conventions.md](../../docs/conventions.md))
+- Poskytnout šablony pro běžné typy dokumentů
+- Zvážit GitHub Pages pro publikování obsahu
+- Poskytnout školení pro netechnické členy týmu

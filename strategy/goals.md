@@ -1,5 +1,5 @@
 ---
-title: "Strategicke cile Sensio.cz"
+title: "Strategické cíle Sensio.cz"
 type: strategy
 status: ai-generated
 version: "0.1"
@@ -8,44 +8,44 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [goals, okr, strategy]
 domain: strategy
-summary: "Strategicke cile a OKR pro aktualni obdobi"
+summary: "Strategické cíle a OKR pro aktuální období"
 ---
 
-# Strategicke cile
+# Strategické cíle
 
-## Obdobi: TODO
+## Období: TODO
 
-### Cil 1: Rust zakaznicke zakladny iZUS
+### Cíl 1: Růst zákaznické základny iZUŠ
 
-**Klicove vysledky:**
-- [ ] Ziskat TODO novych skol
-- [ ] Dosahnout NPS > TODO
-- [ ] Snizit churn rate na < TODO %
+**Klíčové výsledky:**
+- [ ] Získat TODO nových škol
+- [ ] Dosáhnout NPS > TODO
+- [ ] Snížit churn rate na < TODO %
 
-### Cil 2: Systematizace B2B obchodu
+### Cíl 2: Systematizace B2B obchodu
 
-**Klicove vysledky:**
+**Klíčové výsledky:**
 - [ ] Implementovat discovery framework
-- [ ] Vytvorit TODO nabidek za kvartal
-- [ ] Dosahnout conversion rate > TODO %
-- [ ] Ziskat TODO novych B2B klientu
+- [ ] Vytvořit TODO nabídek za kvartál
+- [ ] Dosáhnout conversion rate > TODO %
+- [ ] Získat TODO nových B2B klientů
 
-### Cil 3: Komercializace MyCello
+### Cíl 3: Komercializace MyCello
 
-**Klicove vysledky:**
-- [ ] Spustit online prodejni kanal
-- [ ] Prodat TODO kusu
-- [ ] Ziskat TODO medialnich zmineni
+**Klíčové výsledky:**
+- [ ] Spustit online prodejní kanál
+- [ ] Prodat TODO kusů
+- [ ] Získat TODO mediálních zmínění
 
-### Cil 4: Posileni tymu a procesu
+### Cíl 4: Posílení týmu a procesů
 
-**Klicove vysledky:**
-- [ ] Doplnit Business OS o vsechna klicova data
-- [ ] Implementovat TODO klicovych procesu
-- [ ] TODO — dalsi cile tymu
+**Klíčové výsledky:**
+- [ ] Doplnit Business OS o všechna klíčová data
+- [ ] Implementovat TODO klíčových procesů
+- [ ] TODO — další cíle týmu
 
 ## Review proces
 
-- **Frekvence**: TODO (mesicne / kvartalne)
-- **Format**: TODO
-- **Ucastnici**: TODO
+- **Frekvence**: TODO (měsíčně / kvartálně)
+- **Formát**: TODO
+- **Účastníci**: TODO

@@ -1,5 +1,5 @@
 ---
-title: "Proces tvorby nabidek"
+title: "Proces tvorby nabídek"
 type: process
 status: ai-generated
 version: "0.1"
@@ -8,88 +8,88 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [sales, proposal, process]
 domain: sales
-summary: "Proces tvorby obchodnich nabidek od sběru pozadavku po odeslani"
+summary: "Proces tvorby obchodních nabídek od sběru požadavků po odeslání"
 ---
 
-# Proces tvorby nabidek
+# Proces tvorby nabídek
 
-## Prehled
+## Přehled
 
-Strukturovany proces pro tvorbu nabidek, ktery zajistuje konzistentni kvalitu a relevanci.
+Strukturovaný proces pro tvorbu nabídek, který zajišťuje konzistentní kvalitu a relevanci.
 
-## Predpoklady
+## Předpoklady
 
-- Probehlo discovery (viz [discovery-framework.md](discovery-framework.md))
-- Klient je kvalifikovan (go rozhodnuti)
-- Jsou k dispozici poznamky z discovery
+- Proběhlo discovery (viz [discovery-framework.md](discovery-framework.md))
+- Klient je kvalifikován (go rozhodnutí)
+- Jsou k dispozici poznámky z discovery
 
 ## Proces
 
-### Krok 1: Priprava
+### Krok 1: Příprava
 
-**Vstup**: Poznamky z discovery hovoru
+**Vstup**: Poznámky z discovery hovoru
 
-**Ulohy**:
-1. Projit poznamky z discovery
-2. Identifikovat klicove bolesti a pozadavky klienta
-3. Overit technickou proveditelnost s tymem
-4. Odhadnout rozsah a casovou narocnost
+**Úlohy**:
+1. Projít poznámky z discovery
+2. Identifikovat klíčové bolesti a požadavky klienta
+3. Ověřit technickou proveditelnost s týmem
+4. Odhadnout rozsah a časovou náročnost
 
-**Vystup**: Interni brief s odhadem
+**Výstup**: Interní brief s odhadem
 
-### Krok 2: Tvorba nabidky
+### Krok 2: Tvorba nabídky
 
-**Vstup**: Interni brief
+**Vstup**: Interní brief
 
-**Ulohy**:
-1. Pouzit [sablonu nabidky](../../templates/sales/proposal-template.md)
-2. Vyplnit vsechny sekce:
+**Úlohy**:
+1. Použít [šablonu nabídky](../../templates/sales/proposal-template.md)
+2. Vyplnit všechny sekce:
    - Shrnutí situace klienta
-   - Navrzene reseni
-   - Rozsah prace
-   - Casovy harmonogram
+   - Navržené řešení
+   - Rozsah práce
+   - Časový harmonogram
    - Cena
-   - Podminky
-3. Prizpusobit jazyk a ton segmentu klienta
+   - Podmínky
+3. Přizpůsobit jazyk a tón segmentu klienta
 
-**Vystup**: Draft nabidky
+**Výstup**: Draft nabídky
 
-### Krok 3: Interni review
+### Krok 3: Interní review
 
-**Vstup**: Draft nabidky
+**Vstup**: Draft nabídky
 
-**Ulohy**:
+**Úlohy**:
 1. Kontrola technické proveditelnosti
-2. Kontrola financni stránky (marze, rentabilita)
-3. Kontrola pravnich aspektu (podminky, SLA)
+2. Kontrola finanční stránky (marže, rentabilita)
+3. Kontrola právních aspektů (podmínky, SLA)
 4. Kontrola konzistence a pravopisu
 
-**Kdo**: Jednatel + relevantni clen tymu
+**Kdo**: Jednatel + relevantní člen týmu
 
-**Vystup**: Schvalena nabidka
+**Výstup**: Schválená nabídka
 
-### Krok 4: Odeslani a follow-up
+### Krok 4: Odeslání a follow-up
 
-**Vstup**: Schvalena nabidka
+**Vstup**: Schválená nabídka
 
-**Ulohy**:
-1. Odeslat nabidku klientovi (email, PDF)
-2. Naplanovat follow-up (za TODO dni)
-3. Odpovedet na dotazy klienta
-4. Pripadne upravit nabidku dle zpetne vazby
+**Úlohy**:
+1. Odeslat nabídku klientovi (email, PDF)
+2. Naplánovat follow-up (za TODO dní)
+3. Odpovědět na dotazy klienta
+4. Případně upravit nabídku dle zpětné vazby
 
-**Vystup**: Rozhodnuti klienta (prijeto / odmitnuto / k upraven)
+**Výstup**: Rozhodnutí klienta (přijato / odmítnuto / k úpravě)
 
-## Casovy ramec
+## Časový rámec
 
-| Krok | Delka |
+| Krok | Délka |
 |------|-------|
-| Priprava | 1-2 dny |
-| Tvorba nabidky | 2-3 dny |
-| Interni review | 1 den |
-| Odeslani | Ihned po schvaleni |
-| Follow-up | Za TODO dnu |
+| Příprava | 1-2 dny |
+| Tvorba nabídky | 2-3 dny |
+| Interní review | 1 den |
+| Odeslání | Ihned po schválení |
+| Follow-up | Za TODO dnů |
 
-## Sablona
+## Šablona
 
-Pouzivejte [sablonu nabidky](../../templates/sales/proposal-template.md).
+Používejte [šablonu nabídky](../../templates/sales/proposal-template.md).

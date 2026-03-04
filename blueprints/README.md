@@ -1,8 +1,8 @@
 # blueprints/
 
-Blueprinty a architektonicke plany firmy Sensio.cz.
+Blueprinty a architektonické plány firmy Sensio.cz.
 
-## Podslozky
+## Podsložky
 
-- [infrastructure/](infrastructure/) — Infrastrukturni architektura
-- [solutions/](solutions/) — Katalog reseni a architektonickych vzoru
+- [infrastructure/](infrastructure/) — Infrastrukturní architektura
+- [solutions/](solutions/) — Katalog řešení a architektonických vzorů

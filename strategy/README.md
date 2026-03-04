@@ -1,10 +1,10 @@
 # strategy/
 
-Strategicke dokumenty firmy Sensio.cz — vize, roadmapa, cile a architektonicka rozhodnuti.
+Strategické dokumenty firmy Sensio.cz — vize, roadmapa, cíle a architektonická rozhodnutí.
 
 ## Obsah
 
-- [vision.md](vision.md) — Mise, vize a strategicke pilire
-- [roadmap.md](roadmap.md) — Roadmapa s milniky
-- [goals.md](goals.md) — Strategicke cile a OKR
+- [vision.md](vision.md) — Mise, vize a strategické pilíře
+- [roadmap.md](roadmap.md) — Roadmapa s milníky
+- [goals.md](goals.md) — Strategické cíle a OKR
 - [decisions/](decisions/) — Architecture Decision Records (ADR)

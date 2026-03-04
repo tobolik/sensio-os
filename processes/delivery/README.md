@@ -1,8 +1,8 @@
 # processes/delivery/
 
-Procesy dodavky a onboardingu klientu firmy Sensio.cz.
+Procesy dodávky a onboardingu klientů firmy Sensio.cz.
 
 ## Obsah
 
-- [onboarding.md](onboarding.md) — Onboarding klientu pro kazdou produktovou radu
-- [project-delivery.md](project-delivery.md) — Proces dodavky projektu
+- [onboarding.md](onboarding.md) — Onboarding klientů pro každou produktovou řadu
+- [project-delivery.md](project-delivery.md) — Proces dodávky projektu

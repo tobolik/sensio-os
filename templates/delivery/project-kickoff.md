@@ -1,5 +1,5 @@
 ---
-title: "Sablona: Kickoff projektu"
+title: "Šablona: Kickoff projektu"
 type: template
 status: ai-generated
 version: "0.1"
@@ -8,93 +8,93 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [template, delivery, kickoff, project]
 domain: delivery
-summary: "Sablona pro kickoff meeting projektu"
+summary: "Šablona pro kickoff meeting projektu"
 ---
 
-# Sablona: Kickoff projektu
+# Šablona: Kickoff projektu
 
-## Pouziti
+## Použití
 
-Tuto sablonu pouzijte pri zahajeni kazdeho noveho projektu. Viz [proces dodavky](../../processes/delivery/project-delivery.md).
+Tuto šablonu použijte při zahájení každého nového projektu. Viz [proces dodávky](../../processes/delivery/project-delivery.md).
 
-## Sablona
+## Šablona
 
 ---
 
-### KICKOFF — [NAZEV PROJEKTU]
+### KICKOFF — [NÁZEV PROJEKTU]
 
 **Datum**: DD.MM.YYYY
 
-**Ucastnici**:
-- Sensio.cz: [JMENA]
-- Klient: [JMENA]
+**Účastníci**:
+- Sensio.cz: [JMÉNA]
+- Klient: [JMÉNA]
 
 ---
 
-### 1. Cile projektu
+### 1. Cíle projektu
 
-| Cil | Priorita | Meritelny vysledek |
+| Cíl | Priorita | Měřitelný výsledek |
 |-----|----------|-------------------|
-| [Cil 1] | Must-have | [Jak pozname, ze je splneno] |
-| [Cil 2] | Must-have | [Jak pozname, ze je splneno] |
-| [Cil 3] | Nice-to-have | [Jak pozname, ze je splneno] |
+| [Cíl 1] | Must-have | [Jak poznáme, že je splněno] |
+| [Cíl 2] | Must-have | [Jak poznáme, že je splněno] |
+| [Cíl 3] | Nice-to-have | [Jak poznáme, že je splněno] |
 
 ### 2. Rozsah projektu
 
 #### V rozsahu
-- [Co je soucasti projektu]
+- [Co je součástí projektu]
 
 #### Mimo rozsah
-- [Co neni soucasti projektu]
+- [Co není součástí projektu]
 
 ### 3. Harmonogram
 
-| Faze | Delka | Termin | Zodpovednost |
+| Fáze | Délka | Termín | Zodpovědnost |
 |------|-------|--------|-------------|
-| Analyza | [Delka] | [Od-Do] | [Kdo] |
-| Vyvoj | [Delka] | [Od-Do] | [Kdo] |
-| Testovani | [Delka] | [Od-Do] | [Kdo] |
-| Nasazeni | [Delka] | [Od-Do] | [Kdo] |
+| Analýza | [Délka] | [Od-Do] | [Kdo] |
+| Vývoj | [Délka] | [Od-Do] | [Kdo] |
+| Testování | [Délka] | [Od-Do] | [Kdo] |
+| Nasazení | [Délka] | [Od-Do] | [Kdo] |
 
-### 4. Kontaktni osoby
+### 4. Kontaktní osoby
 
-| Role | Jmeno | Email | Telefon |
+| Role | Jméno | Email | Telefon |
 |------|-------|-------|---------|
-| Projektovy manazer (Sensio) | [Jmeno] | [Email] | [Tel] |
-| Hlavni vyvojar (Sensio) | [Jmeno] | [Email] | [Tel] |
-| Kontakt (klient) | [Jmeno] | [Email] | [Tel] |
-| Rozhodovatel (klient) | [Jmeno] | [Email] | [Tel] |
+| Projektový manažer (Sensio) | [Jméno] | [Email] | [Tel] |
+| Hlavní vývojář (Sensio) | [Jméno] | [Email] | [Tel] |
+| Kontakt (klient) | [Jméno] | [Email] | [Tel] |
+| Rozhodovatel (klient) | [Jméno] | [Email] | [Tel] |
 
 ### 5. Komunikace
 
-| Co | Frekvence | Format | Ucastnici |
+| Co | Frekvence | Formát | Účastníci |
 |---|-----------|--------|-----------|
-| Status update | [Frekvence] | [Format] | [Kdo] |
-| Demo | [Frekvence] | [Format] | [Kdo] |
-| Eskalace | Ad hoc | [Format] | [Kdo] |
+| Status update | [Frekvence] | [Formát] | [Kdo] |
+| Demo | [Frekvence] | [Formát] | [Kdo] |
+| Eskalace | Ad hoc | [Formát] | [Kdo] |
 
-### 6. Nastroje
+### 6. Nástroje
 
-| Nastroj | Ucel | Pristup |
+| Nástroj | Účel | Přístup |
 |---------|------|---------|
-| GitHub | Verzovani kodu | [Kdo ma pristup] |
-| [Nastroj] | Projektove rizeni | [Kdo ma pristup] |
-| [Nastroj] | Komunikace | [Kdo ma pristup] |
+| GitHub | Verzování kódu | [Kdo má přístup] |
+| [Nástroj] | Projektové řízení | [Kdo má přístup] |
+| [Nástroj] | Komunikace | [Kdo má přístup] |
 
 ### 7. Rizika
 
-| Riziko | Pravdepodobnost | Dopad | Opatreni |
+| Riziko | Pravděpodobnost | Dopad | Opatření |
 |--------|----------------|-------|----------|
-| [Riziko 1] | [N/S/V] | [N/S/V] | [Opatreni] |
-| [Riziko 2] | [N/S/V] | [N/S/V] | [Opatreni] |
+| [Riziko 1] | [N/S/V] | [N/S/V] | [Opatření] |
+| [Riziko 2] | [N/S/V] | [N/S/V] | [Opatření] |
 
-### 8. Dalsi kroky
+### 8. Další kroky
 
-- [ ] [Krok 1] — [Kdo] — [Termin]
-- [ ] [Krok 2] — [Kdo] — [Termin]
-- [ ] [Krok 3] — [Kdo] — [Termin]
+- [ ] [Krok 1] — [Kdo] — [Termín]
+- [ ] [Krok 2] — [Kdo] — [Termín]
+- [ ] [Krok 3] — [Kdo] — [Termín]
 
 ---
 
-**Zapsal**: [JMENO]
+**Zapsal**: [JMÉNO]
 **Datum**: [DATUM]

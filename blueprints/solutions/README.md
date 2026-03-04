@@ -1,7 +1,7 @@
 # blueprints/solutions/
 
-Katalog reseni a architektonickych vzoru firmy Sensio.cz.
+Katalog řešení a architektonických vzorů firmy Sensio.cz.
 
 ## Obsah
 
-- [_index.md](_index.md) — Katalog reseni
+- [_index.md](_index.md) — Katalog řešení

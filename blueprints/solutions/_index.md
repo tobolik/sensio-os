@@ -1,5 +1,5 @@
 ---
-title: "Katalog reseni"
+title: "Katalog řešení"
 type: blueprint
 status: ai-generated
 version: "0.1"
@@ -8,47 +8,47 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [solutions, catalog, blueprint]
 domain: solutions
-summary: "Katalog reseni a architektonickych vzoru"
+summary: "Katalog řešení a architektonických vzorů"
 ---
 
-# Katalog reseni
+# Katalog řešení
 
-## Prehled
+## Přehled
 
-Katalog overených reseni a architektonickych vzoru, ktere pouzivame v projektech Sensio.cz.
+Katalog ověřených řešení a architektonických vzorů, které používáme v projektech Sensio.cz.
 
-## Softwarova reseni
+## Softwarová řešení
 
-### SaaS aplikace (iZUS vzor)
+### SaaS aplikace (iZUŠ vzor)
 
-| Aspekt | Reseni |
+| Aspekt | Řešení |
 |--------|--------|
-| Architektura | Monoliticka Laravel aplikace s Vue.js frontendem |
+| Architektura | Monolitická Laravel aplikace s Vue.js frontendem |
 | Multi-tenancy | TODO (schema-based / row-based / instance-based) |
 | Autentizace | TODO |
 | Autorizace | TODO (role-based) |
 | API | TODO (REST / GraphQL) |
-| Databaze | PostgreSQL |
+| Databáze | PostgreSQL |
 | Cache | TODO |
 | Queue | TODO |
 | Deployment | Docker |
 
-### Webova aplikace na miru (B2B PRO vzor)
+### Webová aplikace na míru (B2B PRO vzor)
 
-| Aspekt | Reseni |
+| Aspekt | Řešení |
 |--------|--------|
 | Architektura | Laravel + Vue.js (SPA nebo SSR) |
 | Autentizace | TODO |
 | API | REST API |
-| Databaze | PostgreSQL |
+| Databáze | PostgreSQL |
 | Deployment | Docker |
 | Monitoring | TODO |
 
-## Infrastrukturni reseni
+## Infrastrukturní řešení
 
 ### Hosting
 
-| Aspekt | Reseni |
+| Aspekt | Řešení |
 |--------|--------|
 | Provider | TODO |
 | Kontejnerizace | Docker |
@@ -57,28 +57,28 @@ Katalog overených reseni a architektonickych vzoru, ktere pouzivame v projektec
 | Monitoring | TODO |
 | Backup | TODO |
 
-### Bezpecnost
+### Bezpečnost
 
-| Aspekt | Reseni |
+| Aspekt | Řešení |
 |--------|--------|
 | SSL/TLS | TODO |
 | WAF | TODO |
 | DDoS ochrana | TODO |
-| Penetracni testy | TODO |
+| Penetrační testy | TODO |
 | GDPR | TODO |
 
-## Procesni reseni
+## Procesní řešení
 
-| Proces | Reseni |
+| Proces | Řešení |
 |--------|--------|
-| Projektove rizeni | TODO |
+| Projektové řízení | TODO |
 | Komunikace | TODO |
-| Dokumentace | Git + Markdown (tento repozitar) |
+| Dokumentace | Git + Markdown (tento repozitář) |
 | Fakturace | TODO |
 
-## Jak pridat nove reseni
+## Jak přidat nové řešení
 
-1. Vytvor novy soubor v teto slozce
-2. Pouzij frontmatter s `type: blueprint`
-3. Popis problem, reseni, alternativy a duvody
-4. Pridej odkaz do tohoto indexu
+1. Vytvoř nový soubor v této složce
+2. Použij frontmatter s `type: blueprint`
+3. Popiš problém, řešení, alternativy a důvody
+4. Přidej odkaz do tohoto indexu

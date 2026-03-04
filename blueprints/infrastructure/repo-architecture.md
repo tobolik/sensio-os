@@ -1,5 +1,5 @@
 ---
-title: "Architektura repozitare Business OS"
+title: "Architektura repozitáře Business OS"
 type: blueprint
 status: ai-generated
 version: "0.1"
@@ -8,107 +8,107 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [architecture, repository, blueprint]
 domain: infrastructure
-summary: "Architektura repozitare Sensio.cz Business OS"
+summary: "Architektura repozitáře Sensio.cz Business OS"
 ---
 
-# Architektura repozitare Business OS
+# Architektura repozitáře Business OS
 
-## Uccel repozitare
+## Účel repozitáře
 
-Tento repozitar slouzi jako **operacni system firmy** — centralni misto pro vsechny znalosti, procesy, sablony a AI agenty firmy Sensio.cz.
+Tento repozitář slouží jako **operační systém firmy** — centrální místo pro všechny znalosti, procesy, šablony a AI agenty firmy Sensio.cz.
 
 ## Design principy
 
-1. **Flat and findable** — minimalni zanoreni, maximalni prehlednost
-2. **AI-first** — struktura optimalizovana pro navigaci AI agenty (CLAUDE.md)
-3. **Convention over configuration** — jasne konvence misto slozitych konfiguracnich nastroju
-4. **Single source of truth** — kazda informace na jednom miste, referencovana odjinud
+1. **Flat and findable** — minimální zanoření, maximální přehlednost
+2. **AI-first** — struktura optimalizovaná pro navigaci AI agenty (CLAUDE.md)
+3. **Convention over configuration** — jasné konvence místo složitých konfiguračních nástrojů
+4. **Single source of truth** — každá informace na jednom místě, referencovaná odjinud
 
-## Adresarova struktura
+## Adresářová struktura
 
 ```
 sensio-os/
 ├── CLAUDE.md              # [META] AI routing tabulka
-├── README.md              # [META] Prehled repozitare
-├── .gitignore             # [META] Ignorovane soubory
+├── README.md              # [META] Přehled repozitáře
+├── .gitignore             # [META] Ignorované soubory
 │
-├── docs/                  # [DOMENA: Dokumentace]
+├── docs/                  # [DOMÉNA: Dokumentace]
 │   ├── conventions.md     #   Pravidla a konvence
 │   └── SOUL.md            #   Identita AI agenta
 │
-├── context/               # [DOMENA: Kontext]
-│   ├── company/           #   Firemni profil
-│   ├── products/          #   Produkty a sluzby
-│   ├── clients/           #   Klientske profily
+├── context/               # [DOMÉNA: Kontext]
+│   ├── company/           #   Firemní profil
+│   ├── products/          #   Produkty a služby
+│   ├── clients/           #   Klientské profily
 │   ├── market/            #   Trh a konkurence
-│   └── evaluation/        #   Hodnoticí kriteria
+│   └── evaluation/        #   Hodnoticí kritéria
 │
-├── strategy/              # [DOMENA: Strategie]
+├── strategy/              # [DOMÉNA: Strategie]
 │   ├── vision.md          #   Mise a vize
 │   ├── roadmap.md         #   Roadmapa
-│   ├── goals.md           #   Strategicke cile
-│   └── decisions/         #   ADR zaznamy
+│   ├── goals.md           #   Strategické cíle
+│   └── decisions/         #   ADR záznamy
 │
-├── processes/             # [DOMENA: Procesy]
-│   ├── sales/             #   Obchodni procesy
-│   ├── delivery/          #   Dodavkove procesy
-│   ├── development/       #   Vyvojove procesy
-│   ├── operations/        #   Provozni procesy
-│   └── finance/           #   Financni procesy
+├── processes/             # [DOMÉNA: Procesy]
+│   ├── sales/             #   Obchodní procesy
+│   ├── delivery/          #   Dodávkové procesy
+│   ├── development/       #   Vývojové procesy
+│   ├── operations/        #   Provozní procesy
+│   └── finance/           #   Finanční procesy
 │
-├── templates/             # [DOMENA: Sablony]
-│   ├── _meta/             #   Meta sablony
-│   ├── sales/             #   Obchodni sablony
-│   └── delivery/          #   Dodavkove sablony
+├── templates/             # [DOMÉNA: Šablony]
+│   ├── _meta/             #   Meta šablony
+│   ├── sales/             #   Obchodní šablony
+│   └── delivery/          #   Dodávkové šablony
 │
-├── agents/                # [DOMENA: AI agenti]
-│   ├── personas/          #   Persony agentu
+├── agents/                # [DOMÉNA: AI agenti]
+│   ├── personas/          #   Persony agentů
 │   ├── prompts/           #   System prompty
-│   └── tools/             #   Nastroje
+│   └── tools/             #   Nástroje
 │
-├── blueprints/            # [DOMENA: Blueprinty]
+├── blueprints/            # [DOMÉNA: Blueprinty]
 │   ├── infrastructure/    #   Infrastruktura
-│   └── solutions/         #   Katalog reseni
+│   └── solutions/         #   Katalog řešení
 │
-├── reference/             # [DOMENA: Reference]
-│   ├── glossary.md        #   Slovnik pojmu
+├── reference/             # [DOMÉNA: Reference]
+│   ├── glossary.md        #   Slovník pojmů
 │   └── tech-stack.md      #   Tech stack
 │
 └── .github/               # [META] GitHub konfigurace
     └── pull_request_template.md
 ```
 
-## Domeny
+## Domény
 
-| Domena | Adresar | Ucel |
+| Doména | Adresář | Účel |
 |--------|---------|------|
 | Dokumentace | `docs/` | Pravidla, konvence, identita |
-| Kontext | `context/` | Firemni znalosti a data |
-| Strategie | `strategy/` | Vize, cile, rozhodnuti |
-| Procesy | `processes/` | Jak delame veci |
-| Sablony | `templates/` | Znovupouzitelne vzory |
-| AI agenti | `agents/` | AI persony, prompty, nastroje |
-| Blueprinty | `blueprints/` | Architektura a reseni |
-| Reference | `reference/` | Slovniky a technicke reference |
+| Kontext | `context/` | Firemní znalosti a data |
+| Strategie | `strategy/` | Vize, cíle, rozhodnutí |
+| Procesy | `processes/` | Jak děláme věci |
+| Šablony | `templates/` | Znovupoužitelné vzory |
+| AI agenti | `agents/` | AI persony, prompty, nástroje |
+| Blueprinty | `blueprints/` | Architektura a řešení |
+| Reference | `reference/` | Slovníky a technické reference |
 
 ## Navigace
 
 ### Pro lidi
-- Zacni s [README.md](../../README.md)
+- Začni s [README.md](../../README.md)
 - Pak viz [CLAUDE.md](../../CLAUDE.md) pro routing tabulku
 
 ### Pro AI agenty
-- Zacni s [CLAUDE.md](../../CLAUDE.md) — routing tabulka dle potreb
+- Začni s [CLAUDE.md](../../CLAUDE.md) — routing tabulka dle potřeb
 - Viz [conventions.md](../../docs/conventions.md) — pravidla pro obsah
-- Viz [SOUL.md](../../docs/SOUL.md) — identita a ton
+- Viz [SOUL.md](../../docs/SOUL.md) — identita a tón
 
-## Rozsiritelnost
+## Rozšiřitelnost
 
-Repozitar je navrzeny tak, aby mohl rust:
-- Nove domeny = nove adresare na prvni urovni
-- Nove podoblasti = nove podadresare s README.md
-- Kazdy novy soubor musi respektovat konvence
+Repozitář je navržený tak, aby mohl růst:
+- Nové domény = nové adresáře na první úrovni
+- Nové podoblasti = nové podadresáře s README.md
+- Každý nový soubor musí respektovat konvence
 
-## Souvisejici rozhodnuti
+## Související rozhodnutí
 
-- [ADR-001: Proc Git+Markdown](../../strategy/decisions/adr-001-repo-structure.md)
+- [ADR-001: Proč Git+Markdown](../../strategy/decisions/adr-001-repo-structure.md)

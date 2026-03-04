@@ -1,9 +1,9 @@
 # reference/
 
-Referencni materialy firmy Sensio.cz — slovnik, tech stack, uzitecne odkazy.
+Referenční materiály firmy Sensio.cz — slovník, tech stack, užitečné odkazy.
 
 ## Obsah
 
-- [glossary.md](glossary.md) — Slovnik pojmu (ceske business terminy)
-- [tech-stack.md](tech-stack.md) — Technologicky stack firmy
-- [links.md](links.md) — Uzitecne odkazy a zdroje
+- [glossary.md](glossary.md) — Slovník pojmů (české business termíny)
+- [tech-stack.md](tech-stack.md) — Technologický stack firmy
+- [links.md](links.md) — Užitečné odkazy a zdroje
