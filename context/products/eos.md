@@ -1,5 +1,5 @@
 ---
-title: "EOS ZUS — Online soutezni system"
+title: "EOS ZUŠ — Online soutěžní systém"
 type: knowledge
 status: ai-generated
 version: "0.1"
@@ -8,46 +8,46 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [product, eos, competition, zus, education]
 domain: products
-summary: "Detail produktu EOS ZUS — online soutezni system pro celostatni a krajske souteze ZUS"
+summary: "Detail produktu EOS ZUŠ — online soutěžní systém pro celostátní a krajské soutěže ZUŠ"
 ---
 
-# EOS ZUS — Online soutezni system
+# EOS ZUŠ — Online soutěžní systém
 
-## Zakladni informace
+## Základní informace
 
 | Pole | Hodnota |
 |------|---------|
-| **Nazev** | EOS ZUS |
-| **Typ** | Webova aplikace |
-| **Cilova skupina** | Organizatori soutezi ZUS, skoly, porotci |
+| **Název** | EOS ZUŠ |
+| **Typ** | Webová aplikace |
+| **Cílová skupina** | Organizátoři soutěží ZUŠ, školy, porotci |
 | **URL** | TODO |
 
-## Co je EOS ZUS
+## Co je EOS ZUŠ
 
-EOS ZUS je online system pro organizaci a rizeni celostatnich a krajskych soutezi zakladnich umeleckych skol. Digitalizuje kompletni soutezni proces — od podani prihlasek pres hodnoceni porotou az po zverejneni vysledku.
+EOS ZUŠ je online systém pro organizaci a řízení celostátních a krajských soutěží základních uměleckých škol. Digitalizuje kompletní soutěžní proces — od podání přihlášek přes hodnocení porotou až po zveřejnění výsledků.
 
-## Cilova skupina
+## Cílová skupina
 
-### Primarni uzivatele
-- **Organizatori soutezi** — sprava souteze, nastaveni kriterii, rizeni harmonogramu
-- **Skoly (ucitele)** — prihlasovani zaku, sledovani vysledku
-- **Porotci** — hodnoceni vystoupeni, zadavani bodu
+### Primární uživatelé
+- **Organizátoři soutěží** — správa soutěže, nastavení kritérií, řízení harmonogramu
+- **Školy (učitelé)** — přihlašování žáků, sledování výsledků
+- **Porotci** — hodnocení vystoupení, zadávání bodů
 
-### Sekundarni uzivatele
-- **Zaci a rodice** — sledovani vysledku
-- **MSMT / zrizovatel** — souhrnne statistiky
+### Sekundární uživatelé
+- **Žáci a rodiče** — sledování výsledků
+- **MŠMT / zřizovatel** — souhrnné statistiky
 
-## Klicove funkce
+## Klíčové funkce
 
 | Funkce | Popis |
 |--------|-------|
-| Sprava soutezi | Vytvoreni souteze, nastaveni kategorii, kriterii hodnoceni |
-| Online prihlasky | Elektronicke prihlasovani skol a zaku |
-| Hodnoceni | Zadavani hodnoceni porotci, automaticky vypocet vysledku |
-| Vysledky | Zverejneni vysledku, generovani diplomu |
-| Harmonogram | Casovy rozvrh souteze, rozdeleni do skupin |
+| Správa soutěží | Vytvoření soutěže, nastavení kategorií, kritérií hodnocení |
+| Online přihlášky | Elektronické přihlašování škol a žáků |
+| Hodnocení | Zadávání hodnocení porotci, automatický výpočet výsledků |
+| Výsledky | Zveřejnění výsledků, generování diplomů |
+| Harmonogram | Časový rozvrh soutěže, rozdělení do skupin |
 | Export dat | Export do XLS, PDF, tisk |
-| Komunikace | Hromadna komunikace s ucastniky |
+| Komunikace | Hromadná komunikace s účastníky |
 
 ## Technologie
 
@@ -55,25 +55,25 @@ EOS ZUS je online system pro organizaci a rizeni celostatnich a krajskych soutez
 |--------|------------|
 | Backend | PHP / Laravel |
 | Frontend | Vue.js |
-| Databaze | PostgreSQL |
+| Databáze | PostgreSQL |
 | Infrastruktura | Docker |
 
-## Obchodni model
+## Obchodní model
 
-| Polozka | Detail |
+| Položka | Detail |
 |---------|--------|
-| Cenovy model | Rocni licence / per soutez |
-| Cenova hladina | TODO |
-| Integrace s iZUS | Ano — sdileni dat o zaach |
+| Cenový model | Roční licence / per soutěž |
+| Cenová hladina | TODO |
+| Integrace s iZUŠ | Ano — sdílení dat o žácích |
 
-## Sezonnost
+## Sezónnost
 
-EOS ZUS ma vyraznou sezonnost — souteze probihaji prevazne v TODO obdobi. System musi zvladat spickovou zatez behem soutezniho obdobi.
+EOS ZUŠ má výraznou sezónnost — soutěže probíhají převážně v TODO období. Systém musí zvládat špičkovou zátěž během soutěžního období.
 
-## Unikatni hodnota
+## Unikátní hodnota
 
-1. **Jediny system sveho druhu** — specializovany na souteze ZUS
-2. **Integrace s iZUS** — sdileni dat, zadna duplicitni prace
-3. **Online hodnoceni** — porotci mohou hodnotit z jakehokoliv zarizeni
-4. **Automaticke vysledky** — okamzite vysledky bez rucniho scitani
-5. **Transparentnost** — vsichni ucastnici maji pristup k vysledkum online
+1. **Jediný systém svého druhu** — specializovaný na soutěže ZUŠ
+2. **Integrace s iZUŠ** — sdílení dat, žádná duplicitní práce
+3. **Online hodnocení** — porotci mohou hodnotit z jakéhokoliv zařízení
+4. **Automatické výsledky** — okamžité výsledky bez ručního sčítání
+5. **Transparentnost** — všichni účastníci mají přístup k výsledkům online

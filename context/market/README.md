@@ -1,7 +1,7 @@
 # context/market/
 
-Analyzy trhu, konkurence a trznich prilezitosti pro Sensio.cz.
+Analýzy trhu, konkurence a tržních příležitostí pro Sensio.cz.
 
 ## Obsah
 
-- [competitors.md](competitors.md) — Konkurencni analyza pro kazdy segment
+- [competitors.md](competitors.md) — Konkurenční analýza pro každý segment

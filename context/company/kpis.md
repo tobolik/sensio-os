@@ -8,71 +8,71 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [kpi, metrics, performance]
 domain: company
-summary: "KPI metriky pro kazdou obchodni oblast firmy Sensio.cz"
+summary: "KPI metriky pro každou obchodní oblast firmy Sensio.cz"
 ---
 
 # KPI metriky Sensio.cz
 
-## Celofiremni KPI
+## Celofiremní KPI
 
-| KPI | Popis | Cil | Aktualni |
+| KPI | Popis | Cíl | Aktuální |
 |-----|-------|-----|----------|
-| Celkovy rocni obrat | Soucet vsech priejmmu | TODO | TODO |
-| Rust obratu (YoY) | Mezirocni rust | TODO | TODO |
-| Ziskovost | Cisty zisk / obrat | TODO | TODO |
-| Spokojenost zakazniku (NPS) | Net Promoter Score | TODO | TODO |
-| Pocet zamestnancu | FTE | TODO | TODO |
+| Celkový roční obrat | Součet všech příjmů | TODO | TODO |
+| Růst obratu (YoY) | Meziroční růst | TODO | TODO |
+| Ziskovost | Čistý zisk / obrat | TODO | TODO |
+| Spokojenost zákazníků (NPS) | Net Promoter Score | TODO | TODO |
+| Počet zaměstnanců | FTE | TODO | TODO |
 
-## Software pro ZUS — KPI
+## Software pro ZUŠ — KPI
 
-### iZUS
+### iZUŠ
 
-| KPI | Popis | Cil | Aktualni |
+| KPI | Popis | Cíl | Aktuální |
 |-----|-------|-----|----------|
-| Pocet aktivnich skol | Skoly s aktivni licenci | TODO | 250+ |
-| MRR | Mesicni recurring revenue | TODO | TODO |
-| Churn rate | Mesicni mira odchodu | < 2% | TODO |
-| ARPU | Prumerny prijem na skolu | TODO | TODO |
-| NPS | Spokojenost skol | > 50 | TODO |
-| Time to resolve | Prumerna doba reseni tiketu | < 24h | TODO |
-| Uptime | Dostupnost systemu | 99.9% | TODO |
-| Feature adoption | Vyuziti novych funkci | > 60% | TODO |
+| Počet aktivních škol | Školy s aktivní licencí | TODO | 250+ |
+| MRR | Měsíční recurring revenue | TODO | TODO |
+| Churn rate | Měsíční míra odchodu | < 2% | TODO |
+| ARPU | Průměrný příjem na školu | TODO | TODO |
+| NPS | Spokojenost škol | > 50 | TODO |
+| Time to resolve | Průměrná doba řešení tiketu | < 24h | TODO |
+| Uptime | Dostupnost systému | 99.9% | TODO |
+| Feature adoption | Využití nových funkcí | > 60% | TODO |
 
-### EOS ZUS
+### EOS ZUŠ
 
-| KPI | Popis | Cil | Aktualni |
+| KPI | Popis | Cíl | Aktuální |
 |-----|-------|-----|----------|
-| Pocet soutezi | Souteze rizene pres EOS | TODO | TODO |
-| Pocet prihlasek | Celkovy pocet prihlasek | TODO | TODO |
-| Spokojenost organizatoru | Hodnoceni systemu | TODO | TODO |
-| Uptime behem soutezi | Dostupnost v kritickem obdobi | 99.99% | TODO |
+| Počet soutěží | Soutěže řízené přes EOS | TODO | TODO |
+| Počet přihlášek | Celkový počet přihlášek | TODO | TODO |
+| Spokojenost organizátorů | Hodnocení systému | TODO | TODO |
+| Uptime během soutěží | Dostupnost v kritickém období | 99.99% | TODO |
 
-## B2B reseni — KPI
+## B2B řešení — KPI
 
-| KPI | Popis | Cil | Aktualni |
+| KPI | Popis | Cíl | Aktuální |
 |-----|-------|-----|----------|
-| Pocet aktivnich projektu | Bezici projekty | TODO | TODO |
-| Pipeline hodnota | Hodnota potencialnich zakazek | TODO | TODO |
-| Conversion rate | Nabidka → zakazka | > 30% | TODO |
-| Prumerny projekt revenue | Prumerna hodnota projektu | TODO | TODO |
-| Spokojenost klientu | CSAT po dodani projektu | > 4.5/5 | TODO |
-| On-time delivery | Projekty dodane vcas | > 80% | TODO |
-| Vyuziti kapacity | Fakturovatelne hodiny / celkem | > 75% | TODO |
-| Repeat business | Podil opakovanych zakazniku | > 50% | TODO |
+| Počet aktivních projektů | Běžící projekty | TODO | TODO |
+| Pipeline hodnota | Hodnota potenciálních zakázek | TODO | TODO |
+| Conversion rate | Nabídka → zakázka | > 30% | TODO |
+| Průměrný projekt revenue | Průměrná hodnota projektu | TODO | TODO |
+| Spokojenost klientů | CSAT po dodání projektu | > 4.5/5 | TODO |
+| On-time delivery | Projekty dodané včas | > 80% | TODO |
+| Využití kapacity | Fakturovatelné hodiny / celkem | > 75% | TODO |
+| Repeat business | Podíl opakovaných zákazníků | > 50% | TODO |
 
 ## 3D tisk a inovace — KPI
 
-| KPI | Popis | Cil | Aktualni |
+| KPI | Popis | Cíl | Aktuální |
 |-----|-------|-----|----------|
-| Pocet prodanych MyCello | Kusy prodane za rok | TODO | TODO |
-| Pocet 3D tiskovych zakazek | Zakazky za mesic | TODO | TODO |
-| Prumerny prijem na zakazku | Revenue per order | TODO | TODO |
-| Medialni zasah | PR zmienky a clanky | TODO | TODO |
-| Spokojenost zakazniku | Hodnoceni | TODO | TODO |
+| Počet prodaných MyCello | Kusy prodané za rok | TODO | TODO |
+| Počet 3D tiskových zakázek | Zakázky za měsíc | TODO | TODO |
+| Průměrný příjem na zakázku | Revenue per order | TODO | TODO |
+| Mediální zásah | PR zmínky a články | TODO | TODO |
+| Spokojenost zákazníků | Hodnocení | TODO | TODO |
 
-## Jak merime
+## Jak měříme
 
-- **Frekvence reportingu**: TODO (mesicne / kvartalne)
-- **Nastroj pro sledovani**: TODO
-- **Odpovednost za reporting**: TODO
+- **Frekvence reportingu**: TODO (měsíčně / kvartálně)
+- **Nástroj pro sledování**: TODO
+- **Odpovědnost za reporting**: TODO
 - **Review meeting**: TODO

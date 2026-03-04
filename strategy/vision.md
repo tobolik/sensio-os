@@ -8,87 +8,87 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [vision, mission, strategy, pillars]
 domain: strategy
-summary: "Mise, vize, 3 strategicke pilire a klicove vyzvy firmy Sensio.cz"
+summary: "Mise, vize, 3 strategické pilíře a klíčové výzvy firmy Sensio.cz"
 ---
 
 # Vize a strategie Sensio.cz
 
 ## Mise
 
-Tvorime smysluplna technologicka reseni, ktera pomahaji skolam, firmam a tvorcum pracovat lepe.
+Tvoříme smysluplná technologická řešení, která pomáhají školám, firmám a tvůrcům pracovat lépe.
 
 ## Vize
 
-Byt technologickym partnerem, ktery spojuje inovace s realnym dopadem — od softwaru pro vzdelávání az po 3D tistene hudebni nastroje.
+Být technologickým partnerem, který spojuje inovace s reálným dopadem — od softwaru pro vzdělávání až po 3D tištěné hudební nástroje.
 
-## 3 strategicke pilire
+## 3 strategické pilíře
 
-### Pilir 1: Dominance v segmentu ZUS
+### Pilíř 1: Dominance v segmentu ZUŠ
 
-**Cil**: Stat se nenahraditelnym partnerem pro vsechny ZUS v CR.
-
-**Strategie**:
-- Rozsirovani zakladny iZUS smerem k 400+ skolam
-- Prohlubovani integrace iZUS + EOS ZUS
-- Kontinualni rozvoj na zaklade zpetne vazby skol
-- Budovani komunity uzivatelu a advokatu znacky
-
-**Klicove iniciativy**:
-- TODO — konkretni iniciativy
-- Rozvoj mobilni aplikace pro rodice
-- Integrace s dalšimi systemy ve vzdelavani
-
-### Pilir 2: Rust B2B divize
-
-**Cil**: Vybudovat stabilni proud B2B projektu s opakovanymi zakazniky.
+**Cíl**: Stát se nenahraditelným partnerem pro všechny ZUŠ v ČR.
 
 **Strategie**:
-- Systematizace obchodniho procesu (discovery → nabidka → dodavka)
-- Budovani referenci a case studies
-- Specializace na konkretni vertikaly (TODO)
-- Rozsirovani tymu dle poptavky
+- Rozšiřování základny iZUŠ směrem k 400+ školám
+- Prohlubování integrace iZUŠ + EOS ZUŠ
+- Kontinuální rozvoj na základě zpětné vazby škol
+- Budování komunity uživatelů a advokátů značky
 
-**Klicove iniciativy**:
-- TODO — konkretni iniciativy
-- Vytvoreni marketingove strategie pro B2B
-- Systematizace nabidkoveho procesu
+**Klíčové iniciativy**:
+- TODO — konkrétní iniciativy
+- Rozvoj mobilní aplikace pro rodiče
+- Integrace s dalšími systémy ve vzdělávání
 
-### Pilir 3: Inovace a nova trzni prilezitosti
+### Pilíř 2: Růst B2B divize
 
-**Cil**: Vyuzit inovacni DNA firmy k vytvareni novych produktu a trznich prilezitosti.
+**Cíl**: Vybudovat stabilní proud B2B projektů s opakovanými zákazníky.
 
 **Strategie**:
-- Rozvoj MyCello do komercne zivotaschopneho produktu
-- Przkum novych oblasti pro 3D tisk
-- Experimentovani s AI a novymi technologiemi
-- Budovani znacky innovatora
+- Systematizace obchodního procesu (discovery → nabídka → dodávka)
+- Budování referencí a case studies
+- Specializace na konkrétní vertikály (TODO)
+- Rozšiřování týmu dle poptávky
 
-**Klicove iniciativy**:
-- TODO — konkretni iniciativy
-- Mezinarodní marketing MyCello
-- Vyzkum novych materialu
+**Klíčové iniciativy**:
+- TODO — konkrétní iniciativy
+- Vytvoření marketingové strategie pro B2B
+- Systematizace nabídkového procesu
 
-## Klicove vyzvy
+### Pilíř 3: Inovace a nové tržní příležitosti
 
-### 1. Kapacita tymu
-Maly tym znamena omezenou kapacitu. Musime peclive prioritizovat, co delame, a co ne.
+**Cíl**: Využít inovační DNA firmy k vytváření nových produktů a tržních příležitostí.
 
-### 2. Balance mezi stabilitou a inovaci
-SaaS prijem z iZUS je stabilni, ale rust vyzaduje investice do novych oblasti. Jak rozdelit zdroje?
+**Strategie**:
+- Rozvoj MyCello do komerčně životaschopného produktu
+- Průzkum nových oblastí pro 3D tisk
+- Experimentování s AI a novými technologiemi
+- Budování značky inovátora
 
-### 3. Skalovani B2B bez ztraty kvality
-B2B projekty vyzaduji individualni pristup. Jak rust, aniz bychom ztratili kvalitu a osobni pristup?
+**Klíčové iniciativy**:
+- TODO — konkrétní iniciativy
+- Mezinárodní marketing MyCello
+- Výzkum nových materiálů
+
+## Klíčové výzvy
+
+### 1. Kapacita týmu
+Malý tým znamená omezenou kapacitu. Musíme pečlivě prioritizovat, co děláme, a co ne.
+
+### 2. Balance mezi stabilitou a inovací
+SaaS příjem z iZUŠ je stabilní, ale růst vyžaduje investice do nových oblastí. Jak rozdělit zdroje?
+
+### 3. Škálování B2B bez ztráty kvality
+B2B projekty vyžadují individuální přístup. Jak růst, aniž bychom ztratili kvalitu a osobní přístup?
 
 ### 4. Komercializace MyCello
-Prechod od prototypu a oceneni ke skutecnemu komercnimu produktu s udritelnym obchodnim modelem.
+Přechod od prototypu a ocenění ke skutečnému komerčnímu produktu s udržitelným obchodním modelem.
 
-### 5. Technologicky dluh
-Udrzet balanc mezi rychlym vyvojem novych funkci a udrzovani zdraveho kodu.
+### 5. Technologický dluh
+Udržet balanc mezi rychlým vývojem nových funkcí a udržováním zdravého kódu.
 
-## Strategicky horizont
+## Strategický horizont
 
-| Horizont | Zamereni | Obdobi |
+| Horizont | Zaměření | Období |
 |----------|---------|--------|
-| Kratkodoba | Stabilizace a optimalizace | TODO |
-| Strednedoba | Rust a expanze | TODO |
-| Dlouhodoba | Inovace a nova trziste | TODO |
+| Krátkodobá | Stabilizace a optimalizace | TODO |
+| Střednědobá | Růst a expanze | TODO |
+| Dlouhodobá | Inovace a nová tržiště | TODO |

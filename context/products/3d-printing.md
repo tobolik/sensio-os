@@ -1,5 +1,5 @@
 ---
-title: "3D tiskove sluzby"
+title: "3D tiskové služby"
 type: knowledge
 status: ai-generated
 version: "0.1"
@@ -8,66 +8,66 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [product, 3d-printing, services, manufacturing]
 domain: products
-summary: "3D tiskove sluzby firmy Sensio.cz"
+summary: "3D tiskové služby firmy Sensio.cz"
 ---
 
-# 3D tiskove sluzby
+# 3D tiskové služby
 
-## Zakladni informace
+## Základní informace
 
 | Pole | Hodnota |
 |------|---------|
-| **Nazev** | 3D tiskove sluzby Sensio.cz |
-| **Typ** | Sluzby na zakazku |
-| **Cilova skupina** | Firmy, designeri, jednotlivci |
+| **Název** | 3D tiskové služby Sensio.cz |
+| **Typ** | Služby na zakázku |
+| **Cílová skupina** | Firmy, designéři, jednotlivci |
 
-## Co nabizime
+## Co nabízíme
 
-Nabizime 3D tisk na zakazku pro firmy i jednotlivce. Vyuzivame zkusenosti z vyvoje projektu MyCello a investice do profesionalnich 3D tiskaren.
+Nabízíme 3D tisk na zakázku pro firmy i jednotlivce. Využíváme zkušenosti z vývoje projektu MyCello a investice do profesionálních 3D tiskáren.
 
-## Sluzby
+## Služby
 
-| Sluzba | Popis |
+| Služba | Popis |
 |--------|-------|
-| 3D tisk na zakazku | Tisk dilu dle dodaneho 3D modelu |
-| 3D modelovani | Vytvoreni 3D modelu dle zadani |
-| Prototypovani | Rychla vyroba prototypu pro overeni designu |
-| Maloseriova vyroba | Vyroba malych serii (desitky az stovky kusu) |
-| Konzultace | Poradenstvi ohledne technologie a materialu |
+| 3D tisk na zakázku | Tisk dílů dle dodaného 3D modelu |
+| 3D modelování | Vytvoření 3D modelu dle zadání |
+| Prototypování | Rychlá výroba prototypů pro ověření designu |
+| Malosériová výroba | Výroba malých sérií (desítky až stovky kusů) |
+| Konzultace | Poradenství ohledně technologie a materiálů |
 
 ## Technologie
 
 | Parametr | Detail |
 |----------|--------|
-| Technologie tisku | FDM/FFF (TODO — dalsi technologie) |
-| Tiskarny | TODO (modely) |
-| Materialy | PLA, PETG, ABS, TPU (TODO — dalsi) |
-| Maximalni rozmer | TODO |
-| Presnost | TODO |
+| Technologie tisku | FDM/FFF (TODO — další technologie) |
+| Tiskárny | TODO (modely) |
+| Materiály | PLA, PETG, ABS, TPU (TODO — další) |
+| Maximální rozměr | TODO |
+| Přesnost | TODO |
 
-## Obchodni model
+## Obchodní model
 
-| Polozka | Detail |
+| Položka | Detail |
 |---------|--------|
-| Cenovy model | Cena za kus / za hodinu tisku |
-| Minimalni objednavka | TODO |
-| Dodaci lhuta | TODO |
+| Cenový model | Cena za kus / za hodinu tisku |
+| Minimální objednávka | TODO |
+| Dodací lhůta | TODO |
 
-## Proces objednavky
+## Proces objednávky
 
-1. **Poptavka** — klient posle 3D model nebo popis
-2. **Naceneni** — kalkulace ceny na zaklade slozitosti a materialu
-3. **Potvrzeni** — odsouhlaseni ceny a dodaci lhuty
-4. **Tisk** — vyroba dilu
-5. **Kontrola kvality** — overeni rozmeru a kvality
-6. **Dodani** — predani klientovi
+1. **Poptávka** — klient pošle 3D model nebo popis
+2. **Nacenění** — kalkulace ceny na základě složitosti a materiálu
+3. **Potvrzení** — odsouhlasení ceny a dodací lhůty
+4. **Tisk** — výroba dílů
+5. **Kontrola kvality** — ověření rozměrů a kvality
+6. **Dodání** — předání klientovi
 
-## Typicke zakazky
+## Typické zakázky
 
-| Typ | Priklad |
+| Typ | Příklad |
 |-----|---------|
-| Prototypy | Funkcni prototypy pro vyvoj produktu |
-| Nahradni dily | Dily, ktere uz nejsou k dispozici |
-| Dekorace | Zakazkove dekoracni predmety |
-| Nastroje | Specialni nastroje a prpravky |
-| Hudebni nastroje | MyCello a dalsi |
+| Prototypy | Funkční prototypy pro vývoj produktů |
+| Náhradní díly | Díly, které už nejsou k dispozici |
+| Dekorace | Zakázkové dekorační předměty |
+| Nástroje | Speciální nástroje a přípravky |
+| Hudební nástroje | MyCello a další |

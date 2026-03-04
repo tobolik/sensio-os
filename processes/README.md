@@ -1,11 +1,11 @@
 # processes/
 
-Firemni procesy Sensio.cz — jak delame veci.
+Firemní procesy Sensio.cz — jak děláme věci.
 
-## Podslozky
+## Podsložky
 
-- [sales/](sales/) — Obchodni procesy (discovery, nabidky)
-- [delivery/](delivery/) — Dodavkove procesy (onboarding, dodavka projektu)
-- [development/](development/) — Vyvojove procesy (git flow, code review, CI/CD)
-- [operations/](operations/) — Provozni procesy (publikovani obsahu)
-- [finance/](finance/) — Financni procesy (fakturace)
+- [sales/](sales/) — Obchodní procesy (discovery, nabídky)
+- [delivery/](delivery/) — Dodávkové procesy (onboarding, dodávka projektu)
+- [development/](development/) — Vývojové procesy (git flow, code review, CI/CD)
+- [operations/](operations/) — Provozní procesy (publikování obsahu)
+- [finance/](finance/) — Finanční procesy (fakturace)

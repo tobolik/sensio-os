@@ -1,5 +1,5 @@
 ---
-title: "Profil idealniho zakaznika (ICP)"
+title: "Profil ideálního zákazníka (ICP)"
 type: knowledge
 status: ai-generated
 version: "0.1"
@@ -8,51 +8,51 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [icp, clients, segmentation, sales]
 domain: sales
-summary: "Profily idealniho zakaznika pro 3 segmenty — ZUS, B2B firmy, hudebnici"
+summary: "Profily ideálního zákazníka pro 3 segmenty — ZUŠ, B2B firmy, hudebníci"
 ---
 
-# Profil idealniho zakaznika (ICP)
+# Profil ideálního zákazníka (ICP)
 
-## Segment 1: Zakladni umelecke skoly (ZUS)
+## Segment 1: Základní umělecké školy (ZUŠ)
 
 ### Profil
 
 | Pole | Hodnota |
 |------|---------|
-| **Typ organizace** | Zakladni umelecka skola |
-| **Zrizovatel** | Obec, kraj, soukromy subjekt |
-| **Velikost** | 100-2000 zaku |
-| **Lokace** | Ceska republika |
-| **Obory** | Hudebni, vytvarny, tanecni, literarne-dramaticky |
+| **Typ organizace** | Základní umělecká škola |
+| **Zřizovatel** | Obec, kraj, soukromý subjekt |
+| **Velikost** | 100-2000 žáků |
+| **Lokace** | Česká republika |
+| **Obory** | Hudební, výtvarný, taneční, literárně-dramatický |
 
-### Kvalifikacni kriteria
+### Kvalifikační kritéria
 
-#### Must-have (povinne)
-- [ ] ZUS v Ceske republice
-- [ ] Aktivni provoz (nikoliv v likvidaci)
-- [ ] Pristup k internetu pro administrativu
-- [ ] Ochota prechod z papirove/excelove administrativy
+#### Must-have (povinné)
+- [ ] ZUŠ v České republice
+- [ ] Aktivní provoz (nikoliv v likvidaci)
+- [ ] Přístup k internetu pro administrativu
+- [ ] Ochota přechod z papírové/excelové administrativy
 
 #### Nice-to-have (bonus)
-- [ ] Vice nez 200 zaku (vyssi hodnota zakazky)
-- [ ] Digitalne zdatny reditel/admin
-- [ ] Zkusenost s jinym IS (snazsi prechod)
-- [ ] Zajem o online komunikaci s rodici
+- [ ] Více než 200 žáků (vyšší hodnota zakázky)
+- [ ] Digitálně zdatný ředitel/admin
+- [ ] Zkušenost s jiným IS (snazší přechod)
+- [ ] Zájem o online komunikaci s rodiči
 
 ### Bolesti (pain points)
-1. Casove narocna papirova administrativa
-2. Chybejici prehled o zaach a platech v realnem case
-3. Obtizna komunikace s rodici
-4. Rucni tvorba rozvrhu
-5. Slozite vykazovani pro zrizovatele
+1. Časově náročná papírová administrativa
+2. Chybějící přehled o žácích a platech v reálném čase
+3. Obtížná komunikace s rodiči
+4. Ruční tvorba rozvrhu
+5. Složité vykazování pro zřizovatele
 
-### Rozhodovaci proces
-| Faze | Ucastnici | Delka |
+### Rozhodovací proces
+| Fáze | Účastníci | Délka |
 |------|-----------|-------|
-| Uvedomeni | Reditel | - |
-| Vyber | Reditel + admin | TODO |
-| Rozhodnuti | Reditel (+ zrizovatel u vetsich investic) | TODO |
-| Implementace | Admin + ucitele | TODO |
+| Uvědomění | Ředitel | - |
+| Výběr | Ředitel + admin | TODO |
+| Rozhodnutí | Ředitel (+ zřizovatel u větších investic) | TODO |
+| Implementace | Admin + učitelé | TODO |
 
 ---
 
@@ -62,79 +62,79 @@ summary: "Profily idealniho zakaznika pro 3 segmenty — ZUS, B2B firmy, hudebni
 
 | Pole | Hodnota |
 |------|---------|
-| **Typ** | Stredne velka firma |
-| **Pocet zamestnancu** | 10-200 |
-| **Lokace** | Ceska republika (prevazne Morava) |
-| **Obor** | Ruzny (vyroba, sluzby, obchod) |
-| **Digitalni zralost** | Stredni — maji zakladni nastroje, ale chybi custom reseni |
+| **Typ** | Středně velká firma |
+| **Počet zaměstnanců** | 10-200 |
+| **Lokace** | Česká republika (převážně Morava) |
+| **Obor** | Různý (výroba, služby, obchod) |
+| **Digitální zralost** | Střední — mají základní nástroje, ale chybí custom řešení |
 
-### Kvalifikacni kriteria
+### Kvalifikační kritéria
 
-#### Must-have (povinne)
-- [ ] Jasne definovana potreba (digitalizace procesu, webova aplikace)
-- [ ] Rozpocet min. TODO Kc
-- [ ] Rozhodovaci pravomoc na strane kontaktni osoby
-- [ ] Ochota investovat cas do analyzy a spoluprace
+#### Must-have (povinné)
+- [ ] Jasně definovaná potřeba (digitalizace procesů, webová aplikace)
+- [ ] Rozpočet min. TODO Kč
+- [ ] Rozhodovací pravomoc na straně kontaktní osoby
+- [ ] Ochota investovat čas do analýzy a spolupráce
 
 #### Nice-to-have (bonus)
-- [ ] Existujici IT oddeleni nebo externi IT
-- [ ] Zkusenost s predchozim vyvojem na miru
-- [ ] Dlouhodoby potencial (udrzba, rozvoj)
-- [ ] Reference z naseho oboru
+- [ ] Existující IT oddělení nebo externí IT
+- [ ] Zkušenost s předchozím vývojem na míru
+- [ ] Dlouhodobý potenciál (údržba, rozvoj)
+- [ ] Reference z našeho oboru
 
 ### Bolesti (pain points)
-1. Manualni procesy, ktere zabiji cas
-2. Excel jako "databaze" — neprehledne, chybove
-3. Nespokojenost s hromadnymi resenimi (prilis slozite nebo nedostatecne)
-4. Chybejici integrace mezi systemy
-5. Obtizne reportovani a analyzovani dat
+1. Manuální procesy, které zabíjí čas
+2. Excel jako "databáze" — nepřehledné, chybové
+3. Nespokojenost s hromadnými řešeními (příliš složité nebo nedostatečné)
+4. Chybějící integrace mezi systémy
+5. Obtížné reportování a analyzování dat
 
-### Rozhodovaci proces
-| Faze | Ucastnici | Delka |
+### Rozhodovací proces
+| Fáze | Účastníci | Délka |
 |------|-----------|-------|
-| Uvedomeni | Management | - |
-| Analyza | Management + IT | TODO |
-| Vyber dodavatele | Management | TODO |
-| Rozhodnuti | Jednatel/majitel | TODO |
-| Implementace | IT + koncovi uzivatele | TODO |
+| Uvědomění | Management | - |
+| Analýza | Management + IT | TODO |
+| Výběr dodavatele | Management | TODO |
+| Rozhodnutí | Jednatel/majitel | TODO |
+| Implementace | IT + koncoví uživatelé | TODO |
 
 ---
 
-## Segment 3: Hudebnici a nadssenci (MyCello / 3D tisk)
+## Segment 3: Hudebníci a nadšenci (MyCello / 3D tisk)
 
 ### Profil
 
 | Pole | Hodnota |
 |------|---------|
-| **Typ** | Jednotlivci, skoly, hudebni skupiny |
-| **Vek** | 15-65 |
-| **Lokace** | Globalne (s durazem na EU) |
-| **Zajem** | Hudba, inovace, technologie |
+| **Typ** | Jednotlivci, školy, hudební skupiny |
+| **Věk** | 15-65 |
+| **Lokace** | Globálně (s důrazem na EU) |
+| **Zájem** | Hudba, inovace, technologie |
 
-### Kvalifikacni kriteria
+### Kvalifikační kritéria
 
-#### Must-have (povinne)
-- [ ] Zajem o violoncello nebo strunne nastroje
-- [ ] Ochota vyzkousiet netradicni material
-- [ ] Budget na zakoupi nastroje
+#### Must-have (povinné)
+- [ ] Zájem o violoncello nebo strunné nástroje
+- [ ] Ochota vyzkoušet netradiční materiál
+- [ ] Budget na zakoupení nástroje
 
 #### Nice-to-have (bonus)
-- [ ] Aktivni hudebnik (profesional nebo pokrocily amatér)
-- [ ] Influencer/blogger v hudebni komunite
-- [ ] Skola hledajici cenove dostupne nastroje pro zaky
-- [ ] Cestujici hudebnik (oceni lehkost a odolnost)
+- [ ] Aktivní hudebník (profesionál nebo pokročilý amatér)
+- [ ] Influencer/blogger v hudební komunitě
+- [ ] Škola hledající cenově dostupné nástroje pro žáky
+- [ ] Cestující hudebník (ocení lehkost a odolnost)
 
 ### Bolesti (pain points)
-1. Vysoka cena tradicnich violoncell
-2. Krehkost a narocna udrzba dreva
-3. Hmotnost a obtizny transport
-4. Nedostupnost kvalitnich nastrojů pro zacatecniky
-5. Uniformni design bez moznosti personalizace
+1. Vysoká cena tradičních violoncell
+2. Křehkost a náročná údržba dřeva
+3. Hmotnost a obtížný transport
+4. Nedostupnost kvalitních nástrojů pro začátečníky
+5. Uniformní design bez možnosti personalizace
 
-### Rozhodovaci proces
-| Faze | Ucastnici | Delka |
+### Rozhodovací proces
+| Fáze | Účastníci | Délka |
 |------|-----------|-------|
-| Objeveni | Jednotlivec | - |
-| Vyzkum | Jednotlivec | Dny-tydny |
-| Rozhodnuti | Jednotlivec (rodic u mladych) | Tydny |
-| Nakup | Jednotlivec | Okamzite |
+| Objevení | Jednotlivec | - |
+| Výzkum | Jednotlivec | Dny-týdny |
+| Rozhodnutí | Jednotlivec (rodič u mladých) | Týdny |
+| Nákup | Jednotlivec | Okamžité |

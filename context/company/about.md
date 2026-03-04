@@ -8,80 +8,80 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [company, profile, about]
 domain: company
-summary: "Kompletni profil firmy Sensio.cz s.r.o."
+summary: "Kompletní profil firmy Sensio.cz s.r.o."
 ---
 
 # Profil firmy Sensio.cz
 
-## Zakladni udaje
+## Základní údaje
 
 | Pole | Hodnota |
 |------|---------|
-| **Nazev** | Sensio.cz s.r.o. |
-| **ICO** | 04004621 |
-| **Sidlo** | Na Hrazi 1139/13, 750 02 Prerov |
-| **Pravni forma** | Spolecnost s rucenim omezenym |
+| **Název** | Sensio.cz s.r.o. |
+| **IČO** | 04004621 |
+| **Sídlo** | Na Hrázi 1139/13, 750 02 Přerov |
+| **Právní forma** | Společnost s ručením omezeným |
 | **Zakladatel a jednatel** | Miroslav Tobolka |
-| **Zalozeni** | TODO |
+| **Založení** | TODO |
 | **Web** | sensio.cz |
 
 ## Kdo jsme
 
-Sensio.cz je softwarova a technologicka firma se sidlem v Prerove. Vyvijime softwarova reseni prevazne pro vzdelavaci sektor a firmy, s unikatnim presahem do sveta 3D tisku a inovaci.
+Sensio.cz je softwarová a technologická firma se sídlem v Přerově. Vyvíjíme softwarová řešení převážně pro vzdělávací sektor a firmy, s unikátním přesahem do světa 3D tisku a inovací.
 
-Nase prace ma smysl — pomahame skolam efektivneji ridit administrativu, firmam digitalizovat jejich procesy a hudebnikum ziskavat pristup k unikatnim nastrojum diky technologii 3D tisku.
+Naše práce má smysl — pomáháme školám efektivněji řídit administrativu, firmám digitalizovat jejich procesy a hudebníkům získávat přístup k unikátním nástrojům díky technologii 3D tisku.
 
-## Oblasti podnikani
+## Oblasti podnikání
 
-### 1. Software pro ZUS
+### 1. Software pro ZUŠ
 
-Nase vlajkova lod. Vyvijime dva klicove produkty pro zakladni umelecke skoly:
+Naše vlajková loď. Vyvíjíme dva klíčové produkty pro základní umělecké školy:
 
-- **iZUS** — Komplexni informacni system pro ZUS (SaaS). Pouziva ho 250+ skol po cele CR. Pokryva administrativu, rozvrhy, komunikaci s rodici, evidenci zaku a dalsi.
-- **EOS ZUS** — Online soutezni system pro celostatni a krajske souteze ZUS. Digitalizuje kompletni soutezni proces od prihlasek po vysledky.
+- **iZUŠ** — Komplexní informační systém pro ZUŠ (SaaS). Používá ho 250+ škol po celé ČR. Pokrývá administrativu, rozvrhy, komunikaci s rodiči, evidenci žáků a další.
+- **EOS ZUŠ** — Online soutěžní systém pro celostátní a krajské soutěže ZUŠ. Digitalizuje kompletní soutěžní proces od přihlášek po výsledky.
 
-Vice: [izus.md](../products/izus.md), [eos.md](../products/eos.md)
+Více: [izus.md](../products/izus.md), [eos.md](../products/eos.md)
 
-### 2. B2B reseni
+### 2. B2B řešení
 
-Pod znackou **B2B PRO** nabizime vyvoj webovych aplikaci a systemu na miru pro firmy. Zameriujeme se na stredne velke firmy, ktere potrebuji digitalizovat sve procesy.
+Pod značkou **B2B PRO** nabízíme vývoj webových aplikací a systémů na míru pro firmy. Zaměřujeme se na středně velké firmy, které potřebují digitalizovat své procesy.
 
-Vice: [b2b-pro.md](../products/b2b-pro.md)
+Více: [b2b-pro.md](../products/b2b-pro.md)
 
 ### 3. 3D tisk a inovace
 
-Inovativni odnoz nasi cinnosti:
+Inovativní odnož naší činnosti:
 
-- **MyCello** — 3D tistene violoncello. Projekt ziskal 3. misto na Creative Business Cup 2022 (svetove finale). Unikatni spojeni technologie a umeni.
-- **3D tiskove sluzby** — Nabizime 3D tisk na zakazku pro firmy i jednotlivce.
+- **MyCello** — 3D tištěné violoncello. Projekt získal 3. místo na Creative Business Cup 2022 (světové finále). Unikátní spojení technologie a umění.
+- **3D tiskové služby** — Nabízíme 3D tisk na zakázku pro firmy i jednotlivce.
 
-Vice: [mycello.md](../products/mycello.md), [3d-printing.md](../products/3d-printing.md)
+Více: [mycello.md](../products/mycello.md), [3d-printing.md](../products/3d-printing.md)
 
-## Oceneni
+## Ocenění
 
-| Rok | Oceneni |
+| Rok | Ocenění |
 |-----|---------|
-| 2022 | **IBM Firma roku Olomouckeho kraje** |
-| 2022 | **Creative Business Cup** — 3. misto na svete (projekt MyCello) |
+| 2022 | **IBM Firma roku Olomouckého kraje** |
+| 2022 | **Creative Business Cup** — 3. místo na světě (projekt MyCello) |
 
 ## Historie
 
-| Rok | Udalost |
+| Rok | Událost |
 |-----|---------|
-| TODO | Zalozeni firmy |
-| TODO | Spusteni iZUS |
-| TODO | Spusteni EOS ZUS |
-| TODO | Spusteni B2B PRO |
-| 2022 | IBM Firma roku Olomouckeho kraje |
-| 2022 | Creative Business Cup — 3. misto (MyCello) |
-| TODO | Doplnit dalsi milniky |
+| TODO | Založení firmy |
+| TODO | Spuštění iZUŠ |
+| TODO | Spuštění EOS ZUŠ |
+| TODO | Spuštění B2B PRO |
+| 2022 | IBM Firma roku Olomouckého kraje |
+| 2022 | Creative Business Cup — 3. místo (MyCello) |
+| TODO | Doplnit další milníky |
 
-## Sluzby
+## Služby
 
-Kompletni prehled viz [katalog sluzeb](../products/service-catalog.md).
+Kompletní přehled viz [katalog služeb](../products/service-catalog.md).
 
 ## Technologie
 
-Detailni popis viz [tech stack](../../reference/tech-stack.md).
+Detailní popis viz [tech stack](../../reference/tech-stack.md).
 
-Hlavni technologie: PHP/Laravel, Vue.js, PostgreSQL, Docker, GitHub.
+Hlavní technologie: PHP/Laravel, Vue.js, PostgreSQL, Docker, GitHub.

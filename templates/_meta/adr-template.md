@@ -1,5 +1,5 @@
 ---
-title: "Sablona: Architecture Decision Record"
+title: "Šablona: Architecture Decision Record"
 type: template
 status: ai-generated
 version: "0.1"
@@ -7,76 +7,76 @@ created: 2026-03-03
 updated: 2026-03-03
 tags: [template, adr, decision]
 domain: meta
-summary: "Sablona pro ADR (Architecture Decision Record)"
+summary: "Šablona pro ADR (Architecture Decision Record)"
 ---
 
-# Sablona: Architecture Decision Record (ADR)
+# Šablona: Architecture Decision Record (ADR)
 
-## Pouziti
+## Použití
 
-Tuto sablonu pouzijte pro zaznamenavani klicovych architektonickych a strategickych rozhodnuti. Soubory ukladejte do `strategy/decisions/` s nazvem `adr-NNN-nazev.md`.
+Tuto šablonu použijte pro zaznamenávání klíčových architektonických a strategických rozhodnutí. Soubory ukládejte do `strategy/decisions/` s názvem `adr-NNN-nazev.md`.
 
-## Sablona
+## Šablona
 
 ```markdown
 ---
-title: "ADR-NNN: NAZEV ROZHODNUTI"
+title: "ADR-NNN: NÁZEV ROZHODNUTÍ"
 type: decision
 status: ai-generated
 version: "0.1"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-owner: "JMENO VLASTNIKA"
-tags: [adr, DALSI_TAGY]
-domain: DOMENA
-summary: "Strucny popis rozhodnuti"
+owner: "JMÉNO VLASTNÍKA"
+tags: [adr, DALŠÍ_TAGY]
+domain: DOMÉNA
+summary: "Stručný popis rozhodnutí"
 ---
 
-# ADR-NNN: NAZEV ROZHODNUTI
+# ADR-NNN: NÁZEV ROZHODNUTÍ
 
 ## Status
 
-Navrhovano (proposed) | Prijato (accepted) | Zamitnuto (rejected) | Nahrazeno (superseded by ADR-XXX)
+Navrhováno (proposed) | Přijato (accepted) | Zamítnuto (rejected) | Nahrazeno (superseded by ADR-XXX)
 
 ## Kontext
 
-Jaky je kontext nebo problem, ktery vede k tomuto rozhodnuti?
+Jaký je kontext nebo problém, který vede k tomuto rozhodnutí?
 
-## Zvazovane alternativy
+## Zvažované alternativy
 
-### Alternativa 1: NAZEV
+### Alternativa 1: NÁZEV
 - **Pro**: ...
 - **Proti**: ...
 
-### Alternativa 2: NAZEV
+### Alternativa 2: NÁZEV
 - **Pro**: ...
 - **Proti**: ...
 
-## Rozhodnuti
+## Rozhodnutí
 
-Co jsme se rozhodli udelat a proc.
+Co jsme se rozhodli udělat a proč.
 
-## Duvody
+## Důvody
 
-Hlavni duvody pro toto rozhodnuti.
+Hlavní důvody pro toto rozhodnutí.
 
-## Dusledky
+## Důsledky
 
-### Pozitivni
+### Pozitivní
 - ...
 
-### Negativni
+### Negativní
 - ...
 
-## Souvisejici rozhodnuti
+## Související rozhodnutí
 
 - [ADR-XXX](adr-XXX-nazev.md) — popis vztahu
 ```
 
 ## Checklist
 
-- [ ] Cislo ADR je unikatni a nasleduje sekvenci
-- [ ] Kontext jasne popisuje problem
-- [ ] Jsou uvedeny alespon 2 alternativy
-- [ ] Rozhodnuti je jasne formulovano
-- [ ] Dusledky jsou realisticke
+- [ ] Číslo ADR je unikátní a následuje sekvenci
+- [ ] Kontext jasně popisuje problém
+- [ ] Jsou uvedeny alespoň 2 alternativy
+- [ ] Rozhodnutí je jasně formulováno
+- [ ] Důsledky jsou realistické

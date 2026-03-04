@@ -1,5 +1,5 @@
 ---
-title: "MyCello — 3D tistene violoncello"
+title: "MyCello — 3D tištěné violoncello"
 type: knowledge
 status: ai-generated
 version: "0.1"
@@ -8,84 +8,84 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [product, mycello, 3d-printing, innovation, music]
 domain: products
-summary: "Detail produktu MyCello — 3D tistene violoncello, Creative Business Cup 2022"
+summary: "Detail produktu MyCello — 3D tištěné violoncello, Creative Business Cup 2022"
 ---
 
-# MyCello — 3D tistene violoncello
+# MyCello — 3D tištěné violoncello
 
-## Zakladni informace
+## Základní informace
 
 | Pole | Hodnota |
 |------|---------|
-| **Nazev** | MyCello |
-| **Typ** | Fyzicky produkt (3D tisteny hudebni nastroj) |
-| **Cilova skupina** | Hudebnici, skoly, zacatecnici |
+| **Název** | MyCello |
+| **Typ** | Fyzický produkt (3D tištěný hudební nástroj) |
+| **Cílová skupina** | Hudebníci, školy, začátečníci |
 | **URL** | TODO |
 
-## Pribeh MyCello
+## Příběh MyCello
 
-MyCello je unikatni projekt, ktery spojuje technologii 3D tisku s hudbou. Napad vznikl z touhy zpristupnit violoncello sirssimu okruhu lidi — tradicni violoncella jsou draha, tezka a krehka. 3D tistene violoncello tyto bariery odstranuje.
+MyCello je unikátní projekt, který spojuje technologii 3D tisku s hudbou. Nápad vznikl z touhy zpřístupnit violoncello širšímu okruhu lidí — tradiční violoncella jsou drahá, těžká a křehká. 3D tištěné violoncello tyto bariéry odstraňuje.
 
-Projekt MyCello ziskal **3. misto na Creative Business Cup 2022** — prestizni mezinarodni soutezi pro kreativni podnikatele. Toto oceneni potvrdilo, ze spojeni technologie a umeni ma globalni potencial.
+Projekt MyCello získal **3. místo na Creative Business Cup 2022** — prestižní mezinárodní soutěži pro kreativní podnikatele. Toto ocenění potvrdilo, že spojení technologie a umění má globální potenciál.
 
-## Oceneni
+## Ocenění
 
-| Rok | Oceneni | Detail |
+| Rok | Ocenění | Detail |
 |-----|---------|--------|
-| 2022 | Creative Business Cup | 3. misto na svete |
+| 2022 | Creative Business Cup | 3. místo na světě |
 
 ## Produkt
 
 ### Vlastnosti
 | Vlastnost | Popis |
 |-----------|-------|
-| Material | TODO (typ plastu/kompozitu) |
-| Hmotnost | TODO (lehci nez tradicni cello) |
+| Materiál | TODO (typ plastu/kompozitu) |
+| Hmotnost | TODO (lehčí než tradiční cello) |
 | Zvuk | TODO (charakteristika zvuku) |
-| Trvanlivost | Vysoka odolnost, necitliva na vlhkost a teplotu |
-| Cena | TODO (vyrazne nizsi nez tradicni cello) |
-| Customizace | Moznost prizpusobeni designu, barvy, velikosti |
+| Trvanlivost | Vysoká odolnost, necitlivá na vlhkost a teplotu |
+| Cena | TODO (výrazně nižší než tradiční cello) |
+| Customizace | Možnost přizpůsobení designu, barvy, velikosti |
 
-### Vyhody oproti tradicnimu cellu
-1. **Cenova dostupnost** — zlomek ceny tradicniho violoncella
-2. **Nízka hmotnost** — snadny transport, vhodne pro cestovani
-3. **Odolnost** — neni citlive na vlhkost, teplotu, naraz
-4. **Customizace** — moznost personalizace designu
-5. **Pristupnost** — demokratizace pristupu k hudebnimu nastroji
+### Výhody oproti tradičnímu cellu
+1. **Cenová dostupnost** — zlomek ceny tradičního violoncella
+2. **Nízká hmotnost** — snadný transport, vhodné pro cestování
+3. **Odolnost** — není citlivé na vlhkost, teplotu, náraz
+4. **Customizace** — možnost personalizace designu
+5. **Přístupnost** — demokratizace přístupu k hudebnímu nástroji
 
-### Ciloví zákaznici
-- **Zacatecnici** — cenove dostupna alternativa pro start
-- **Cestujici hudebnici** — lehky a odolny nastroj na cesty
-- **Skoly** — odolny nastroj pro vyuku
-- **Experimentatori** — hudebnici hledajici novy zvuk
+### Cíloví zákazníci
+- **Začátečníci** — cenově dostupná alternativa pro start
+- **Cestující hudebníci** — lehký a odolný nástroj na cesty
+- **Školy** — odolný nástroj pro výuku
+- **Experimentátoři** — hudebníci hledající nový zvuk
 
-## Technologie vyroby
+## Technologie výroby
 
-| Faze | Popis |
+| Fáze | Popis |
 |------|-------|
-| Navrh | 3D modelovani, akusticka optimalizace |
-| Tisk | FDM/FFF technologie (TODO — upresnit) |
-| Post-processing | Bruseni, povrchova uprava |
-| Montaz | Pridani strun, koliku, kobylek |
-| Ladeni | Akusticke ladeni a kontrola kvality |
+| Návrh | 3D modelování, akustická optimalizace |
+| Tisk | FDM/FFF technologie (TODO — upřesnit) |
+| Post-processing | Broušení, povrchová úprava |
+| Montáž | Přidání strun, kolíků, kobylky |
+| Ladění | Akustické ladění a kontrola kvality |
 
-## Obchodni model
+## Obchodní model
 
-| Polozka | Detail |
+| Položka | Detail |
 |---------|--------|
-| Cenovy model | Primý prodej |
+| Cenový model | Přímý prodej |
 | Cena | TODO |
-| Distribuce | TODO (online, primo, partnerske obchody) |
-| Personalizace | Priplatek za custom design |
+| Distribuce | TODO (online, přímo, partnerské obchody) |
+| Personalizace | Příplatek za custom design |
 
-## Medialni ohlas
+## Mediální ohlas
 
-- Creative Business Cup 2022 — 3. misto
-- TODO — dalsi medialni vystupy
+- Creative Business Cup 2022 — 3. místo
+- TODO — další mediální výstupy
 
-## Budouci vize
+## Budoucí vize
 
-- Rozssireni na dalsi nastroje (TODO)
-- Mezinarodni distribuce
-- Spoluprace s hudebními skolami
-- Vyvoj novych materialu pro lepsi zvuk
+- Rozšíření na další nástroje (TODO)
+- Mezinárodní distribuce
+- Spolupráce s hudebními školami
+- Vývoj nových materiálů pro lepší zvuk

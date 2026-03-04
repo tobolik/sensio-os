@@ -1,5 +1,5 @@
 ---
-title: "Hodnotici kriteria"
+title: "Hodnoticí kritéria"
 type: reference
 status: ai-generated
 version: "0.1"
@@ -8,75 +8,75 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [evaluation, criteria, decision-making]
 domain: strategy
-summary: "Hodnotici kriteria pro produkty, partnery, nastroje a rozhodovani"
+summary: "Hodnoticí kritéria pro produkty, partnery, nástroje a rozhodování"
 ---
 
-# Hodnotici kriteria
+# Hodnoticí kritéria
 
-## Hodnoceni produktu / funkci
+## Hodnocení produktů / funkcí
 
-Pouzivame pro rozhodovani o prioritizaci funkci a produktovych rozhodnuti.
+Používáme pro rozhodování o prioritizaci funkcí a produktových rozhodnutí.
 
-| Kriterium | Vaha | Popis |
+| Kritérium | Váha | Popis |
 |-----------|------|-------|
-| Hodnota pro zakaznika | 30% | Jak moc funkce resi skutecny problem zakazniku? |
-| Strategicky soulad | 20% | Je v souladu s nasi vizi a strategii? |
-| Narocnost implementace | 20% | Kolik casu a zdroju to vyzaduje? |
-| Revenue potencial | 15% | Jaky je primy nebo neprimy dopad na prijem? |
-| Technicky dluh | 15% | Pridava nebo snizuje technicky dluh? |
+| Hodnota pro zákazníka | 30% | Jak moc funkce řeší skutečný problém zákazníků? |
+| Strategický soulad | 20% | Je v souladu s naší vizí a strategií? |
+| Náročnost implementace | 20% | Kolik času a zdrojů to vyžaduje? |
+| Revenue potenciál | 15% | Jaký je přímý nebo nepřímý dopad na příjem? |
+| Technický dluh | 15% | Přidává nebo snižuje technický dluh? |
 
-### Bodovani
-- 5 = Vynikajici
-- 4 = Dobre
-- 3 = Prumerne
-- 2 = Podprumerne
-- 1 = Nevyhovujici
+### Bodování
+- 5 = Vynikající
+- 4 = Dobré
+- 3 = Průměrné
+- 2 = Podprůměrné
+- 1 = Nevyhovující
 
-### Minimalni skore pro schvaleni: TODO
+### Minimální skóre pro schválení: TODO
 
-## Hodnoceni partneru / dodavatelu
+## Hodnocení partnerů / dodavatelů
 
-| Kriterium | Vaha | Popis |
+| Kritérium | Váha | Popis |
 |-----------|------|-------|
-| Odbornost | 25% | Prokazane zkusenosti v relevantni oblasti |
-| Spolehlivost | 25% | Dodrzovani terminu a kvality |
-| Cenova primerenist | 20% | Hodnota za penize |
-| Kulturni fit | 15% | Soulad s nasimi hodnotami a zpusobem prace |
-| Reference | 15% | Overitelne reference a portfolio |
+| Odbornost | 25% | Prokázané zkušenosti v relevantní oblasti |
+| Spolehlivost | 25% | Dodržování termínů a kvality |
+| Cenová přiměřenost | 20% | Hodnota za peníze |
+| Kulturní fit | 15% | Soulad s našimi hodnotami a způsobem práce |
+| Reference | 15% | Ověřitelné reference a portfolio |
 
-## Hodnoceni nastroju / technologii
+## Hodnocení nástrojů / technologií
 
-| Kriterium | Vaha | Popis |
+| Kritérium | Váha | Popis |
 |-----------|------|-------|
-| Funkcionalita | 25% | Pokryva nase potreby? |
-| Integrace | 20% | Jak dobre se integruje s nasim stackem? |
+| Funkcionalita | 25% | Pokrývá naše potřeby? |
+| Integrace | 20% | Jak dobře se integruje s naším stackem? |
 | Cena | 20% | TCO (Total Cost of Ownership) |
-| Komunita a podpora | 15% | Aktivni komunita, dokumentace, podpora |
-| Bezpecnost | 10% | Bezpecnostni standardy a certifikace |
-| Skalovatelnost | 10% | Zvladne rust nasich potreb? |
+| Komunita a podpora | 15% | Aktivní komunita, dokumentace, podpora |
+| Bezpečnost | 10% | Bezpečnostní standardy a certifikace |
+| Škálovatelnost | 10% | Zvládne růst našich potřeb? |
 
-## Hodnoceni projektu (go/no-go)
+## Hodnocení projektů (go/no-go)
 
-Pro rozhodnuti, zda prijmout B2B projekt:
+Pro rozhodnutí, zda přijmout B2B projekt:
 
-| Kriterium | Vaha | Popis |
+| Kritérium | Váha | Popis |
 |-----------|------|-------|
-| Strategicky soulad | 20% | Odpovida nasi strategii a hodnotam? |
-| Kapacita tymu | 20% | Mame lidi a cas? |
-| Technicka proveditelnost | 20% | Umime to technicky zvladnout? |
-| Financni atraktivita | 20% | Je to financne zajimave? |
-| Referenční potencial | 10% | Muze se stat referencnim projektem? |
-| Dlouhodoby potencial | 10% | Je prilezitost pro dlouhodobou spolupraci? |
+| Strategický soulad | 20% | Odpovídá naší strategii a hodnotám? |
+| Kapacita týmu | 20% | Máme lidi a čas? |
+| Technická proveditelnost | 20% | Umíme to technicky zvládnout? |
+| Finanční atraktivita | 20% | Je to finančně zajímavé? |
+| Referenční potenciál | 10% | Může se stát referenčním projektem? |
+| Dlouhodobý potenciál | 10% | Je příležitost pro dlouhodobou spolupráci? |
 
-### Go/No-Go prah
-- **Go**: Vazeny prumer >= 3.5
-- **Podmieneny Go**: Vazeny prumer 2.5-3.5 (vyzaduje souhlas jednatele)
-- **No-Go**: Vazeny prumer < 2.5
+### Go/No-Go práh
+- **Go**: Vážený průměr >= 3.5
+- **Podmíněný Go**: Vážený průměr 2.5-3.5 (vyžaduje souhlas jednatele)
+- **No-Go**: Vážený průměr < 2.5
 
-## Proces hodnoceni
+## Proces hodnocení
 
-1. **Sber dat** — shromazdit relevantni informace
-2. **Bodovani** — kazdy hodnotitel oboduje nezavisle
-3. **Diskuze** — probrat rozpory v hodnoceni
-4. **Rozhodnuti** — finalni rozhodnuti na zaklade vyzeneho prumeru
-5. **Dokumentace** — zaznamenat rozhodnuti a duvody (viz [ADR sablona](../../templates/_meta/adr-template.md))
+1. **Sběr dat** — shromáždit relevantní informace
+2. **Bodování** — každý hodnotitel oboduje nezávisle
+3. **Diskuze** — probrat rozpory v hodnocení
+4. **Rozhodnutí** — finální rozhodnutí na základě váženého průměru
+5. **Dokumentace** — zaznamenat rozhodnutí a důvody (viz [ADR šablona](../../templates/_meta/adr-template.md))

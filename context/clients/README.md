@@ -1,7 +1,7 @@
 # context/clients/
 
-Klientske profily a segmentace zakazniku firmy Sensio.cz.
+Klientské profily a segmentace zákazníků firmy Sensio.cz.
 
 ## Obsah
 
-- [ideal-client-profile.md](ideal-client-profile.md) — Profily idealniho zakaznika (ICP) pro 3 segmenty
+- [ideal-client-profile.md](ideal-client-profile.md) — Profily ideálního zákazníka (ICP) pro 3 segmenty

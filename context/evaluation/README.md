@@ -1,7 +1,7 @@
 # context/evaluation/
 
-Hodnotici kriteria pro produkty, partnery, nastroje a rozhodovani.
+Hodnoticí kritéria pro produkty, partnery, nástroje a rozhodování.
 
 ## Obsah
 
-- [criteria.md](criteria.md) — Hodnotici kriteria pro ruzne oblasti
+- [criteria.md](criteria.md) — Hodnoticí kritéria pro různé oblasti

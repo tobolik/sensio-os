@@ -8,60 +8,60 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [values, culture, company]
 domain: company
-summary: "5 klicovych hodnot firmy Sensio.cz"
+summary: "5 klíčových hodnot firmy Sensio.cz"
 ---
 
 # Hodnoty firmy Sensio.cz
 
 ## 1. Smysluplnost
 
-**Delame veci, ktere maji smysl.**
+**Děláme věci, které mají smysl.**
 
-Kazdy produkt, kazdy projekt a kazde rozhodnuti posudzujeme optikou: "Ma to smysl?" Nechceme delat veci jen proto, ze se daji delat nebo ze jsou ziskove. Chceme, aby nase prace mela pozitivni dopad — at uz na skoly, firmy nebo hudebni komunitu.
+Každý produkt, každý projekt a každé rozhodnutí posuzujeme optikou: "Má to smysl?" Nechceme dělat věci jen proto, že se dají dělat nebo že jsou ziskové. Chceme, aby naše práce měla pozitivní dopad — ať už na školy, firmy nebo hudební komunitu.
 
-- Vybirame projekty, ktere prinaseji skutecnou hodnotu
-- Odmitame prace, ktere nejsou v souladu s nasimi hodnotami
-- Merime uspech nejen financne, ale i dopadem na klienty
+- Vybíráme projekty, které přinášejí skutečnou hodnotu
+- Odmítáme práce, které nejsou v souladu s našimi hodnotami
+- Měříme úspěch nejen finančně, ale i dopadem na klienty
 
 ## 2. Inovace
 
-**Hledame lepsi zpusoby.**
+**Hledáme lepší způsoby.**
 
-Technologie je pro nas prostredek, ne cil. Neustale hledame zpusoby, jak delat veci lepe — at uz jde o vyvoj software, zpusob komunikace s klienty nebo uplne novy produkt jako 3D tistene violoncello.
+Technologie je pro nás prostředek, ne cíl. Neustále hledáme způsoby, jak dělat věci lépe — ať už jde o vývoj software, způsob komunikace s klienty nebo úplně nový produkt jako 3D tištěné violoncello.
 
-- Investujeme do vyzkumu a vyvoje
-- Nebojime se experimentovat a zkousiet nove pristupy
-- Sledujeme trendy, ale nepodlehame jim bezmyslenne
+- Investujeme do výzkumu a vývoje
+- Nebojíme se experimentovat a zkoušet nové přístupy
+- Sledujeme trendy, ale nepodléháme jim bezmyšlenkovitě
 
-## 3. Zakaznicka orientace
+## 3. Zákaznická orientace
 
-**Klient je stredobodem.**
+**Klient je středobodem.**
 
-Kazde rozhodnuti posudzujeme optikou hodnoty pro klienta. Naslouchame, ptame se a snazime se pochopit skutecne potreby — ne jen to, co klient rika, ale proc to rika.
+Každé rozhodnutí posuzujeme optikou hodnoty pro klienta. Nasloucháme, ptáme se a snažíme se pochopit skutečné potřeby — ne jen to, co klient říká, ale proč to říká.
 
-- Aktivne sbierame zpetnou vazbu
-- Prioritizujeme funkce podle potreb klientu
-- Budujeme dlouhodobe vztahy, ne jednorazove obchody
-- Podpora je soucasti produktu, ne priplatkem
+- Aktivně sbíráme zpětnou vazbu
+- Prioritizujeme funkce podle potřeb klientů
+- Budujeme dlouhodobé vztahy, ne jednorázové obchody
+- Podpora je součástí produktu, ne příplatkem
 
 ## 4. Kvalita
 
-**Radeji mene a lepe.**
+**Raději méně a lépe.**
 
-Nekompromisni pristup k vystupum. Kazdy radek kodu, kazda stranka dokumentace a kazda interakce s klientem musi splnovat nase standardy. Kvalita neni luxus — je to zaklad.
+Nekompromisní přístup k výstupům. Každý řádek kódu, každá stránka dokumentace a každá interakce s klientem musí splňovat naše standardy. Kvalita není luxus — je to základ.
 
-- Code review a testovani jsou neoddiskutovatelne
-- Dokumentujeme, co delame a proc
-- Prubezne zlepsujeme existujici reseni
-- Kvalita je odpovednosti kazdeho, ne jen QA
+- Code review a testování jsou neoddiskutovatelné
+- Dokumentujeme, co děláme a proč
+- Průběžně zlepšujeme existující řešení
+- Kvalita je odpovědností každého, ne jen QA
 
-## 5. Spolecenska odpovednost
+## 5. Společenská odpovědnost
 
-**Uvedomujeme si dopad nasi prace.**
+**Uvědomujeme si dopad naší práce.**
 
-Jako technologicka firma mame moc ovlivnovat, jak lide pracuji, uci se a tvori. Tuto odpovednost bereme vazne. Podporujeme vzdelavani, kulturu a pristupnost technologii.
+Jako technologická firma máme moc ovlivňovat, jak lidé pracují, učí se a tvoří. Tuto odpovědnost bereme vážně. Podporujeme vzdělávání, kulturu a přístupnost technologií.
 
-- iZUS pomaha skolam efektivneji fungovat
-- EOS ZUS digitalizuje souteze a zpristupnuje je
-- MyCello demokratizuje pristup k hudebnim nastrojum
-- Aktivne se zapojujeme do lokalni komunity
+- iZUŠ pomáhá školám efektivněji fungovat
+- EOS ZUŠ digitalizuje soutěže a zpřístupňuje je
+- MyCello demokratizuje přístup k hudebním nástrojům
+- Aktivně se zapojujeme do lokální komunity

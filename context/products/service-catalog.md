@@ -1,5 +1,5 @@
 ---
-title: "Katalog produktu a sluzeb"
+title: "Katalog produktů a služeb"
 type: knowledge
 status: ai-generated
 version: "0.1"
@@ -8,76 +8,76 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [catalog, products, services]
 domain: products
-summary: "Kompletni katalog vsech produktu a sluzeb firmy Sensio.cz"
+summary: "Kompletní katalog všech produktů a služeb firmy Sensio.cz"
 ---
 
-# Katalog produktu a sluzeb
+# Katalog produktů a služeb
 
-## Prehled
+## Přehled
 
-| # | Produkt/Sluzba | Typ | Segment | Model |
+| # | Produkt/Služba | Typ | Segment | Model |
 |---|---------------|-----|---------|-------|
-| 1 | iZUS | SaaS | Software pro ZUS | Recurring |
-| 2 | EOS ZUS | Webova aplikace | Software pro ZUS | Licence |
-| 3 | B2B PRO | Vyvoj na miru | B2B reseni | Projekt |
-| 4 | MyCello | Fyzicky produkt | 3D tisk a inovace | Prodej |
-| 5 | 3D tiskove sluzby | Sluzby | 3D tisk a inovace | Zakazka |
+| 1 | iZUŠ | SaaS | Software pro ZUŠ | Recurring |
+| 2 | EOS ZUŠ | Webová aplikace | Software pro ZUŠ | Licence |
+| 3 | B2B PRO | Vývoj na míru | B2B řešení | Projekt |
+| 4 | MyCello | Fyzický produkt | 3D tisk a inovace | Prodej |
+| 5 | 3D tiskové služby | Služby | 3D tisk a inovace | Zakázka |
 
-## Detailni prehled
+## Detailní přehled
 
-### Software pro ZUS
+### Software pro ZUŠ
 
-#### iZUS — Informacni system pro ZUS
-- **Popis**: Komplexni SaaS informacni system pro zakladni umelecke skoly
-- **Cilova skupina**: ZUS v CR (250+ aktivnich skol)
-- **Model**: Mesicni/rocni predplatne
+#### iZUŠ — Informační systém pro ZUŠ
+- **Popis**: Komplexní SaaS informační systém pro základní umělecké školy
+- **Cílová skupina**: ZUŠ v ČR (250+ aktivních škol)
+- **Model**: Měsíční/roční předplatné
 - **Detail**: [izus.md](izus.md)
 
-#### EOS ZUS — Online soutezni system
-- **Popis**: System pro organizaci celostatnich a krajskych soutezi ZUS
-- **Cilova skupina**: Organizatori soutezi, skoly, porotci
-- **Model**: Rocni licence
+#### EOS ZUŠ — Online soutěžní systém
+- **Popis**: Systém pro organizaci celostátních a krajských soutěží ZUŠ
+- **Cílová skupina**: Organizátoři soutěží, školy, porotci
+- **Model**: Roční licence
 - **Detail**: [eos.md](eos.md)
 
-### B2B reseni
+### B2B řešení
 
-#### B2B PRO — Webove aplikace na miru
-- **Popis**: Vyvoj webovych aplikaci a systemu na miru
-- **Cilova skupina**: Stredne velke firmy v CR
-- **Model**: Fixni cena nebo Time & Material
+#### B2B PRO — Webové aplikace na míru
+- **Popis**: Vývoj webových aplikací a systémů na míru
+- **Cílová skupina**: Středně velké firmy v ČR
+- **Model**: Fixní cena nebo Time & Material
 - **Detail**: [b2b-pro.md](b2b-pro.md)
 
 ### 3D tisk a inovace
 
-#### MyCello — 3D tistene violoncello
-- **Popis**: Unikatni 3D tistene violoncello
-- **Cilova skupina**: Hudebnici, skoly, zacatecnici
-- **Model**: Primy prodej
+#### MyCello — 3D tištěné violoncello
+- **Popis**: Unikátní 3D tištěné violoncello
+- **Cílová skupina**: Hudebníci, školy, začátečníci
+- **Model**: Přímý prodej
 - **Detail**: [mycello.md](mycello.md)
 
-#### 3D tiskove sluzby
-- **Popis**: 3D tisk na zakazku, prototypovani, maloseriova vyroba
-- **Cilova skupina**: Firmy, designeri, jednotlivci
+#### 3D tiskové služby
+- **Popis**: 3D tisk na zakázku, prototypování, malosériová výroba
+- **Cílová skupina**: Firmy, designéři, jednotlivci
 - **Model**: Cena za kus / za hodinu
 - **Detail**: [3d-printing.md](3d-printing.md)
 
-## Doplnkove sluzby
+## Doplňkové služby
 
-| Sluzba | Popis | K produktu |
+| Služba | Popis | K produktu |
 |--------|-------|-----------|
-| Implementace | Nasazeni a konfigurace systemu | iZUS |
-| Skoleni | Zaskoleni uzivatelu | iZUS, B2B PRO |
-| Podpora | Technicka podpora a helpdesk | iZUS, EOS, B2B PRO |
-| Udrzba | Prubezna udrzba a aktualizace | B2B PRO |
-| Konzultace | Poradenstvi a analyza | B2B PRO, 3D tisk |
+| Implementace | Nasazení a konfigurace systému | iZUŠ |
+| Školení | Zaškolení uživatelů | iZUŠ, B2B PRO |
+| Podpora | Technická podpora a helpdesk | iZUŠ, EOS, B2B PRO |
+| Údržba | Průběžná údržba a aktualizace | B2B PRO |
+| Konzultace | Poradenství a analýza | B2B PRO, 3D tisk |
 
 ## Cenová mapa
 
-| Produkt/Sluzba | Cenovy rozsah | Typ platby |
+| Produkt/Služba | Cenový rozsah | Typ platby |
 |----------------|---------------|-----------|
-| iZUS | TODO | Recurring |
-| EOS ZUS | TODO | Rocni |
-| B2B PRO projekt | TODO | Jednorazove |
-| B2B PRO udrzba | TODO | Mesicni |
-| MyCello | TODO | Jednorazove |
-| 3D tisk zakazka | TODO | Jednorazove |
+| iZUŠ | TODO | Recurring |
+| EOS ZUŠ | TODO | Roční |
+| B2B PRO projekt | TODO | Jednorázové |
+| B2B PRO údržba | TODO | Měsíční |
+| MyCello | TODO | Jednorázové |
+| 3D tisk zakázka | TODO | Jednorázové |

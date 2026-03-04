@@ -1,8 +1,8 @@
 # agents/personas/
 
-Persony AI agentu firmy Sensio.cz — definice charakteru, tonu a chovani.
+Persóny AI agentů firmy Sensio.cz — definice charakteru, tónu a chování.
 
 ## Obsah
 
-- [support-agent.md](support-agent.md) — Persona zakaznicke podpory
-- [sales-agent.md](sales-agent.md) — Persona obchodniho agenta
+- [support-agent.md](support-agent.md) — Persóna zákaznické podpory
+- [sales-agent.md](sales-agent.md) — Persóna obchodního agenta

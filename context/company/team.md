@@ -1,5 +1,5 @@
 ---
-title: "Struktura tymu Sensio.cz"
+title: "Struktura týmu Sensio.cz"
 type: knowledge
 status: ai-generated
 version: "0.1"
@@ -8,32 +8,32 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [team, people, organization]
 domain: company
-summary: "Struktura tymu a role ve firme Sensio.cz"
+summary: "Struktura týmu a role ve firmě Sensio.cz"
 ---
 
-# Struktura tymu Sensio.cz
+# Struktura týmu Sensio.cz
 
-## Vedeni
+## Vedení
 
-| Role | Jmeno | Odpovednosti |
+| Role | Jméno | Odpovědnosti |
 |------|-------|-------------|
-| Zakladatel a jednatel | Miroslav Tobolka | Strategie, obchod, rizeni firmy |
+| Zakladatel a jednatel | Miroslav Tobolka | Strategie, obchod, řízení firmy |
 
-## Vyvojovy tym
+## Vývojový tým
 
-| Role | Jmeno | Zamereni |
+| Role | Jméno | Zaměření |
 |------|-------|---------|
 | TODO | TODO | TODO |
 
 ## Obchod a podpora
 
-| Role | Jmeno | Zamereni |
+| Role | Jméno | Zaměření |
 |------|-------|---------|
 | TODO | TODO | TODO |
 
-## Poznamky
+## Poznámky
 
-- Konkretni jmena a role doplnit po konzultaci s vedenim
-- Aktualni stav tymu: TODO
-- Pocet zamestnancu: TODO
-- Externi spolupracovnici: TODO
+- Konkrétní jména a role doplnit po konzultaci s vedením
+- Aktuální stav týmu: TODO
+- Počet zaměstnanců: TODO
+- Externí spolupracovníci: TODO

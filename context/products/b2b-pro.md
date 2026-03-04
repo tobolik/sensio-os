@@ -1,5 +1,5 @@
 ---
-title: "B2B PRO — Webove aplikace na miru"
+title: "B2B PRO — Webové aplikace na míru"
 type: knowledge
 status: ai-generated
 version: "0.1"
@@ -8,87 +8,87 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [product, b2b, custom-development, web-applications]
 domain: products
-summary: "Detail produktu B2B PRO — webove aplikace a systemy na miru pro firmy"
+summary: "Detail produktu B2B PRO — webové aplikace a systémy na míru pro firmy"
 ---
 
-# B2B PRO — Webove aplikace na miru
+# B2B PRO — Webové aplikace na míru
 
-## Zakladni informace
+## Základní informace
 
 | Pole | Hodnota |
 |------|---------|
-| **Nazev** | B2B PRO |
-| **Typ** | Vyvoj na zakazku |
-| **Cilova skupina** | Stredne velke firmy v CR |
+| **Název** | B2B PRO |
+| **Typ** | Vývoj na zakázku |
+| **Cílová skupina** | Středně velké firmy v ČR |
 | **URL** | TODO |
 
 ## Co je B2B PRO
 
-B2B PRO je znacka, pod kterou Sensio.cz nabizi vyvoj webovych aplikaci a systemu na miru. Vyuzivame zkusenosti z vyvoje vlastnich SaaS produktu (iZUS, EOS) a aplikujeme je na reseni specifickych potreb firem.
+B2B PRO je značka, pod kterou Sensio.cz nabízí vývoj webových aplikací a systémů na míru. Využíváme zkušenosti z vývoje vlastních SaaS produktů (iZUŠ, EOS) a aplikujeme je na řešení specifických potřeb firem.
 
-## Cilova skupina
+## Cílová skupina
 
-- **Stredne velke firmy** (TODO — pocet zamestnancu)
-- Firmy, ktere potrebuji digitalizovat interni procesy
-- Firmy, ktere potrebuji zakazkovy webovy system
-- Firmy, pro ktere hromadna reseni nestaci
+- **Středně velké firmy** (TODO — počet zaměstnanců)
+- Firmy, které potřebují digitalizovat interní procesy
+- Firmy, které potřebují zakázkový webový systém
+- Firmy, pro které hromadná řešení nestačí
 
-## Co nabizime
+## Co nabízíme
 
-### Typy projektu
-| Typ | Popis | Typicky rozsah |
+### Typy projektů
+| Typ | Popis | Typický rozsah |
 |-----|-------|---------------|
-| Webova aplikace | Interni nebo zakaznicka webova aplikace | TODO |
-| Informacni system | Komplexni system pro rizeni procesu | TODO |
-| E-commerce | Internetove obchody na miru | TODO |
-| Integrace | Propojeni existujicich systemu | TODO |
-| API vyvoj | REST/GraphQL API pro mobilni a webove klienty | TODO |
+| Webová aplikace | Interní nebo zákaznická webová aplikace | TODO |
+| Informační systém | Komplexní systém pro řízení procesů | TODO |
+| E-commerce | Internetové obchody na míru | TODO |
+| Integrace | Propojení existujících systémů | TODO |
+| API vývoj | REST/GraphQL API pro mobilní a webové klienty | TODO |
 
-### Sluzby
-| Sluzba | Popis |
+### Služby
+| Služba | Popis |
 |--------|-------|
-| Analyza a navrh | Analyza pozadavku, navrh reseni, prototypovani |
-| Vyvoj | Full-stack vyvoj webovych aplikaci |
-| Testovani | Manualni a automatizovane testovani |
-| Nasazeni | Nasazeni do produkce, DevOps |
-| Udrzba | Dlouhodoba udrzba a podpora |
-| Skoleni | Zaskoleni uzivatelu |
+| Analýza a návrh | Analýza požadavků, návrh řešení, prototypování |
+| Vývoj | Full-stack vývoj webových aplikací |
+| Testování | Manuální a automatizované testování |
+| Nasazení | Nasazení do produkce, DevOps |
+| Údržba | Dlouhodobá údržba a podpora |
+| Školení | Zaškolení uživatelů |
 
 ## Technologie
 
-Vyuzivame stejny tech stack jako pro nase vlastni produkty:
+Využíváme stejný tech stack jako pro naše vlastní produkty:
 
 | Vrstva | Technologie |
 |--------|------------|
 | Backend | PHP / Laravel |
 | Frontend | Vue.js |
-| Databaze | PostgreSQL |
+| Databáze | PostgreSQL |
 | Infrastruktura | Docker |
-| Verzovani | GitHub |
+| Verzování | GitHub |
 | CI/CD | TODO |
 
-## Obchodni model
+## Obchodní model
 
-| Polozka | Detail |
+| Položka | Detail |
 |---------|--------|
-| Cenovy model | Fixni cena nebo Time & Material |
-| Hodinova sazba | TODO |
-| Minimalni projekt | TODO |
-| Udrzba | Mesicni pausal |
+| Cenový model | Fixní cena nebo Time & Material |
+| Hodinová sazba | TODO |
+| Minimální projekt | TODO |
+| Údržba | Měsíční paušál |
 
-## Proc Sensio.cz
+## Proč Sensio.cz
 
-1. **Zkusenosti z vlastniho SaaS** — vime, co znamena provozovat software pro stovky uzivatelu
-2. **Overeny tech stack** — technologie, ktere pouzivame denne
-3. **Maly tym, velka odpovednost** — primy kontakt s vyvojari, zadna korporatni byrokracie
-4. **Dlouhodobe partnerstvi** — nezajima nas jednorazovy projekt, ale dlouhodoby vztah
+1. **Zkušenosti z vlastního SaaS** — víme, co znamená provozovat software pro stovky uživatelů
+2. **Ověřený tech stack** — technologie, které používáme denně
+3. **Malý tým, velká odpovědnost** — přímý kontakt s vývojáři, žádná korporátní byrokracie
+4. **Dlouhodobé partnerství** — nezajímá nás jednorázový projekt, ale dlouhodobý vztah
 
-## Referencni projekty
+## Referenční projekty
 
 | Projekt | Klient | Popis | Rok |
 |---------|--------|-------|-----|
 | TODO | TODO | TODO | TODO |
 
-## Proces dodavky
+## Proces dodávky
 
 Viz [project-delivery.md](../../processes/delivery/project-delivery.md).

@@ -1,5 +1,5 @@
 ---
-title: "Konkurencni analyza"
+title: "Konkurenční analýza"
 type: knowledge
 status: ai-generated
 version: "0.1"
@@ -8,75 +8,75 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [competition, market, analysis]
 domain: strategy
-summary: "Konkurencni analyza pro kazdy segment firmy Sensio.cz"
+summary: "Konkurenční analýza pro každý segment firmy Sensio.cz"
 ---
 
-# Konkurencni analyza
+# Konkurenční analýza
 
-## Segment 1: Software pro ZUS
+## Segment 1: Software pro ZUŠ
 
 ### Konkurenti
 
-| Konkurent | Produkt | Silne stranky | Slabe stranky | Podil na trhu |
+| Konkurent | Produkt | Silné stránky | Slabé stránky | Podíl na trhu |
 |-----------|---------|--------------|--------------|--------------|
 | TODO | TODO | TODO | TODO | TODO |
 | TODO | TODO | TODO | TODO | TODO |
 
-### Nase pozice
-- **Aktualni podil**: 250+ skol z ~500 ZUS v CR (~50%)
-- **Konkurencni vyhoda**: Specializace na ZUS, integrace s EOS, 10+ let zkusenosti
+### Naše pozice
+- **Aktuální podíl**: 250+ škol z ~500 ZUŠ v ČR (~50%)
+- **Konkurenční výhoda**: Specializace na ZUŠ, integrace s EOS, 10+ let zkušeností
 - **Hrozby**: TODO
-- **Prilezitosti**: Zbyvajicich ~250 skol, upsell stavajicim
+- **Příležitosti**: Zbývajících ~250 škol, upsell stávajícím
 
-### SWOT analyza — Software pro ZUS
+### SWOT analýza — Software pro ZUŠ
 
-| | Pozitivni | Negativni |
+| | Pozitivní | Negativní |
 |---|----------|----------|
-| **Interni** | Silna znalost domeny, 250+ referencí, integrace iZUS+EOS | TODO |
-| **Externi** | Digitalizace skolstvi, dotace | TODO |
+| **Interní** | Silná znalost domény, 250+ referencí, integrace iZUŠ+EOS | TODO |
+| **Externí** | Digitalizace školství, dotace | TODO |
 
-## Segment 2: B2B reseni
+## Segment 2: B2B řešení
 
 ### Konkurenti
 
-| Konkurent | Zamereni | Silne stranky | Slabe stranky | Region |
+| Konkurent | Zaměření | Silné stránky | Slabé stránky | Region |
 |-----------|---------|--------------|--------------|--------|
 | TODO | TODO | TODO | TODO | TODO |
 | TODO | TODO | TODO | TODO | TODO |
 
-### Nase pozice
-- **Typ konkurence**: Lokalni i celostátní vyvojove firmy, agentury, freelanceri
-- **Konkurencni vyhoda**: Zkusenosti ze SaaS vyvoje, overeny tech stack, maly tym = primy kontakt
-- **Hrozby**: Velke agentury s nizsimi cenami, offshore vyvoj
-- **Prilezitosti**: Rust poptavky po digitalizaci, lokalni firmy preferuji lokalni dodavatele
+### Naše pozice
+- **Typ konkurence**: Lokální i celostátní vývojové firmy, agentury, freelanceři
+- **Konkurenční výhoda**: Zkušenosti ze SaaS vývoje, ověřený tech stack, malý tým = přímý kontakt
+- **Hrozby**: Velké agentury s nižšími cenami, offshore vývoj
+- **Příležitosti**: Růst poptávky po digitalizaci, lokální firmy preferují lokální dodavatele
 
-### SWOT analyza — B2B reseni
+### SWOT analýza — B2B řešení
 
-| | Pozitivni | Negativni |
+| | Pozitivní | Negativní |
 |---|----------|----------|
-| **Interni** | SaaS zkusenosti, kvalitni tech stack | Omezena kapacita tymu |
-| **Externi** | Rust digitalizace, lokalni preference | Cenova konkurence, velke agentury |
+| **Interní** | SaaS zkušenosti, kvalitní tech stack | Omezená kapacita týmu |
+| **Externí** | Růst digitalizace, lokální preference | Cenová konkurence, velké agentury |
 
 ## Segment 3: 3D tisk a inovace
 
 ### Konkurenti — MyCello
 
-| Konkurent | Produkt | Silne stranky | Slabe stranky |
+| Konkurent | Produkt | Silné stránky | Slabé stránky |
 |-----------|---------|--------------|--------------|
 | TODO | TODO | TODO | TODO |
 
-### Konkurenti — 3D tiskove sluzby
+### Konkurenti — 3D tiskové služby
 
-| Konkurent | Zamereni | Silne stranky | Slabe stranky | Region |
+| Konkurent | Zaměření | Silné stránky | Slabé stránky | Region |
 |-----------|---------|--------------|--------------|--------|
 | TODO | TODO | TODO | TODO | TODO |
 
-### Nase pozice
-- **MyCello**: Prakticky bez prime konkurence v segmentu 3D tistenych violoncell
-- **3D tisk sluzby**: Konkurence existuje, ale nase know-how z MyCello je diferenciator
-- **Hrozby**: Velke 3D tiskove firmy, snizovani cen 3D tisku
-- **Prilezitosti**: Rostouci zajem o customizovane hudebni nastroje, unikatni PR pribeh
+### Naše pozice
+- **MyCello**: Prakticky bez přímé konkurence v segmentu 3D tištěných violoncell
+- **3D tisk služby**: Konkurence existuje, ale naše know-how z MyCello je diferenciátor
+- **Hrozby**: Velké 3D tiskové firmy, snižování cen 3D tisku
+- **Příležitosti**: Rostoucí zájem o customizované hudební nástroje, unikátní PR příběh
 
-## Celkove zhodnoceni
+## Celkové zhodnocení
 
-Sensio.cz ma nejsilnejsi konkurencni pozici v segmentu Software pro ZUS, kde drzime dominantni podil trhu. V B2B segmentu konkurujeme kvalitou a zkusenostmi. V segmentu 3D tisku jsme v unikatni pozici diky MyCello.
+Sensio.cz má nejsilnější konkurenční pozici v segmentu Software pro ZUŠ, kde držíme dominantní podíl trhu. V B2B segmentu konkurujeme kvalitou a zkušenostmi. V segmentu 3D tisku jsme v unikátní pozici díky MyCello.

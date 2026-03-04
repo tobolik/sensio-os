@@ -1,9 +1,9 @@
 # agents/
 
-AI agenti firmy Sensio.cz — persony, system prompty a nastroje.
+AI agenti firmy Sensio.cz — persóny, systémové prompty a nástroje.
 
-## Podslozky
+## Podsložky
 
-- [personas/](personas/) — Persony AI agentu (podpora, obchod)
-- [prompts/](prompts/) — System prompty pro AI agenty
-- [tools/](tools/) — Inventar AI nastroju
+- [personas/](personas/) — Persóny AI agentů (podpora, obchod)
+- [prompts/](prompts/) — Systémové prompty pro AI agenty
+- [tools/](tools/) — Inventář AI nástrojů

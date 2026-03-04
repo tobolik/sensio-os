@@ -1,9 +1,9 @@
 # templates/
 
-Sablony dokumentu firmy Sensio.cz — znovupouzitelne vzory pro ruzne typy dokumentu.
+Šablony dokumentů firmy Sensio.cz — znovupoužitelné vzory pro různé typy dokumentů.
 
-## Podslozky
+## Podsložky
 
-- [_meta/](_meta/) — Meta sablony (znalostni clanek, ADR)
-- [sales/](sales/) — Obchodni sablony (nabidka)
-- [delivery/](delivery/) — Dodavkove sablony (kickoff projektu)
+- [_meta/](_meta/) — Meta šablony (znalostní článek, ADR)
+- [sales/](sales/) — Obchodní šablony (nabídka)
+- [delivery/](delivery/) — Dodávkové šablony (kickoff projektu)

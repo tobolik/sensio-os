@@ -1,8 +1,8 @@
 # processes/sales/
 
-Obchodni procesy firmy Sensio.cz — od discovery az po uzavreni obchodu.
+Obchodní procesy firmy Sensio.cz — od discovery až po uzavření obchodu.
 
 ## Obsah
 
-- [discovery-framework.md](discovery-framework.md) — 4fazovy discovery framework
-- [proposal-creation.md](proposal-creation.md) — Proces tvorby nabidek
+- [discovery-framework.md](discovery-framework.md) — 4fázový discovery framework
+- [proposal-creation.md](proposal-creation.md) — Proces tvorby nabídek

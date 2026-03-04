@@ -1,7 +1,7 @@
 # templates/sales/
 
-Obchodni sablony firmy Sensio.cz.
+Obchodní šablony firmy Sensio.cz.
 
 ## Obsah
 
-- [proposal-template.md](proposal-template.md) — Sablona obchodni nabidky
+- [proposal-template.md](proposal-template.md) — Šablona obchodní nabídky

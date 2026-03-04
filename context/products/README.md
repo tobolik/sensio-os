@@ -1,12 +1,12 @@
 # context/products/
 
-Detailni popisy vsech produktu a sluzeb firmy Sensio.cz.
+Detailní popisy všech produktů a služeb firmy Sensio.cz.
 
 ## Obsah
 
-- [izus.md](izus.md) — iZUS: informacni system pro zakladni umelecke skoly
-- [eos.md](eos.md) — EOS ZUS: online soutezni system
-- [b2b-pro.md](b2b-pro.md) — B2B PRO: webove aplikace na miru
-- [mycello.md](mycello.md) — MyCello: 3D tistene violoncello
-- [3d-printing.md](3d-printing.md) — 3D tiskove sluzby
-- [service-catalog.md](service-catalog.md) — Katalog vsech produktu a sluzeb
+- [izus.md](izus.md) — iZUŠ: informační systém pro základní umělecké školy
+- [eos.md](eos.md) — EOS ZUŠ: online soutěžní systém
+- [b2b-pro.md](b2b-pro.md) — B2B PRO: webové aplikace na míru
+- [mycello.md](mycello.md) — MyCello: 3D tištěné violoncello
+- [3d-printing.md](3d-printing.md) — 3D tiskové služby
+- [service-catalog.md](service-catalog.md) — Katalog všech produktů a služeb

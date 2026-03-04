@@ -1,5 +1,5 @@
 ---
-title: "Organizacni struktura Sensio.cz"
+title: "Organizační struktura Sensio.cz"
 type: knowledge
 status: ai-generated
 version: "0.1"
@@ -8,14 +8,14 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [organization, structure, management]
 domain: company
-summary: "Organizacni struktura firmy Sensio.cz"
+summary: "Organizační struktura firmy Sensio.cz"
 ---
 
-# Organizacni struktura Sensio.cz
+# Organizační struktura Sensio.cz
 
-## Prehled
+## Přehled
 
-Sensio.cz je mala firma s plochou organizacni strukturou. Jednatel Miroslav Tobolka ridi firmu primo a ucastni se operativnich cinnosti.
+Sensio.cz je malá firma s plochou organizační strukturou. Jednatel Miroslav Tobolka řídí firmu přímo a účastní se operativních činností.
 
 ```
                     ┌──────────────────┐
@@ -26,52 +26,52 @@ Sensio.cz je mala firma s plochou organizacni strukturou. Jednatel Miroslav Tobo
           ┌──────────────────┼──────────────────┐
           │                  │                  │
   ┌───────┴───────┐  ┌──────┴──────┐  ┌───────┴───────┐
-  │   Produktovy  │  │  Obchod a   │  │   Vyvoj a     │
+  │   Produktový  │  │  Obchod a   │  │   Vývoj a     │
   │   management  │  │  podpora    │  │   technologie │
   └───────┬───────┘  └──────┬──────┘  └───────┬───────┘
           │                 │                  │
-     iZUS, EOS,        Zakaznici,         Vyvojari,
+     iZUŠ, EOS,        Zákazníci,         Vývojáři,
      B2B PRO,          marketing,         DevOps,
-     MyCello           fakturace          testovani
+     MyCello           fakturace          testování
 ```
 
-## Role a odpovednosti
+## Role a odpovědnosti
 
-### Vedeni
-- **Jednatel (CEO)**: Strategicke rizeni, klicova rozhodnuti, obchodni vztahy, reprezentace firmy
+### Vedení
+- **Jednatel (CEO)**: Strategické řízení, klíčová rozhodnutí, obchodní vztahy, reprezentace firmy
 
-### Produktovy management
-- Definice produktove vize a roadmapy
-- Prioritizace funkci a pozadavku
-- Komunikace s uzivateli a sber zpetne vazby
-- Odpovednost: TODO (aktualne)
+### Produktový management
+- Definice produktové vize a roadmapy
+- Prioritizace funkcí a požadavků
+- Komunikace s uživateli a sběr zpětné vazby
+- Odpovědnost: TODO (aktuálně)
 
 ### Obchod a podpora
-- Zakaznicka podpora (helpdesk, skoleni)
-- Akvizice novych klientu
+- Zákaznická podpora (helpdesk, školení)
+- Akvizice nových klientů
 - Fakturace a administrativa
 - Marketing a komunikace
-- Odpovednost: TODO (aktualne)
+- Odpovědnost: TODO (aktuálně)
 
-### Vyvoj a technologie
-- Softwarovy vyvoj (backend, frontend)
+### Vývoj a technologie
+- Softwarový vývoj (backend, frontend)
 - Infrastruktura a DevOps
-- Testovani a kvalita
+- Testování a kvalita
 - 3D tisk a hardware
-- Odpovednost: TODO (aktualne)
+- Odpovědnost: TODO (aktuálně)
 
-## Rozhodovaci proces
+## Rozhodovací proces
 
-1. **Strategicka rozhodnuti** — jednatel po konzultaci s tymem
-2. **Produktova rozhodnuti** — produktovy management s jednatelemou
-3. **Technicka rozhodnuti** — vyvojovy tym s vedenim
-4. **Operativni rozhodnuti** — vlastnik procesu samostatne
+1. **Strategická rozhodnutí** — jednatel po konzultaci s týmem
+2. **Produktová rozhodnutí** — produktový management s jednatelem
+3. **Technická rozhodnutí** — vývojový tým s vedením
+4. **Operativní rozhodnutí** — vlastník procesu samostatně
 
-## Komunikacni kanaly
+## Komunikační kanály
 
-| Kanal | Ucel |
+| Kanál | Účel |
 |-------|------|
-| TODO | Interni komunikace |
-| GitHub | Sprava kodu a projektu |
-| TODO | Projektove rizeni |
-| Email | Externi komunikace |
+| TODO | Interní komunikace |
+| GitHub | Správa kódu a projektů |
+| TODO | Projektové řízení |
+| Email | Externí komunikace |

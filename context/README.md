@@ -1,11 +1,11 @@
 # context/
 
-Kontext firmy Sensio.cz — vsechny znalosti a data potrebne pro rozhodovani a komunikaci.
+Kontext firmy Sensio.cz — všechny znalosti a data potřebné pro rozhodování a komunikaci.
 
-## Podslozky
+## Podsložky
 
-- [company/](company/) — Firemni profil, hodnoty, tym, struktura, financni model
-- [products/](products/) — Produkty a sluzby (iZUS, EOS, B2B PRO, MyCello, 3D tisk)
-- [clients/](clients/) — Klientske profily a segmentace
+- [company/](company/) — Firemní profil, hodnoty, tým, struktura, finanční model
+- [products/](products/) — Produkty a služby (iZUŠ, EOS, B2B PRO, MyCello, 3D tisk)
+- [clients/](clients/) — Klientské profily a segmentace
 - [market/](market/) — Trh a konkurence
-- [evaluation/](evaluation/) — Hodnoticí kriteria
+- [evaluation/](evaluation/) — Hodnoticí kritéria

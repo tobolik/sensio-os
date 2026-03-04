@@ -1,5 +1,5 @@
 ---
-title: "Sablona: Znalostni clanek"
+title: "Šablona: Znalostní článek"
 type: template
 status: ai-generated
 version: "0.1"
@@ -7,36 +7,36 @@ created: 2026-03-03
 updated: 2026-03-03
 tags: [template, knowledge, article]
 domain: meta
-summary: "Sablona pro vytvoreni znalostniho clanku v Business OS"
+summary: "Šablona pro vytvoření znalostního článku v Business OS"
 ---
 
-# Sablona: Znalostni clanek
+# Šablona: Znalostní článek
 
-## Pouziti
+## Použití
 
-Tuto sablonu pouzijte pro vytvareni novych znalostních clanku v adresari `context/`.
+Tuto šablonu použijte pro vytváření nových znalostních článků v adresáři `context/`.
 
-## Sablona
+## Šablona
 
 ```markdown
 ---
-title: "NAZEV CLANKU"
+title: "NÁZEV ČLÁNKU"
 type: knowledge
 status: ai-generated
 version: "0.1"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-owner: "JMENO VLASTNIKA"
+owner: "JMÉNO VLASTNÍKA"
 tags: [tag1, tag2]
-domain: DOMENA
-summary: "Strucny popis obsahu"
+domain: DOMÉNA
+summary: "Stručný popis obsahu"
 ---
 
-# NAZEV CLANKU
+# NÁZEV ČLÁNKU
 
-## Prehled
+## Přehled
 
-Strucny uvod — o cem clanek je a proc je dulezity.
+Stručný úvod — o čem článek je a proč je důležitý.
 
 ## Obsah
 
@@ -48,22 +48,22 @@ Obsah sekce...
 
 Obsah sekce...
 
-## Souvisejici dokumenty
+## Související dokumenty
 
-- [Odkaz na souvisejici dokument](relativni/cesta.md)
+- [Odkaz na související dokument](relativní/cesta.md)
 
-## Zmeny
+## Změny
 
-| Datum | Verze | Popis zmeny |
+| Datum | Verze | Popis změny |
 |-------|-------|-------------|
-| YYYY-MM-DD | 0.1 | Prvni verze |
+| YYYY-MM-DD | 0.1 | První verze |
 ```
 
-## Checklist pred publikaci
+## Checklist před publikací
 
-- [ ] Frontmatter je kompletni a validni
-- [ ] Typ je spravny (`knowledge`)
-- [ ] Obsah je v cestine
-- [ ] Vsechny odkazy jsou relativni
-- [ ] Neznama data oznacena TODO
-- [ ] Soubor je pojmenovan v kebab-case
+- [ ] Frontmatter je kompletní a validní
+- [ ] Typ je správný (`knowledge`)
+- [ ] Obsah je v češtině
+- [ ] Všechny odkazy jsou relativní
+- [ ] Neznámá data označena TODO
+- [ ] Soubor je pojmenován v kebab-case

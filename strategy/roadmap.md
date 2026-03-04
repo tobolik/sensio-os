@@ -8,72 +8,72 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [roadmap, milestones, planning]
 domain: strategy
-summary: "Roadmapa firmy s milniky pro vsechny obchodni oblasti"
+summary: "Roadmapa firmy s milníky pro všechny obchodní oblasti"
 ---
 
 # Roadmapa Sensio.cz
 
-## Prehled
+## Přehled
 
-Roadmapa je organizovana podle strategickych piliru a casovych horizontu. Konkretni terminy jsou oznaceny TODO a budou doplneny po strategickem planovani.
+Roadmapa je organizována podle strategických pilířů a časových horizontů. Konkrétní termíny jsou označeny TODO a budou doplněny po strategickém plánování.
 
-## Pilir 1: Software pro ZUS
+## Pilíř 1: Software pro ZUŠ
 
-### iZUS
+### iZUŠ
 
-| Milnik | Popis | Termin | Status |
+| Milník | Popis | Termín | Status |
 |--------|-------|--------|--------|
-| TODO | Rozsireni o novy modul XYZ | TODO | TODO |
-| TODO | Mobilni aplikace pro rodice | TODO | TODO |
-| TODO | Integrace s dalsimi systemy | TODO | TODO |
-| TODO | Cil: 300 skol | TODO | TODO |
-| TODO | Cil: 400 skol | TODO | TODO |
+| TODO | Rozšíření o nový modul XYZ | TODO | TODO |
+| TODO | Mobilní aplikace pro rodiče | TODO | TODO |
+| TODO | Integrace s dalšími systémy | TODO | TODO |
+| TODO | Cíl: 300 škol | TODO | TODO |
+| TODO | Cíl: 400 škol | TODO | TODO |
 
-### EOS ZUS
+### EOS ZUŠ
 
-| Milnik | Popis | Termin | Status |
+| Milník | Popis | Termín | Status |
 |--------|-------|--------|--------|
-| TODO | Rozsireni funkcionality | TODO | TODO |
-| TODO | Integrace s novými moduly iZUS | TODO | TODO |
+| TODO | Rozšíření funkcionality | TODO | TODO |
+| TODO | Integrace s novými moduly iZUŠ | TODO | TODO |
 
-## Pilir 2: B2B reseni
+## Pilíř 2: B2B řešení
 
-| Milnik | Popis | Termin | Status |
+| Milník | Popis | Termín | Status |
 |--------|-------|--------|--------|
-| TODO | Systematizace obchodniho procesu | TODO | TODO |
-| TODO | Prvni case study | TODO | TODO |
-| TODO | Marketingova strategie B2B | TODO | TODO |
-| TODO | Cil: X aktivnich projektu | TODO | TODO |
+| TODO | Systematizace obchodního procesu | TODO | TODO |
+| TODO | První case study | TODO | TODO |
+| TODO | Marketingová strategie B2B | TODO | TODO |
+| TODO | Cíl: X aktivních projektů | TODO | TODO |
 
-## Pilir 3: Inovace
+## Pilíř 3: Inovace
 
 ### MyCello
 
-| Milnik | Popis | Termin | Status |
+| Milník | Popis | Termín | Status |
 |--------|-------|--------|--------|
-| TODO | Komercni verze produktu | TODO | TODO |
-| TODO | E-shop / distribucni kanal | TODO | TODO |
-| TODO | Mezinarodní marketing | TODO | TODO |
+| TODO | Komerční verze produktu | TODO | TODO |
+| TODO | E-shop / distribuční kanál | TODO | TODO |
+| TODO | Mezinárodní marketing | TODO | TODO |
 
 ### 3D tisk
 
-| Milnik | Popis | Termin | Status |
+| Milník | Popis | Termín | Status |
 |--------|-------|--------|--------|
-| TODO | Rozsireni kapacity | TODO | TODO |
-| TODO | Novy material / technologie | TODO | TODO |
+| TODO | Rozšíření kapacity | TODO | TODO |
+| TODO | Nový materiál / technologie | TODO | TODO |
 
-## Interní / Prurezy
+## Interní / Průřezy
 
-| Milnik | Popis | Termin | Status |
+| Milník | Popis | Termín | Status |
 |--------|-------|--------|--------|
-| Business OS | Spusteni tohoto repozitare | 2026-03 | Hotovo |
-| TODO | Rozsireni tymu | TODO | TODO |
+| Business OS | Spuštění tohoto repozitáře | 2026-03 | Hotovo |
+| TODO | Rozšíření týmu | TODO | TODO |
 | TODO | Interní procesy a automatizace | TODO | TODO |
 | TODO | AI integrace do workflow | TODO | TODO |
 
 ## Jak pracujeme s roadmapou
 
-1. **Kvartalni review** — TODO (frekvence a format)
-2. **Prioritizace** — podle [hodnoticich kriterii](../context/evaluation/criteria.md)
-3. **Aktualizace** — pri kazde zmene stavu milniku
-4. **Vazba na strategii** — kazdy milnik musi odpovidat jednomu ze strategickych piliru
+1. **Kvartální review** — TODO (frekvence a formát)
+2. **Prioritizace** — podle [hodnoticích kritérií](../context/evaluation/criteria.md)
+3. **Aktualizace** — při každé změně stavu milníku
+4. **Vazba na strategii** — každý milník musí odpovídat jednomu ze strategických pilířů

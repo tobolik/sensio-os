@@ -1,5 +1,5 @@
 ---
-title: "iZUS — Informacni system pro ZUS"
+title: "iZUŠ — Informační systém pro ZUŠ"
 type: knowledge
 status: ai-generated
 version: "0.1"
@@ -8,55 +8,55 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [product, izus, saas, zus, education]
 domain: products
-summary: "Detail produktu iZUS — SaaS informacni system pro zakladni umelecke skoly"
+summary: "Detail produktu iZUŠ — SaaS informační systém pro základní umělecké školy"
 ---
 
-# iZUS — Informacni system pro ZUS
+# iZUŠ — Informační systém pro ZUŠ
 
-## Zakladni informace
+## Základní informace
 
 | Pole | Hodnota |
 |------|---------|
-| **Nazev** | iZUS |
+| **Název** | iZUŠ |
 | **Typ** | SaaS (Software as a Service) |
-| **Cilova skupina** | Zakladni umelecke skoly (ZUS) v CR |
-| **Pocet aktivnich skol** | 250+ |
+| **Cílová skupina** | Základní umělecké školy (ZUŠ) v ČR |
+| **Počet aktivních škol** | 250+ |
 | **URL** | TODO |
 
-## Co je iZUS
+## Co je iZUŠ
 
-iZUS je komplexni informacni system navrzeny specificky pro potreby zakladnich umeleckych skol. Pokryva celou administrativu skoly od evidence zaku pres rozvrhy az po komunikaci s rodici. Je to vlajkovy produkt firmy Sensio.cz.
+iZUŠ je komplexní informační systém navržený specificky pro potřeby základních uměleckých škol. Pokrývá celou administrativu školy od evidence žáků přes rozvrhy až po komunikaci s rodiči. Je to vlajkový produkt firmy Sensio.cz.
 
-## Cilova skupina
+## Cílová skupina
 
-### Primarni uzivatele
-- **Reditele ZUS** — celkovy prehled o skole, reporty, strategicke rozhodovani
-- **Administrativni pracovnici** — evidence zaku, prihlasek, dokumentu
-- **Ucitele** — rozvrhy, docházka, hodnoceni, komunikace s rodici
+### Primární uživatelé
+- **Ředitelé ZUŠ** — celkový přehled o škole, reporty, strategické rozhodování
+- **Administrativní pracovníci** — evidence žáků, přihlášek, dokumentů
+- **Učitelé** — rozvrhy, docházka, hodnocení, komunikace s rodiči
 
-### Sekundarni uzivatele
-- **Rodice** — informace o dite, platby, komunikace se skolou
-- **Zriadovatele** — souhrnne reporty, statistiky
+### Sekundární uživatelé
+- **Rodiče** — informace o dítě, platby, komunikace se školou
+- **Zřizovatelé** — souhrnné reporty, statistiky
 
 ## Moduly
 
-### Zakladni moduly
+### Základní moduly
 | Modul | Popis |
 |-------|-------|
-| Evidence zaku | Kompletni evidence zaku, prihlasek, prestupu |
-| Rozvrhy | Tvorba a sprava rozvrhu pro individualni i skupinovou vyuku |
-| Docházka | Evidence dochazky, omluvenky |
-| Hodnoceni | Znamkovani, slovni hodnoceni, vysvědceni |
-| Komunikace | Zpravy rodicum, hromadne emaily, notifikace |
+| Evidence žáků | Kompletní evidence žáků, přihlášek, přestupů |
+| Rozvrhy | Tvorba a správa rozvrhů pro individuální i skupinovou výuku |
+| Docházka | Evidence docházky, omluvenky |
+| Hodnocení | Známkování, slovní hodnocení, vysvědčení |
+| Komunikace | Zprávy rodičům, hromadné emaily, notifikace |
 
-### Rozsirene moduly
+### Rozšířené moduly
 | Modul | Popis |
 |-------|-------|
-| Platby | Sledovani plateb skolneho, upominky |
-| Dokumenty | Generovani a sprava dokumentu |
-| Reporty | Statistiky, exporty, souhrnne reporty |
-| Prijimaci rizeni | Online prihlášky, losovani, rozhodnutí |
-| TODO | Dalsi moduly doplnit |
+| Platby | Sledování plateb školného, upomínky |
+| Dokumenty | Generování a správa dokumentů |
+| Reporty | Statistiky, exporty, souhrnné reporty |
+| Přijímací řízení | Online přihlášky, losování, rozhodnutí |
+| TODO | Další moduly doplnit |
 
 ## Technologie
 
@@ -64,37 +64,37 @@ iZUS je komplexni informacni system navrzeny specificky pro potreby zakladnich u
 |--------|------------|
 | Backend | PHP / Laravel |
 | Frontend | Vue.js |
-| Databaze | PostgreSQL |
+| Databáze | PostgreSQL |
 | Infrastruktura | Docker |
-| Verzovani | GitHub |
+| Verzování | GitHub |
 | Hosting | TODO |
 | CI/CD | TODO |
 
-## Obchodni model
+## Obchodní model
 
-| Polozka | Detail |
+| Položka | Detail |
 |---------|--------|
-| Cenovy model | Mesicni/rocni predplatne |
-| Cenova hladina | TODO |
-| Trialova verze | TODO |
+| Cenový model | Měsíční/roční předplatné |
+| Cenová hladina | TODO |
+| Trialová verze | TODO |
 | Implementace | TODO |
 | Podpora | TODO |
 
-## Konkurencni vyhody
+## Konkurenční výhody
 
-1. **Specializace na ZUS** — navrzeno specificky pro umelecke skoly, ne genericky skolni system
-2. **Pokryti cele administrativy** — jeden system pro vsechno
-3. **250+ skol** — overeno v praxi, silna uzivatelska zakladna
-4. **Prubezny vyvoj** — aktivne vyvieno na zaklade zpetne vazby skol
-5. **Ceska lokalizace** — plne v cestine, v souladu s ceskou legislativou
+1. **Specializace na ZUŠ** — navrženo specificky pro umělecké školy, ne generický školní systém
+2. **Pokrytí celé administrativy** — jeden systém pro všechno
+3. **250+ škol** — ověřeno v praxi, silná uživatelská základna
+4. **Průběžný vývoj** — aktivně vyvíjeno na základě zpětné vazby škol
+5. **Česká lokalizace** — plně v češtině, v souladu s českou legislativou
 
 ## Integrace
 
-| System | Typ integrace | Stav |
+| Systém | Typ integrace | Stav |
 |--------|--------------|------|
-| EOS ZUS | Nativni | Aktivni |
+| EOS ZUŠ | Nativní | Aktivní |
 | TODO | TODO | TODO |
 
 ## Roadmapa
 
-Viz [celkova roadmapa](../../strategy/roadmap.md).
+Viz [celková roadmapa](../../strategy/roadmap.md).

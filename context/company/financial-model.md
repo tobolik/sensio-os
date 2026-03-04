@@ -1,5 +1,5 @@
 ---
-title: "Financni model Sensio.cz"
+title: "Finanční model Sensio.cz"
 type: knowledge
 status: ai-generated
 version: "0.1"
@@ -8,37 +8,37 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [finance, business-model, revenue]
 domain: finance
-summary: "Financni model firmy — SaaS recurring revenue, projektove zakazky, hardware"
+summary: "Finanční model firmy — SaaS recurring revenue, projektové zakázky, hardware"
 ---
 
-# Financni model Sensio.cz
+# Finanční model Sensio.cz
 
-## Prehled priejmovych proudu
+## Přehled příjmových proudů
 
-Sensio.cz ma tri hlavni zdroje prijmu, kazdy s odlisnym charakterem a predvidatelnosti.
+Sensio.cz má tři hlavní zdroje příjmů, každý s odlišným charakterem a předvídatelností.
 
-## 1. SaaS Recurring Revenue (Software pro ZUS)
+## 1. SaaS Recurring Revenue (Software pro ZUŠ)
 
 ### Model
-- **Typ**: Mesicni/rocni predplatne
-- **Produkty**: iZUS, EOS ZUS
-- **Zakaznici**: 250+ ZUS (iZUS)
+- **Typ**: Měsíční/roční předplatné
+- **Produkty**: iZUŠ, EOS ZUŠ
+- **Zákazníci**: 250+ ZUŠ (iZUŠ)
 
 ### Charakteristika
-- **Predvidatelnost**: Vysoka — recurring revenue s nizkym churnem
-- **Marze**: Vysoka — software s minimalni marginalni cenou
-- **Rust**: Organicky skrze rozsireni na dalsi skoly a upsell funkci
-- **Sezonnost**: Nizka — skoly plati celorocne (mirny narust pred zacatkem skolniho roku)
+- **Předvídatelnost**: Vysoká — recurring revenue s nízkým churnem
+- **Marže**: Vysoká — software s minimální marginální cenou
+- **Růst**: Organický skrze rozšíření na další školy a upsell funkcí
+- **Sezónnost**: Nízká — školy platí celoročně (mírný nárůst před začátkem školního roku)
 
-### Cenovy model
-| Polozka | Cena |
+### Cenový model
+| Položka | Cena |
 |---------|------|
-| iZUS — zakladni balicek | TODO |
-| iZUS — rozsireny balicek | TODO |
-| EOS ZUS — rocni licence | TODO |
-| Implementace a skoleni | TODO |
+| iZUŠ — základní balíček | TODO |
+| iZUŠ — rozšířený balíček | TODO |
+| EOS ZUŠ — roční licence | TODO |
+| Implementace a školení | TODO |
 
-### Klicove metriky
+### Klíčové metriky
 - MRR (Monthly Recurring Revenue): TODO
 - ARR (Annual Recurring Revenue): TODO
 - Churn rate: TODO
@@ -46,76 +46,76 @@ Sensio.cz ma tri hlavni zdroje prijmu, kazdy s odlisnym charakterem a predvidate
 - LTV (Lifetime Value): TODO
 - CAC (Customer Acquisition Cost): TODO
 
-## 2. Projektove zakazky (B2B PRO)
+## 2. Projektové zakázky (B2B PRO)
 
 ### Model
-- **Typ**: Fixni cena nebo Time & Material
-- **Produkty**: Webove aplikace na miru
-- **Zakaznici**: Stredne velke firmy
+- **Typ**: Fixní cena nebo Time & Material
+- **Produkty**: Webové aplikace na míru
+- **Zákazníci**: Středně velké firmy
 
 ### Charakteristika
-- **Predvidatelnost**: Stredni — zavisi na akvizici novych projektu
-- **Marze**: Stredni — vyssi naklady na custom vyvoj
-- **Rust**: Skaluje s velikosti tymu
-- **Sezonnost**: Nizka
+- **Předvídatelnost**: Střední — závisí na akvizici nových projektů
+- **Marže**: Střední — vyšší náklady na custom vývoj
+- **Růst**: Škáluje s velikostí týmu
+- **Sezónnost**: Nízká
 
-### Cenovy model
-| Polozka | Cena |
+### Cenový model
+| Položka | Cena |
 |---------|------|
-| Hodinova sazba vyvoje | TODO |
-| Typicky projekt (rozsah) | TODO |
-| Mesicni udrzba a podpora | TODO |
+| Hodinová sazba vývoje | TODO |
+| Typický projekt (rozsah) | TODO |
+| Měsíční údržba a podpora | TODO |
 
-### Klicove metriky
-- Prumerny projekt revenue: TODO
-- Pocet aktivnich projektu: TODO
-- Vyuziti kapacity tymu: TODO
+### Klíčové metriky
+- Průměrný projekt revenue: TODO
+- Počet aktivních projektů: TODO
+- Využití kapacity týmu: TODO
 - Pipeline hodnota: TODO
 
 ## 3. Hardware / 3D tisk
 
 ### Model
-- **Typ**: Produktovy prodej + sluzby na zakazku
-- **Produkty**: MyCello, 3D tisky na zakazku
+- **Typ**: Produktový prodej + služby na zakázku
+- **Produkty**: MyCello, 3D tisky na zakázku
 
 ### Charakteristika
-- **Predvidatelnost**: Nizka — zatim maly objem
-- **Marze**: Variabilni — zavisi na slozitosti zakazky
-- **Rust**: Potencial vysiky, aktualne v rane fazi
-- **Sezonnost**: Nizka
+- **Předvídatelnost**: Nízká — zatím malý objem
+- **Marže**: Variabilní — závisí na složitosti zakázky
+- **Růst**: Potenciál vysoký, aktuálně v rané fázi
+- **Sezónnost**: Nízká
 
-### Cenovy model
-| Polozka | Cena |
+### Cenový model
+| Položka | Cena |
 |---------|------|
 | MyCello | TODO |
-| 3D tisk — zakladni zakazka | TODO |
-| 3D tisk — komplexni zakazka | TODO |
+| 3D tisk — základní zakázka | TODO |
+| 3D tisk — komplexní zakázka | TODO |
 
-## Celkovy financni prehled
+## Celkový finanční přehled
 
 | Metrika | Hodnota |
 |---------|---------|
-| Celkovy rocni obrat | TODO |
-| Podil SaaS priejmmu | TODO |
-| Podil B2B projektu | TODO |
-| Podil 3D tisku | TODO |
-| Celkovy pocet zamestnancu | TODO |
-| Revenue na zamestnance | TODO |
+| Celkový roční obrat | TODO |
+| Podíl SaaS příjmů | TODO |
+| Podíl B2B projektů | TODO |
+| Podíl 3D tisku | TODO |
+| Celkový počet zaměstnanců | TODO |
+| Revenue na zaměstnance | TODO |
 
-## Nakladova struktura
+## Nákladová struktura
 
-| Kategorie | Podil | Poznamka |
+| Kategorie | Podíl | Poznámka |
 |-----------|-------|----------|
-| Mzdy a odmeny | TODO | Hlavni nakladova polozka |
-| Infrastruktura (servery, sluzby) | TODO | Cloud hosting, SaaS nastroje |
-| Marketing | TODO | Prevazne online |
-| Administrativa | TODO | Ucetnictvi, pravo |
-| Hardware (3D tiskarny, material) | TODO | Variabilni |
-| Vzdelavani a rozvoj | TODO | Konference, kurzy |
+| Mzdy a odměny | TODO | Hlavní nákladová položka |
+| Infrastruktura (servery, služby) | TODO | Cloud hosting, SaaS nástroje |
+| Marketing | TODO | Převážně online |
+| Administrativa | TODO | Účetnictví, právo |
+| Hardware (3D tiskárny, materiál) | TODO | Variabilní |
+| Vzdělávání a rozvoj | TODO | Konference, kurzy |
 
-## Investicni strategie
+## Investiční strategie
 
-- Priorita: reinvestice do produktoveho vyvoje (iZUS, EOS)
-- Sekundarni: rozvoj B2B kapacit
-- Terciarni: inovace (MyCello, nove produkty)
-- Pristup: bootstrapped, bez externiho financovani (TODO — overit)
+- Priorita: reinvestice do produktového vývoje (iZUŠ, EOS)
+- Sekundární: rozvoj B2B kapacit
+- Terciární: inovace (MyCello, nové produkty)
+- Přístup: bootstrapped, bez externího financování (TODO — ověřit)
