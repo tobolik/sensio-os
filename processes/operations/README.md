@@ -1,7 +1,7 @@
 # processes/operations/
 
-Provozni procesy firmy Sensio.cz.
+Provozní procesy firmy Sensio.cz.
 
 ## Obsah
 
-- [content-publishing.md](content-publishing.md) — Proces publikovani obsahu
+- [content-publishing.md](content-publishing.md) — Proces publikování obsahu

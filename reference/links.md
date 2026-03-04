@@ -1,5 +1,5 @@
 ---
-title: "Uzitecne odkazy a zdroje"
+title: "Užitečné odkazy a zdroje"
 type: reference
 status: ai-generated
 version: "0.1"
@@ -7,52 +7,52 @@ created: 2026-03-03
 updated: 2026-03-03
 tags: [links, resources, reference]
 domain: reference
-summary: "Uzitecne odkazy a zdroje pro tym Sensio.cz"
+summary: "Užitečné odkazy a zdroje pro tým Sensio.cz"
 ---
 
-# Uzitecne odkazy a zdroje
+# Užitečné odkazy a zdroje
 
-## Firemni zdroje
+## Firemní zdroje
 
-| Nazev | URL | Popis |
+| Název | URL | Popis |
 |-------|-----|-------|
-| Sensio.cz web | TODO | Firemni web |
-| iZUS | TODO | Produktovy web iZUS |
-| EOS ZUS | TODO | Produktovy web EOS |
-| B2B PRO | TODO | Produktovy web B2B PRO |
-| MyCello | TODO | Produktovy web MyCello |
+| Sensio.cz web | TODO | Firemní web |
+| iZUŠ | TODO | Produktový web iZUŠ |
+| EOS ZUŠ | TODO | Produktový web EOS |
+| B2B PRO | TODO | Produktový web B2B PRO |
+| MyCello | TODO | Produktový web MyCello |
 
-## Vyvojove zdroje
+## Vývojové zdroje
 
-| Nazev | URL | Popis |
+| Název | URL | Popis |
 |-------|-----|-------|
-| GitHub organizace | TODO | Repozitare firmy |
+| GitHub organizace | TODO | Repozitáře firmy |
 | CI/CD | TODO | Continuous Integration |
-| Monitoring | TODO | Monitoring aplikaci |
-| Staging | TODO | Testovaci prostredi |
+| Monitoring | TODO | Monitoring aplikací |
+| Staging | TODO | Testovací prostředí |
 
-## Dokumentace technologii
+## Dokumentace technologií
 
 | Technologie | URL | Popis |
 |-------------|-----|-------|
-| Laravel | TODO | Oficialni dokumentace |
-| Vue.js | TODO | Oficialni dokumentace |
-| PostgreSQL | TODO | Oficialni dokumentace |
-| Docker | TODO | Oficialni dokumentace |
+| Laravel | TODO | Oficiální dokumentace |
+| Vue.js | TODO | Oficiální dokumentace |
+| PostgreSQL | TODO | Oficiální dokumentace |
+| Docker | TODO | Oficiální dokumentace |
 
-## Interni nastroje
+## Interní nástroje
 
-| Nazev | URL | Popis |
+| Název | URL | Popis |
 |-------|-----|-------|
-| TODO | TODO | Projektove rizeni |
-| TODO | TODO | Interni komunikace |
-| TODO | TODO | Fakturacni system |
-| TODO | TODO | Ucetni system |
+| TODO | TODO | Projektové řízení |
+| TODO | TODO | Interní komunikace |
+| TODO | TODO | Fakturační systém |
+| TODO | TODO | Účetní systém |
 
-## Vzdelavaci zdroje
+## Vzdělávací zdroje
 
-| Nazev | URL | Popis |
+| Název | URL | Popis |
 |-------|-----|-------|
-| TODO | TODO | Doporucene kurzy |
+| TODO | TODO | Doporučené kurzy |
 | TODO | TODO | Konference |
 | TODO | TODO | Blogy a newslettery |

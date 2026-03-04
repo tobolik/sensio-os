@@ -1,5 +1,5 @@
 ---
-title: "Vyvojovy proces"
+title: "Vývojový proces"
 type: process
 status: ai-generated
 version: "0.1"
@@ -8,10 +8,10 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [development, git, code-review, ci-cd, testing]
 domain: development
-summary: "Vyvojovy proces — git flow, code review, CI/CD, testing"
+summary: "Vývojový proces — git flow, code review, CI/CD, testing"
 ---
 
-# Vyvojovy proces
+# Vývojový proces
 
 ## Tech stack
 
@@ -19,13 +19,13 @@ Detaily viz [tech-stack.md](../../reference/tech-stack.md).
 
 - **Backend**: PHP / Laravel
 - **Frontend**: Vue.js
-- **Databaze**: PostgreSQL
+- **Databáze**: PostgreSQL
 - **Infrastruktura**: Docker
-- **Verzovani**: GitHub
+- **Verzování**: GitHub
 
 ## Git Flow
 
-### Vetev strategie
+### Strategie větví
 
 ```
 main ─────────────────────────────────────────────► (produkce)
@@ -42,8 +42,8 @@ main ─────────────────────────
   └── hotfix/kriticka-oprava ──────► merge do main + develop
 ```
 
-### Konvence pojmenovani vetvi
-| Typ | Format | Priklad |
+### Konvence pojmenování větví
+| Typ | Formát | Příklad |
 |-----|--------|---------|
 | Feature | `feature/popis` | `feature/student-export` |
 | Bugfix | `bugfix/popis` | `bugfix/login-error` |
@@ -51,32 +51,32 @@ main ─────────────────────────
 | Release | `release/vX.Y.Z` | `release/v2.1.0` |
 
 ### Commit messages
-- Jazyk: cestina
-- Format: strucny popis zmeny
-- Priklad: `Pridani exportu zaku do CSV`
-- Priklad: `Oprava chyby pri prihlasovani`
+- Jazyk: čeština
+- Formát: stručný popis změny
+- Příklad: `Přidání exportu žáků do CSV`
+- Příklad: `Oprava chyby při přihlašování`
 
 ## Code Review
 
 ### Proces
-1. Vyvojar vytvori Pull Request na GitHubu
-2. Vyplni [PR sablonu](../../.github/pull_request_template.md)
-3. Reviewer zkontroluje kod
+1. Vývojář vytvoří Pull Request na GitHubu
+2. Vyplní [PR šablonu](../../.github/pull_request_template.md)
+3. Reviewer zkontroluje kód
 4. Diskuze a opravy
-5. Schvaleni a merge
+5. Schválení a merge
 
 ### Co kontrolujeme
-- [ ] Funkcionalita — dela to, co ma?
-- [ ] Citelnost — je kod srozumitelny?
+- [ ] Funkcionalita — dělá to, co má?
+- [ ] Čitelnost — je kód srozumitelný?
 - [ ] Testovatelnost — jsou testy?
-- [ ] Bezpecnost — zadne zranitelnosti?
-- [ ] Výkon — zadne performance problemy?
-- [ ] Konvence — dodrzeny coding standardy?
+- [ ] Bezpečnost — žádné zranitelnosti?
+- [ ] Výkon — žádné performance problémy?
+- [ ] Konvence — dodrženy coding standardy?
 
 ### Pravidla
-- Kazdy PR musi mit alespon 1 review
-- Autor nemuze schvalit vlastni PR
-- TODO — dalsi pravidla
+- Každý PR musí mít alespoň 1 review
+- Autor nemůže schválit vlastní PR
+- TODO — další pravidla
 
 ## CI/CD
 
@@ -87,42 +87,42 @@ Push → Lint → Test → Build → Deploy (staging) → Deploy (production)
 ```
 
 ### Detaily
-| Krok | Nastroj | Popis |
+| Krok | Nástroj | Popis |
 |------|---------|-------|
-| Lint | TODO | Kontrola stylu kodu |
-| Test | TODO | Automaticke testy |
-| Build | Docker | Sestaveni aplikace |
-| Deploy staging | TODO | Nasazeni na staging |
-| Deploy production | TODO | Nasazeni do produkce |
+| Lint | TODO | Kontrola stylu kódu |
+| Test | TODO | Automatické testy |
+| Build | Docker | Sestavení aplikace |
+| Deploy staging | TODO | Nasazení na staging |
+| Deploy production | TODO | Nasazení do produkce |
 
 ## Testing
 
-### Typy testu
-| Typ | Popis | Nastroj |
+### Typy testů
+| Typ | Popis | Nástroj |
 |-----|-------|---------|
-| Unit testy | Testovani jednotlivych funkci | PHPUnit |
-| Feature testy | Testovani celych funkci | Laravel Tests |
-| Frontend testy | Testovani Vue komponent | TODO |
-| E2E testy | Testovani celych scenaru | TODO |
+| Unit testy | Testování jednotlivých funkcí | PHPUnit |
+| Feature testy | Testování celých funkcí | Laravel Tests |
+| Frontend testy | Testování Vue komponent | TODO |
+| E2E testy | Testování celých scénářů | TODO |
 
-### Pokryti
-- Cil: TODO % code coverage
-- Aktualni: TODO %
+### Pokrytí
+- Cíl: TODO % code coverage
+- Aktuální: TODO %
 
-## Prostredi
+## Prostředí
 
-| Prostredi | Ucel | URL |
+| Prostředí | Účel | URL |
 |-----------|------|-----|
-| Local | Vyvoj | localhost |
-| Staging | Testovani | TODO |
-| Production | Ostry provoz | TODO |
+| Local | Vývoj | localhost |
+| Staging | Testování | TODO |
+| Production | Ostrý provoz | TODO |
 
-## Nastroje
+## Nástroje
 
-| Nastroj | Ucel |
+| Nástroj | Účel |
 |---------|------|
-| GitHub | Verzovani, PR, issues |
+| GitHub | Verzování, PR, issues |
 | Docker | Kontejnerizace |
-| TODO | Projektove rizeni |
+| TODO | Projektové řízení |
 | TODO | Monitoring |
-| TODO | Logovani |
+| TODO | Logování |
