@@ -1,6 +1,6 @@
 # Sensio.cz Business OS
 
-Operační systém firmy **Sensio.cz s.r.o.** — strukturovaná znalostní báze, procesy, šablony a AI agenti pro řízení a rozvoj firmy.
+Operační systém firmy **[Sensio.cz](https://sensio.cz) s.r.o.** — strukturovaná znalostní báze, procesy, šablony a AI agenti pro řízení a rozvoj firmy.
 
 ## O firmě
 
