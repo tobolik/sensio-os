@@ -1,5 +1,5 @@
 ---
-title: "Proces publikovani obsahu"
+title: "Proces publikování obsahu"
 type: process
 status: ai-generated
 version: "0.1"
@@ -8,64 +8,64 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [content, publishing, marketing, process]
 domain: operations
-summary: "Proces publikovani obsahu — od napadu po publikaci"
+summary: "Proces publikování obsahu — od nápadu po publikaci"
 ---
 
-# Proces publikovani obsahu
+# Proces publikování obsahu
 
-## Prehled
+## Přehled
 
-Strukturovany proces pro tvorbu a publikovani obsahu (blog, socialni site, newsletter, dokumentace).
+Strukturovaný proces pro tvorbu a publikování obsahu (blog, sociální sítě, newsletter, dokumentace).
 
 ## Typy obsahu
 
-| Typ | Kanal | Frekvence | Cilova skupina |
+| Typ | Kanál | Frekvence | Cílová skupina |
 |-----|-------|-----------|---------------|
-| Blog clanky | Web | TODO | Potencialni klienti |
-| Socialni site | LinkedIn, Facebook | TODO | Siroka verejnost |
-| Newsletter | Email | TODO | Existujici klienti |
-| Case studies | Web | TODO | B2B potencialni klienti |
-| Napoveda / dokumentace | Web / in-app | Prubezne | Uzivatele produktu |
+| Blog články | Web | TODO | Potenciální klienti |
+| Sociální sítě | LinkedIn, Facebook | TODO | Široká veřejnost |
+| Newsletter | Email | TODO | Existující klienti |
+| Case studies | Web | TODO | B2B potenciální klienti |
+| Nápověda / dokumentace | Web / in-app | Průběžně | Uživatelé produktu |
 
 ## Proces
 
-### 1. Napad a planovani
-1. Sber nametu (interni, zpetna vazba, trendy)
-2. Zarazeni do content kalendare
-3. Urceni autora a deadline
+### 1. Nápad a plánování
+1. Sběr námětů (interní, zpětná vazba, trendy)
+2. Zařazení do content kalendáře
+3. Určení autora a deadline
 
 ### 2. Tvorba
-1. Psani obsahu (nebo generovani s pomoci AI)
-2. Tvorba vizualu (pokud potreba)
-3. Interni review
+1. Psaní obsahu (nebo generování s pomocí AI)
+2. Tvorba vizuálů (pokud potřeba)
+3. Interní review
 
-### 3. Schvaleni
-1. Kontrola faktické spravnosti
-2. Kontrola brandu a tonu (viz [SOUL.md](../../docs/SOUL.md))
+### 3. Schválení
+1. Kontrola faktické správnosti
+2. Kontrola brandu a tónu (viz [SOUL.md](../../docs/SOUL.md))
 3. Kontrola pravopisu a gramatiky
-4. Schvaleni odpovednou osobou
+4. Schválení odpovědnou osobou
 
 ### 4. Publikace
-1. Nahrani na prislusnou platformu
+1. Nahrání na příslušnou platformu
 2. SEO optimalizace (u webu)
-3. Sdileni na socialnich sitich
-4. Rozeslani newsletteru (pokud relevantni)
+3. Sdílení na sociálních sítích
+4. Rozeslání newsletteru (pokud relevantní)
 
-### 5. Vyhodnoceni
-1. Sledovani metrik (zobrazeni, engagement, konverze)
-2. Sber zpetne vazby
-3. Uceni se pro dalsi obsah
+### 5. Vyhodnocení
+1. Sledování metrik (zobrazení, engagement, konverze)
+2. Sběr zpětné vazby
+3. Učení se pro další obsah
 
-## Content kalendar
+## Content kalendář
 
-| Mesic | Tema | Typ | Kanal | Status |
+| Měsíc | Téma | Typ | Kanál | Status |
 |-------|------|-----|-------|--------|
 | TODO | TODO | TODO | TODO | TODO |
 
 ## Pravidla pro obsah
 
-- Jazyk: cestina
-- Ton: profesionální ale pristupny (viz [SOUL.md](../../docs/SOUL.md))
+- Jazyk: čeština
+- Tón: profesionální ale přístupný (viz [SOUL.md](../../docs/SOUL.md))
 - Bez clickbaitu
-- Vzdy s pridanou hodnotou pro ctenare
-- Zdrojova data overena
+- Vždy s přidanou hodnotou pro čtenáře
+- Zdrojová data ověřena

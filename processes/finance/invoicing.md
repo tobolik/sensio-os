@@ -1,5 +1,5 @@
 ---
-title: "Fakturacni proces"
+title: "Fakturační proces"
 type: process
 status: ai-generated
 version: "0.1"
@@ -8,94 +8,94 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [finance, invoicing, process]
 domain: finance
-summary: "Fakturacni proces pro vsechny produktove rady"
+summary: "Fakturační proces pro všechny produktové řady"
 ---
 
-# Fakturacni proces
+# Fakturační proces
 
-## Prehled
+## Přehled
 
-Fakturacni proces se lisi podle produktove rady. Kazda ma specificka pravidla a frekvenci.
+Fakturační proces se liší podle produktové řady. Každá má specifická pravidla a frekvenci.
 
-## iZUS — SaaS fakturace
+## iZUŠ — SaaS fakturace
 
-### Typ: Recurring (opakovana)
+### Typ: Recurring (opakovaná)
 
 | Parametr | Hodnota |
 |----------|---------|
-| Frekvence | Mesicni / rocni (dle smlouvy) |
-| Splatnost | TODO dni |
-| Zpusob uhrady | Prevod na ucet |
-| Automaticka fakturace | TODO (ano/ne) |
-| Nastroj | TODO |
+| Frekvence | Měsíční / roční (dle smlouvy) |
+| Splatnost | TODO dní |
+| Způsob úhrady | Převod na účet |
+| Automatická fakturace | TODO (ano/ne) |
+| Nástroj | TODO |
 
 ### Proces
-1. **Generovani faktury** — automaticky na zacatku fakturacniho obdobi (TODO)
-2. **Odeslani** — email s fakturou klientovi
-3. **Sledovani** — kontrola uhrady
-4. **Upominka** — po TODO dnech po splatnosti
-5. **Eskalace** — po TODO dnech bez uhrady
+1. **Generování faktury** — automaticky na začátku fakturačního období (TODO)
+2. **Odeslání** — email s fakturou klientovi
+3. **Sledování** — kontrola úhrady
+4. **Upomínka** — po TODO dnech po splatnosti
+5. **Eskalace** — po TODO dnech bez úhrady
 
-## EOS ZUS — Fakturace licence
+## EOS ZUŠ — Fakturace licence
 
-### Typ: Rocni licence
+### Typ: Roční licence
 
 | Parametr | Hodnota |
 |----------|---------|
-| Frekvence | Rocni |
-| Splatnost | TODO dni |
-| Zpusob uhrady | Prevod na ucet |
+| Frekvence | Roční |
+| Splatnost | TODO dní |
+| Způsob úhrady | Převod na účet |
 
 ### Proces
-1. Vystaveni faktury pred zacatkem licencniho obdobi
-2. Odeslani klientovi
-3. Sledovani uhrady
+1. Vystavení faktury před začátkem licenčního období
+2. Odeslání klientovi
+3. Sledování úhrady
 
-## B2B PRO — Projektova fakturace
+## B2B PRO — Projektová fakturace
 
-### Typ: Milestonova nebo mesicni
+### Typ: Milestoneová nebo měsíční
 
 | Parametr | Hodnota |
 |----------|---------|
-| Model | Dle smlouvy (fixni milestony nebo T&M) |
-| Splatnost | TODO dni |
-| Zalohova faktura | Ano (TODO % z celkove ceny) |
+| Model | Dle smlouvy (fixní milestony nebo T&M) |
+| Splatnost | TODO dní |
+| Zálohová faktura | Ano (TODO % z celkové ceny) |
 
-### Proces — Fixni cena
-1. **Zalohova faktura** — TODO % pred zahajenim
-2. **Prubezne faktury** — po dokonceni milestonu
-3. **Konecna faktura** — po predani a akceptaci
+### Proces — Fixní cena
+1. **Zálohová faktura** — TODO % před zahájením
+2. **Průběžné faktury** — po dokončení milestonu
+3. **Konečná faktura** — po předání a akceptaci
 
 ### Proces — Time & Material
-1. **Mesicni faktura** — na zaklade reportu odpracovanych hodin
-2. **Priloha** — detailni report hodin a cinnosti
+1. **Měsíční faktura** — na základě reportu odpracovaných hodin
+2. **Příloha** — detailní report hodin a činností
 
-## MyCello / 3D tisk — Produktova fakturace
+## MyCello / 3D tisk — Produktová fakturace
 
-### Typ: Jednorazova
+### Typ: Jednorázová
 
 | Parametr | Hodnota |
 |----------|---------|
-| Fakturace | Pri objednavce / po dodani |
-| Splatnost | TODO dni |
-| Zpusob uhrady | Prevod / TODO |
+| Fakturace | Při objednávce / po dodání |
+| Splatnost | TODO dní |
+| Způsob úhrady | Převod / TODO |
 
 ### Proces
-1. Potvrzeni objednavky
-2. Vystaveni faktury (proforma nebo ostra)
-3. Uhrada
-4. Dodani
+1. Potvrzení objednávky
+2. Vystavení faktury (proforma nebo ostrá)
+3. Úhrada
+4. Dodání
 
-## Nastroje
+## Nástroje
 
-| Nastroj | Ucel |
+| Nástroj | Účel |
 |---------|------|
-| TODO | Fakturacni system |
-| TODO | Ucetni system |
+| TODO | Fakturační systém |
+| TODO | Účetní systém |
 | TODO | Banka |
 
-## Ucetni uzavierka
+## Účetní uzávěrka
 
-- **Mesicni**: TODO
-- **Rocni**: TODO
-- **Externi ucetni**: TODO (ano/ne, kdo)
+- **Měsíční**: TODO
+- **Roční**: TODO
+- **Externí účetní**: TODO (ano/ne, kdo)
