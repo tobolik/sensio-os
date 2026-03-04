@@ -1,5 +1,5 @@
 ---
-title: "Inventar AI nastroju"
+title: "Inventář AI nástrojů"
 type: tool
 status: ai-generated
 version: "0.1"
@@ -8,75 +8,75 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [tools, ai, inventory, automation]
 domain: agents
-summary: "Kompletni inventar AI nastroju pouzivanych ve firme Sensio.cz"
+summary: "Kompletní inventář AI nástrojů používaných ve firmě Sensio.cz"
 ---
 
-# Inventar AI nastroju
+# Inventář AI nástrojů
 
-## Prehled
+## Přehled
 
-Seznam AI nastroju a automatizaci pouzivanych ve firme Sensio.cz.
+Seznam AI nástrojů a automatizací používaných ve firmě Sensio.cz.
 
-## AI nastroje ve firme
+## AI nástroje ve firmě
 
 ### Produktivita a obsah
 
-| Nastroj | Ucel | Pouziva | Licence |
+| Nástroj | Účel | Používá | Licence |
 |---------|------|---------|---------|
-| Claude (Anthropic) | Business OS, analyzy, obsah | Cela firma | TODO |
-| TODO | Generovani obrazku | TODO | TODO |
-| TODO | Preklad | TODO | TODO |
+| Claude (Anthropic) | Business OS, analýzy, obsah | Celá firma | TODO |
+| TODO | Generování obrázků | TODO | TODO |
+| TODO | Překlad | TODO | TODO |
 
-### Vyvoj
+### Vývoj
 
-| Nastroj | Ucel | Pouziva | Licence |
+| Nástroj | Účel | Používá | Licence |
 |---------|------|---------|---------|
-| GitHub Copilot | Asistence pri kodovani | Vyvojari | TODO |
+| GitHub Copilot | Asistence při kódování | Vývojáři | TODO |
 | TODO | Code review | TODO | TODO |
-| TODO | Testovani | TODO | TODO |
+| TODO | Testování | TODO | TODO |
 
-### Zakaznicka podpora
+### Zákaznická podpora
 
-| Nastroj | Ucel | Pouziva | Licence |
+| Nástroj | Účel | Používá | Licence |
 |---------|------|---------|---------|
-| TODO | Chatbot / prvni linie podpory | Podpora | TODO |
+| TODO | Chatbot / první linie podpory | Podpora | TODO |
 
 ### Obchod a marketing
 
-| Nastroj | Ucel | Pouziva | Licence |
+| Nástroj | Účel | Používá | Licence |
 |---------|------|---------|---------|
-| TODO | Generovani nabidek | Obchod | TODO |
+| TODO | Generování nabídek | Obchod | TODO |
 | TODO | Email marketing | Marketing | TODO |
 
-## Interni AI agenti
+## Interní AI agenti
 
-| Agent | Ucel | System prompt | Status |
+| Agent | Účel | Systémový prompt | Status |
 |-------|------|--------------|--------|
-| Zakaznicka podpora | Prvni linie podpory | [customer-support.md](../prompts/customer-support.md) | TODO |
-| Obchodni agent | Predprodejni podpora | TODO | TODO |
+| Zákaznická podpora | První linie podpory | [customer-support.md](../prompts/customer-support.md) | TODO |
+| Obchodní agent | Předprodejní podpora | TODO | TODO |
 
-## Pravidla pouzivani AI
+## Pravidla používání AI
 
-### Obecna pravidla
-1. **Transparentnost** — vzdy informovat, ze obsah vytvoril AI (pokud to je relevantni)
-2. **Kontrola** — AI vystupy vzdy kontroluje clovek pred publikaci
-3. **Data** — nezadavat do externich AI citliva firemni nebo klientska data
-4. **Kvalita** — AI je nastroj, ne nahrada za odbornost
+### Obecná pravidla
+1. **Transparentnost** — vždy informovat, že obsah vytvořil AI (pokud to je relevantní)
+2. **Kontrola** — AI výstupy vždy kontroluje člověk před publikací
+3. **Data** — nezadávat do externích AI citlivá firemní nebo klientská data
+4. **Kvalita** — AI je nástroj, ne náhrada za odbornost
 
-### Bezpecnostni pravidla
-1. Nezadavat hesla, API klice, osobni udaje do AI nastroju
-2. Nepouzivat AI pro generovani bezpecnostne kritickeho kodu bez review
-3. Neukladat citlive konverzace v externich AI sluzbach
+### Bezpečnostní pravidla
+1. Nezadávat hesla, API klíče, osobní údaje do AI nástrojů
+2. Nepoužívat AI pro generování bezpečnostně kritického kódu bez review
+3. Neukládat citlivé konverzace v externích AI službách
 
-## Hodnoceni nastroju
+## Hodnocení nástrojů
 
-Nove nastroje hodnotime dle [kriterii](../../context/evaluation/criteria.md) — sekce "Hodnoceni nastroju / technologii".
+Nové nástroje hodnotíme dle [kritérií](../../context/evaluation/criteria.md) — sekce "Hodnocení nástrojů / technologií".
 
 ## Budget
 
-| Kategorie | Mesicni naklad |
+| Kategorie | Měsíční náklad |
 |-----------|---------------|
-| AI nastroje celkem | TODO |
-| Vyvoj (Copilot, ...) | TODO |
+| AI nástroje celkem | TODO |
+| Vývoj (Copilot, ...) | TODO |
 | Produktivita (Claude, ...) | TODO |
 | Marketing | TODO |

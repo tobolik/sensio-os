@@ -1,5 +1,5 @@
 ---
-title: "Onboarding klientu"
+title: "Onboarding klientů"
 type: process
 status: ai-generated
 version: "0.1"
@@ -8,95 +8,95 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [onboarding, delivery, client, process]
 domain: delivery
-summary: "Onboarding proces pro kazdou produktovou radu"
+summary: "Onboarding proces pro každou produktovou řadu"
 ---
 
-# Onboarding klientu
+# Onboarding klientů
 
-## iZUS — Onboarding skoly
+## iZUŠ — Onboarding školy
 
-### Faze 1: Priprava (pred spustenim)
-1. **Podpis smlouvy** — odsouhlaseni podminek
-2. **Sber dat** — ziskani dat ze stavajiciho systemu (pokud existuje)
-3. **Konfigurace** — nastaveni instance pro skolu (obory, tridy, rozvrhy)
-4. **Migrace dat** — import dat zaku, ucitelu (pokud je relevantni)
+### Fáze 1: Příprava (před spuštěním)
+1. **Podpis smlouvy** — odsouhlasení podmínek
+2. **Sběr dat** — získání dat ze stávajícího systému (pokud existuje)
+3. **Konfigurace** — nastavení instance pro školu (obory, třídy, rozvrhy)
+4. **Migrace dat** — import dat žáků, učitelů (pokud je relevantní)
 
-### Faze 2: Skoleni
-1. **Skoleni administratoru** — kompletni pruchod systemem (TODO hodin)
-2. **Skoleni ucitelu** — zakladni pouzivani (TODO hodin)
-3. **Dokumentace** — predani uzivatelskeho manualu
+### Fáze 2: Školení
+1. **Školení administrátorů** — kompletní průchod systémem (TODO hodin)
+2. **Školení učitelů** — základní používání (TODO hodin)
+3. **Dokumentace** — předání uživatelského manuálu
 
-### Faze 3: Spusteni
-1. **Pilotni provoz** — paralelni beh se starym systemem (TODO tyden)
-2. **Ostry provoz** — prechod na iZUS jako primarni system
-3. **Podpora** — intenzivni podpora v prvnim mesici
+### Fáze 3: Spuštění
+1. **Pilotní provoz** — paralelní běh se starým systémem (TODO týdnů)
+2. **Ostrý provoz** — přechod na iZUŠ jako primární systém
+3. **Podpora** — intenzivní podpora v prvním měsíci
 
-### Faze 4: Stabilizace
-1. **Check-in** — kontrola po 1 mesici
-2. **Zpetna vazba** — sber zpetne vazby
-3. **Optimalizace** — doladeni nastaveni dle potreb skoly
+### Fáze 4: Stabilizace
+1. **Check-in** — kontrola po 1 měsíci
+2. **Zpětná vazba** — sběr zpětné vazby
+3. **Optimalizace** — doladění nastavení dle potřeb školy
 
-### Casovy ramec
-| Faze | Delka |
+### Časový rámec
+| Fáze | Délka |
 |------|-------|
-| Priprava | TODO |
-| Skoleni | TODO |
-| Spusteni | TODO |
+| Příprava | TODO |
+| Školení | TODO |
+| Spuštění | TODO |
 | Stabilizace | TODO |
 
 ---
 
-## EOS ZUS — Onboarding organizatora souteze
+## EOS ZUŠ — Onboarding organizátora soutěže
 
-### Faze 1: Nastaveni souteze
-1. Vytvoreni souteze v systemu
-2. Nastaveni kategorii a kriterii hodnoceni
+### Fáze 1: Nastavení soutěže
+1. Vytvoření soutěže v systému
+2. Nastavení kategorií a kritérií hodnocení
 3. Definice harmonogramu
 
-### Faze 2: Skoleni
-1. Skoleni organizatora (TODO hodin)
-2. Instruktaz porotcu
+### Fáze 2: Školení
+1. Školení organizátora (TODO hodin)
+2. Instruktáž porotců
 
-### Faze 3: Probiha soutez
-1. Technicka podpora behem souteze
-2. Monitoring systemu
+### Fáze 3: Probíhá soutěž
+1. Technická podpora během soutěže
+2. Monitoring systému
 
 ---
 
 ## B2B PRO — Onboarding klienta
 
-### Faze 1: Kickoff
+### Fáze 1: Kickoff
 1. **Kickoff meeting** — viz [project-kickoff.md](../../templates/delivery/project-kickoff.md)
-2. **Nastaveni komunikace** — dohodnuti kanalu a frekvence
-3. **Pristup** — vytvoreni pristupu do projektovcich nastroju
+2. **Nastavení komunikace** — dohodnutí kanálů a frekvence
+3. **Přístup** — vytvoření přístupů do projektových nástrojů
 
-### Faze 2: Analyza a navrh
-1. Detailni analyza pozadavku
+### Fáze 2: Analýza a návrh
+1. Detailní analýza požadavků
 2. Wireframy / prototypy
-3. Techicky navrh
-4. Odsouhlaseni klientem
+3. Technický návrh
+4. Odsouhlasení klientem
 
-### Faze 3: Vyvoj a testovani
+### Fáze 3: Vývoj a testování
 Viz [project-delivery.md](project-delivery.md)
 
-### Faze 4: Predani a podpora
-1. Nasazeni do produkce
-2. Skoleni uzivatelu
-3. Predani dokumentace
-4. Nastaveni podpurneho rezimu
+### Fáze 4: Předání a podpora
+1. Nasazení do produkce
+2. Školení uživatelů
+3. Předání dokumentace
+4. Nastavení podpůrného režimu
 
 ---
 
-## MyCello / 3D tisk — Onboarding zakaznika
+## MyCello / 3D tisk — Onboarding zákazníka
 
-### Pri nakupu MyCello
-1. Potvrzeni objednavky
-2. Informace o vyrobe a dodaci lhute
-3. Dodani + zakladni instrukce k pouzivani
-4. Follow-up po dodani
+### Při nákupu MyCello
+1. Potvrzení objednávky
+2. Informace o výrobě a dodací lhůtě
+3. Dodání + základní instrukce k používání
+4. Follow-up po dodání
 
-### Pri 3D tiskovem zakazce
-1. Prijeti pozadavku / 3D modelu
-2. Naceneni a potvrzeni
-3. Vyroba a kontrola kvality
-4. Dodani
+### Při 3D tiskové zakázce
+1. Přijetí požadavku / 3D modelu
+2. Nacenění a potvrzení
+3. Výroba a kontrola kvality
+4. Dodání

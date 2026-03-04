@@ -1,5 +1,5 @@
 ---
-title: "Slovnik pojmu"
+title: "Slovník pojmů"
 type: reference
 status: ai-generated
 version: "0.1"
@@ -7,74 +7,74 @@ created: 2026-03-03
 updated: 2026-03-03
 tags: [glossary, reference, terminology]
 domain: reference
-summary: "Slovnik pojmu — ceske business a technicke terminy pouzivane ve firme"
+summary: "Slovník pojmů — české business a technické termíny používané ve firmě"
 ---
 
-# Slovnik pojmu
+# Slovník pojmů
 
-## Firemni pojmy
+## Firemní pojmy
 
-| Pojem | Zkratka | Vyznam |
+| Pojem | Zkratka | Význam |
 |-------|---------|--------|
-| Business OS | BOS | Operacni system firmy — tento repozitar |
-| Obchodni jednotka | BU | Samostatna obchodni oblast (Software pro ZUS, B2B, 3D tisk) |
-| Architecture Decision Record | ADR | Zaznam o architektonickem rozhodnuti |
+| Business OS | BOS | Operační systém firmy — tento repozitář |
+| Obchodní jednotka | BU | Samostatná obchodní oblast (Software pro ZUŠ, B2B, 3D tisk) |
+| Architecture Decision Record | ADR | Záznam o architektonickém rozhodnutí |
 
-## Produktove pojmy
+## Produktové pojmy
 
-| Pojem | Zkratka | Vyznam |
+| Pojem | Zkratka | Význam |
 |-------|---------|--------|
-| iZUS | - | Informacni system pro zakladni umelecke skoly |
-| EOS ZUS | EOS | Online soutezni system pro souteze ZUS |
-| B2B PRO | - | Znacka pro vyvoj webovych aplikaci na miru |
-| MyCello | - | 3D tistene violoncello |
-| ZUS | - | Zakladni umelecka skola |
+| iZUŠ | - | Informační systém pro základní umělecké školy |
+| EOS ZUŠ | EOS | Online soutěžní systém pro soutěže ZUŠ |
+| B2B PRO | - | Značka pro vývoj webových aplikací na míru |
+| MyCello | - | 3D tištěné violoncello |
+| ZUŠ | - | Základní umělecká škola |
 
-## Obchodni pojmy
+## Obchodní pojmy
 
-| Pojem | Zkratka | Vyznam |
+| Pojem | Zkratka | Význam |
 |-------|---------|--------|
-| Ideal Client Profile | ICP | Profil idealniho zakaznika |
-| Discovery | - | Proces objevovani potreb klienta |
-| Pipeline | - | Seznam potencialnich obchodnich prilezitosti |
-| Lead | - | Potencialni zakaznik |
-| Conversion rate | CR | Pomer uspechu (napr. nabidka → zakazka) |
-| Churn rate | - | Mira odchodu zakazniku |
-| Upsell | - | Prodej doplnkovych sluzeb existujicimu zakaznikovi |
-| Cross-sell | - | Prodej jineho produktu existujicimu zakaznikovi |
+| Ideal Client Profile | ICP | Profil ideálního zákazníka |
+| Discovery | - | Proces objevování potřeb klienta |
+| Pipeline | - | Seznam potenciálních obchodních příležitostí |
+| Lead | - | Potenciální zákazník |
+| Conversion rate | CR | Poměr úspěchu (např. nabídka → zakázka) |
+| Churn rate | - | Míra odchodu zákazníků |
+| Upsell | - | Prodej doplňkových služeb existujícímu zákazníkovi |
+| Cross-sell | - | Prodej jiného produktu existujícímu zákazníkovi |
 
-## Financni pojmy
+## Finanční pojmy
 
-| Pojem | Zkratka | Vyznam |
+| Pojem | Zkratka | Význam |
 |-------|---------|--------|
-| Monthly Recurring Revenue | MRR | Mesicni opakovany prijem |
-| Annual Recurring Revenue | ARR | Rocni opakovany prijem |
-| Average Revenue Per User | ARPU | Prumerny prijem na uzivatele |
-| Lifetime Value | LTV | Celkova hodnota zakaznika za dobu vztahu |
-| Customer Acquisition Cost | CAC | Naklady na ziskani zakaznika |
-| Total Cost of Ownership | TCO | Celkove naklady vlastnictvi |
-| Time & Material | T&M | Model ucetovani podle odpracovaneho casu |
-| Service Level Agreement | SLA | Dohoda o urovni sluzeb |
+| Monthly Recurring Revenue | MRR | Měsíční opakovaný příjem |
+| Annual Recurring Revenue | ARR | Roční opakovaný příjem |
+| Average Revenue Per User | ARPU | Průměrný příjem na uživatele |
+| Lifetime Value | LTV | Celková hodnota zákazníka za dobu vztahu |
+| Customer Acquisition Cost | CAC | Náklady na získání zákazníka |
+| Total Cost of Ownership | TCO | Celkové náklady vlastnictví |
+| Time & Material | T&M | Model účtování podle odpracovaného času |
+| Service Level Agreement | SLA | Dohoda o úrovni služeb |
 
-## Technicke pojmy
+## Technické pojmy
 
-| Pojem | Zkratka | Vyznam |
+| Pojem | Zkratka | Význam |
 |-------|---------|--------|
-| Software as a Service | SaaS | Software jako sluzba (pronajimany model) |
-| Continuous Integration | CI | Prubezna integrace kodu |
-| Continuous Deployment | CD | Prubezne nasazovani |
-| Pull Request | PR | Zadost o zarazeni kodu do hlavni vetve |
-| Code Review | CR | Kontrola kodu kolegou |
-| User Acceptance Testing | UAT | Akceptacni testovani uzivatelem |
-| Minimum Viable Product | MVP | Minimalni zivotaschopny produkt |
+| Software as a Service | SaaS | Software jako služba (pronajímaný model) |
+| Continuous Integration | CI | Průběžná integrace kódu |
+| Continuous Deployment | CD | Průběžné nasazování |
+| Pull Request | PR | Žádost o zařazení kódu do hlavní větve |
+| Code Review | CR | Kontrola kódu kolegou |
+| User Acceptance Testing | UAT | Akceptační testování uživatelem |
+| Minimum Viable Product | MVP | Minimální životaschopný produkt |
 | FDM/FFF | - | Fused Deposition Modeling / Fused Filament Fabrication (3D tisk) |
 
-## Organizacni pojmy
+## Organizační pojmy
 
-| Pojem | Zkratka | Vyznam |
+| Pojem | Zkratka | Význam |
 |-------|---------|--------|
-| Net Promoter Score | NPS | Metrika spokojenosti a loajality zakazniku |
-| Key Performance Indicator | KPI | Klicovy ukazatel vykonnosti |
-| Objectives and Key Results | OKR | Cile a klicove vysledky |
-| Customer Satisfaction | CSAT | Spokojenost zakaznika |
-| Full-Time Equivalent | FTE | Ekvivalent plneho uvazku |
+| Net Promoter Score | NPS | Metrika spokojenosti a loajality zákazníků |
+| Key Performance Indicator | KPI | Klíčový ukazatel výkonnosti |
+| Objectives and Key Results | OKR | Cíle a klíčové výsledky |
+| Customer Satisfaction | CSAT | Spokojenost zákazníka |
+| Full-Time Equivalent | FTE | Ekvivalent plného úvazku |
