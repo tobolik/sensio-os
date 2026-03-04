@@ -1,5 +1,5 @@
 ---
-title: "Technologicky stack"
+title: "Technologický stack"
 type: reference
 status: ai-generated
 version: "0.1"
@@ -8,97 +8,97 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [tech-stack, technology, development, reference]
 domain: development
-summary: "Technologicky stack firmy Sensio.cz"
+summary: "Technologický stack firmy Sensio.cz"
 ---
 
-# Technologicky stack
+# Technologický stack
 
-## Prehled
+## Přehled
 
-Sensio.cz pouziva konzistentni tech stack napric vsemi softwarovymi produkty. To umoznuje efektivni sdileni znalosti a znovupouzitedelnost kodu.
+Sensio.cz používá konzistentní tech stack napříč všemi softwarovými produkty. To umožňuje efektivní sdílení znalostí a znovupoužitelnost kódu.
 
-## Hlavni technologie
+## Hlavní technologie
 
 ### Backend
 
-| Technologie | Verze | Ucel |
+| Technologie | Verze | Účel |
 |-------------|-------|------|
-| PHP | TODO | Hlavni programovaci jazyk |
+| PHP | TODO | Hlavní programovací jazyk |
 | Laravel | TODO | PHP framework |
-| PostgreSQL | TODO | Relacni databaze |
+| PostgreSQL | TODO | Relační databáze |
 
 ### Frontend
 
-| Technologie | Verze | Ucel |
+| Technologie | Verze | Účel |
 |-------------|-------|------|
 | Vue.js | TODO | Frontend framework |
-| JavaScript / TypeScript | TODO | Programovaci jazyk |
+| JavaScript / TypeScript | TODO | Programovací jazyk |
 | Tailwind CSS / TODO | TODO | CSS framework |
 
 ### Infrastruktura
 
-| Technologie | Verze | Ucel |
+| Technologie | Verze | Účel |
 |-------------|-------|------|
 | Docker | TODO | Kontejnerizace |
-| Docker Compose | TODO | Orchestrace lokalne |
+| Docker Compose | TODO | Orchestrace lokálně |
 | TODO | TODO | Hosting / Cloud provider |
 | TODO | TODO | CI/CD |
 | TODO | TODO | Monitoring |
-| TODO | TODO | Logovani |
+| TODO | TODO | Logování |
 
-### Verzovani a spoluprace
+### Verzování a spolupráce
 
-| Technologie | Ucel |
+| Technologie | Účel |
 |-------------|------|
-| Git | Verzovani kodu |
-| GitHub | Hosting repozitaru, PR, issues |
+| Git | Verzování kódu |
+| GitHub | Hosting repozitářů, PR, issues |
 
-## Vyvojove nastroje
+## Vývojové nástroje
 
-| Nastroj | Ucel |
+| Nástroj | Účel |
 |---------|------|
 | TODO | IDE / editor |
-| Docker | Lokalni vyvojove prostredi |
-| TODO | API testovani (Postman, Insomnia, ...) |
-| TODO | Databazovy klient |
-| GitHub Copilot | AI asistence pri vyvoji |
+| Docker | Lokální vývojové prostředí |
+| TODO | API testování (Postman, Insomnia, ...) |
+| TODO | Databázový klient |
+| GitHub Copilot | AI asistence při vývoji |
 
-## Testovaci nastroje
+## Testovací nástroje
 
-| Nastroj | Typ testu |
+| Nástroj | Typ testu |
 |---------|----------|
 | PHPUnit | Unit testy (PHP) |
 | Laravel Tests | Feature testy |
 | TODO | Frontend testy |
 | TODO | E2E testy |
 
-## Externi sluzby
+## Externí služby
 
-| Sluzba | Ucel |
+| Služba | Účel |
 |--------|------|
-| TODO | Email (transakcni) |
+| TODO | Email (transakční) |
 | TODO | Email (marketing) |
-| TODO | Platebni brana |
+| TODO | Platební brána |
 | TODO | SMS notifikace |
 | TODO | CDN |
 | TODO | Backup |
 
 ## 3D tisk — technologie
 
-| Technologie | Ucel |
+| Technologie | Účel |
 |-------------|------|
-| FDM/FFF tiskarny | Zakladni 3D tisk |
-| TODO | 3D modelovani (software) |
+| FDM/FFF tiskárny | Základní 3D tisk |
+| TODO | 3D modelování (software) |
 | TODO | Slicer software |
-| TODO | Materialy (PLA, PETG, ABS, ...) |
+| TODO | Materiály (PLA, PETG, ABS, ...) |
 
-## Principy vyberu technologii
+## Principy výběru technologií
 
-1. **Overene a stabilni** — preferujeme overene technologie s velkou komunitou
-2. **Konzistentni** — pouzivame stejny stack napric projekty
-3. **Open source preferovany** — kde to dava smysl
-4. **Hodnocení** — nove technologie hodnotime dle [kriterii](../context/evaluation/criteria.md)
+1. **Ověřené a stabilní** — preferujeme ověřené technologie s velkou komunitou
+2. **Konzistentní** — používáme stejný stack napříč projekty
+3. **Open source preferovaný** — kde to dává smysl
+4. **Hodnocení** — nové technologie hodnotíme dle [kritérií](../context/evaluation/criteria.md)
 
-## Zmeny tech stacku
+## Změny tech stacku
 
-Zmeny v tech stacku dokumentujeme jako ADR v [strategy/decisions/](../strategy/decisions/).
+Změny v tech stacku dokumentujeme jako ADR v [strategy/decisions/](../strategy/decisions/).

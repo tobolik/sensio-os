@@ -1,5 +1,5 @@
 ---
-title: "Proces dodavky projektu"
+title: "Proces dodávky projektu"
 type: process
 status: ai-generated
 version: "0.1"
@@ -8,104 +8,104 @@ updated: 2026-03-03
 owner: "Miroslav Tobolka"
 tags: [delivery, project, process, development]
 domain: delivery
-summary: "Proces dodavky projektu od kickoffu po predani"
+summary: "Proces dodávky projektu od kickoffu po předání"
 ---
 
-# Proces dodavky projektu
+# Proces dodávky projektu
 
-## Prehled
+## Přehled
 
-Strukturovany proces pro dodavku softwarovych projektu (prevazne B2B PRO, ale aplikovatelny i na interni projekty).
+Strukturovaný proces pro dodávku softwarových projektů (převážně B2B PRO, ale aplikovatelný i na interní projekty).
 
-## Faze projektu
+## Fáze projektu
 
 ### 1. Kickoff
 
-**Cil**: Sladit ocekavani a nastavit spolupra|ci.
+**Cíl**: Sladit očekávání a nastavit spolupráci.
 
 **Aktivity**:
-- Kickoff meeting s klientem ([sablona](../../templates/delivery/project-kickoff.md))
-- Definice cilů a kritérií uspechu
-- Nastaveni komunikacnich kanalu
-- Urceni kontaktnich osob na obou stranach
-- Nastaveni pristupu do nastroju
+- Kickoff meeting s klientem ([šablona](../../templates/delivery/project-kickoff.md))
+- Definice cílů a kritérií úspěchu
+- Nastavení komunikačních kanálů
+- Určení kontaktních osob na obou stranách
+- Nastavení přístupů do nástrojů
 
-**Vystup**: Zapis z kickoffu, projektovy plan
+**Výstup**: Zápis z kickoffu, projektový plán
 
-### 2. Analyza a navrh
+### 2. Analýza a návrh
 
-**Cil**: Detailne pochopit pozadavky a navrhnout reseni.
-
-**Aktivity**:
-- Sber a analyza pozadavku
-- Tvorba wireframu / mockupu
-- Technicky navrh architektury
-- Odsouhlaseni s klientem
-
-**Vystup**: Specifikace, wireframy, technicky navrh
-
-### 3. Vyvoj
-
-**Cil**: Implementovat reseni dle specifikace.
+**Cíl**: Detailně pochopit požadavky a navrhnout řešení.
 
 **Aktivity**:
-- Vyvoj po sprintech / iteracich (TODO — delka sprintu)
-- Pravidelne demo klientovi
-- Code review a testovani
-- Prubezna komunikace o postupu
+- Sběr a analýza požadavků
+- Tvorba wireframů / mockupů
+- Technický návrh architektury
+- Odsouhlasení s klientem
 
-**Proces vyvoje**: Viz [software-development.md](../development/software-development.md)
+**Výstup**: Specifikace, wireframy, technický návrh
 
-**Vystup**: Funkcni software
+### 3. Vývoj
 
-### 4. Testovani
-
-**Cil**: Overit kvalitu a funkcionalitu.
+**Cíl**: Implementovat řešení dle specifikace.
 
 **Aktivity**:
-- Interni testovani (manualni + automaticke)
+- Vývoj po sprintech / iteracích (TODO — délka sprintu)
+- Pravidelné demo klientovi
+- Code review a testování
+- Průběžná komunikace o postupu
+
+**Proces vývoje**: Viz [software-development.md](../development/software-development.md)
+
+**Výstup**: Funkční software
+
+### 4. Testování
+
+**Cíl**: Ověřit kvalitu a funkcionalitu.
+
+**Aktivity**:
+- Interní testování (manuální + automatické)
 - UAT (User Acceptance Testing) s klientem
-- Oprava nalezenych chyb
-- Performance testovani (pokud relevantni)
+- Oprava nalezených chyb
+- Performance testování (pokud relevantní)
 
-**Vystup**: Otestovany software pripraveny k nasazeni
+**Výstup**: Otestovaný software připravený k nasazení
 
-### 5. Nasazeni
+### 5. Nasazení
 
-**Cil**: Dostat software do produkce.
+**Cíl**: Dostat software do produkce.
 
 **Aktivity**:
-- Priprava produkčního prostredi
-- Nasazeni (deployment)
-- Migrace dat (pokud relevantni)
+- Příprava produkčního prostředí
+- Nasazení (deployment)
+- Migrace dat (pokud relevantní)
 - Smoke testing v produkci
 
-**Vystup**: Software bezici v produkci
+**Výstup**: Software běžící v produkci
 
-### 6. Predani a podpora
+### 6. Předání a podpora
 
-**Cil**: Predat projekt klientovi a nastavit podporu.
+**Cíl**: Předat projekt klientovi a nastavit podporu.
 
 **Aktivity**:
-- Skoleni uzivatelu
-- Predani dokumentace
-- Nastaveni podpurneho rezimu (SLA)
+- Školení uživatelů
+- Předání dokumentace
+- Nastavení podpůrného režimu (SLA)
 - Retrospektiva projektu
 
-**Vystup**: Spokojeny klient, dokumentace, SLA
+**Výstup**: Spokojený klient, dokumentace, SLA
 
-## Komunikace behem projektu
+## Komunikace během projektu
 
-| Co | Frekvence | Format | Ucastnici |
+| Co | Frekvence | Formát | Účastníci |
 |---|-----------|--------|-----------|
-| Status update | Tydenni | Email/zprava | PM + klient |
-| Demo | Konec sprintu | Video/osobne | Tym + klient |
+| Status update | Týdenní | Email/zpráva | PM + klient |
+| Demo | Konec sprintu | Video/osobně | Tým + klient |
 | Eskalace | Ad hoc | Hovor | Jednatel + klient |
 
-## Rizeni rizik
+## Řízení rizik
 
 | Riziko | Prevence | Reakce |
 |--------|----------|--------|
-| Zmena pozadavku | Jasna specifikace, change request proces | Nacenení a odsouhlaseni zmeny |
-| Zpozdeni | Buffer v harmonogramu, prubezny monitoring | Komunikace s klientem, reprioritizace |
-| Technicke problemy | Code review, testovani, architektura | Eskalace v tymu, alternativni reseni |
+| Změna požadavků | Jasná specifikace, change request proces | Nacenění a odsouhlasení změny |
+| Zpoždění | Buffer v harmonogramu, průběžný monitoring | Komunikace s klientem, reprioritizace |
+| Technické problémy | Code review, testování, architektura | Eskalace v týmu, alternativní řešení |
